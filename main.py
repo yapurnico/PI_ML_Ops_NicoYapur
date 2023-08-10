@@ -91,7 +91,7 @@ def franquicia(nombre_franquicia: str):
         ganancia_total_formatted = "{:.2f}".format(ganancia_total)
         ganancia_promedio_formatted = "{:.2f}".format(ganancia_promedio)
         
-        return f"La franquicia {nombre_franquicia} cuenta con {cantidad_pelis} peliculas, produjo una ganancia Bruta de {ganancia_total_formatted} y una ganancia Bruta promedio por pelicula de {ganancia_promedio_formatted}"
+        return f"La franquicia {nombre_franquicia} cuenta con {cantidad_pelis} peliculas, produjo unos Ingresos de {ganancia_total_formatted} y unos Ingresos Promedio por pelicula de {ganancia_promedio_formatted}"
     else:
         return "La franquicia no existe en el catalogo o prueba escribiendo de la siguiente forma -> Ej: 'Toy Story Collection' "
     
@@ -126,7 +126,7 @@ def productoras_exitosas(nombre_productora: str):
         filtro = movies_df_func5.loc[movies_df_func5["company_name"] == nombre_productora]
         ganancia_productora = filtro["revenue"].sum()
         cantidad_pelis_productora = filtro["Movie_id"].count()
-        return f"La productora {nombre_productora} produjo una ganancia total Bruta de {ganancia_productora} y realizo una cantidad de {cantidad_pelis_productora} peliculas"
+        return f"La productora {nombre_productora} produjo los Ingresos Totales de {ganancia_productora} y realizo una cantidad de {cantidad_pelis_productora} peliculas"
     else:
         return "Nombre de Productora no esta en la lista o error de escritura intenta escribirlo de la siguiente forma -> Ej: 'Pixar Animation Studios' "
     
@@ -152,9 +152,9 @@ def get_director(nombre_director):
             movie_info = {
                 "Nombre Pelicula": row["title"],
                 "Fecha de Estreno": row["release_date"],
-                "Ganancia Bruta": row["return"],
+                "Ingresos": row["return"],
                 "Presupuesto": row["budget"],
-                "Ganancia Neta": row["revenue"]
+                "Retorno,Ingresos/Presupuesto": row["revenue"]
             }
             movies_info.append(movie_info)
         

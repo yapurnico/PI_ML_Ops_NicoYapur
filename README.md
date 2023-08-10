@@ -11,7 +11,7 @@
 - API development   
 - EDA
 - Machine Learning
-- Video
+- Video and API
 - Extra Files
 
 ## Introduction
@@ -68,10 +68,11 @@ In the Exploratory Data Analysis (EDA), I began by loading the data from the ETL
 - After conducting testing, I opted to use the 'cosine_similarity' model in the 'main.py' file and integrated it accordingly.
 
 
-## Video
+## Video and API
 
-Heere is a link to a video showing my API succesfully deployed in Render and being tested.
+Heere I share two links, the first to my API Deployed in Render, the second to a video showing my API succesfully deployed in Render and being tested.
 
+-- [ Try API](https://ml-ops-nicoyapur.onrender.com/docs)
 -- [ Watch Video](link)
 
 Provide instructions on how to install and set up your project.
