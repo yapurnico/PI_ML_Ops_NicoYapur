@@ -72,7 +72,7 @@ In the Exploratory Data Analysis (EDA), I began by loading the data from the ETL
 
 Heere is a link to a video showing my API succesfully deployed in Render and being tested.
 
--- link
+-- [ Watch Video](link)
 
 Provide instructions on how to install and set up your project.
 
@@ -82,3 +82,4 @@ Provide instructions on how to install and set up your project.
 - I added a requirements file to specify the libraries to use while deploying in Render.
 - I added a .gitignore file to ignore unnecesary files and prevent them to be loaded to github.
 - 'credits.csv' and 'movies_dataset.csv' where the data given to develop the project.
+- 'credits.csv' exceeded the limit size of github and was added to gitignore.
