@@ -1,0 +1,3001 @@
+title,popularity_fixed,genero1,genero2,genero3,cluster,genres
+Toy Story,30.0,Animation,Comedy,Family,0,Animation Comedy Family
+Jumanji,65.0,Adventure,Fantasy,Family,-1,Adventure Fantasy Family
+Grumpier Old Men,0.0,Romance,Comedy,,0,Romance Comedy
+Waiting to Exhale,16.0,Comedy,Drama,Romance,1,Comedy Drama Romance
+Father of the Bride Part II,0.0,Comedy,,,0,Comedy
+Heat,60.0,Action,Crime,Drama,0,Action Crime Drama
+Sabrina,58.0,Comedy,Romance,,2,Comedy Romance
+Tom and Huck,0.0,Action,Adventure,Drama,0,Action Adventure Drama
+Sudden Death,35.0,Action,Adventure,Thriller,0,Action Adventure Thriller
+GoldenEye,58.0,Adventure,Action,Thriller,-1,Adventure Action Thriller
+The American President,62.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+Dracula: Dead and Loving It,0.0,Comedy,Horror,,0,Comedy Horror
+Balto,0.0,Family,Animation,Adventure,-1,Family Animation Adventure
+Nixon,44.0,History,Drama,,-1,History Drama
+Cutthroat Island,98.0,Action,Adventure,,3,Action Adventure
+Casino,52.0,Drama,Crime,,-1,Drama Crime
+Sense and Sensibility,16.5,Drama,Romance,,4,Drama Romance
+Four Rooms,4.0,Crime,Comedy,,5,Crime Comedy
+Ace Ventura: When Nature Calls,30.0,Crime,Comedy,Adventure,0,Crime Comedy Adventure
+Money Train,60.0,Action,Comedy,Crime,0,Action Comedy Crime
+Get Shorty,30.25,Comedy,Thriller,Crime,-1,Comedy Thriller Crime
+Copycat,0.0,Drama,Thriller,,-1,Drama Thriller
+Assassins,50.0,Action,Adventure,Crime,-1,Action Adventure Crime
+Powder,0.0,Drama,Fantasy,Science,-1,Drama Fantasy Science
+Leaving Las Vegas,3.6,Drama,Romance,,0,Drama Romance
+Othello,0.0,Drama,,,6,Drama
+Now and Then,12.0,Comedy,Drama,Family,-1,Comedy Drama Family
+Persuasion,0.0,Drama,Romance,,-1,Drama Romance
+The City of Lost Children,18.0,Fantasy,Science,Fiction,0,Fantasy Science Fiction
+Shanghai Triad,0.0,Drama,Crime,,-1,Drama Crime
+Dangerous Minds,0.0,Drama,Crime,,0,Drama Crime
+Twelve Monkeys,29.5,Science,Fiction,Thriller,-1,Science Fiction Thriller
+Wings of Courage,0.0,Romance,Adventure,,0,Romance Adventure
+Babe,30.0,Fantasy,Drama,Comedy,0,Fantasy Drama Comedy
+Carrington,0.0,History,Drama,Romance,-1,History Drama Romance
+Dead Man Walking,11.0,Drama,,,0,Drama
+Across the Sea of Time,0.0,Adventure,History,Drama,0,Adventure History Drama
+It Takes Two,0.0,Comedy,Family,Romance,0,Comedy Family Romance
+Clueless,12.0,Comedy,Drama,Romance,-1,Comedy Drama Romance
+"Cry, the Beloved Country",0.0,Drama,,,0,Drama
+Richard III,0.0,Drama,War,,0,Drama War
+Dead Presidents,10.0,Action,Crime,Drama,0,Action Crime Drama
+Restoration,19.0,Drama,Romance,,-1,Drama Romance
+Mortal Kombat,18.0,Action,Fantasy,,7,Action Fantasy
+To Die For,20.0,Fantasy,Drama,Comedy,0,Fantasy Drama Comedy
+How To Make An American Quilt,10.0,Drama,Romance,,0,Drama Romance
+Se7en,33.0,Crime,Mystery,Thriller,-1,Crime Mystery Thriller
+Pocahontas,55.0,Adventure,Animation,Drama,-1,Adventure Animation Drama
+When Night Is Falling,0.0,Drama,Romance,,0,Drama Romance
+The Usual Suspects,6.0,Drama,Crime,Thriller,-1,Drama Crime Thriller
+Guardian Angel,0.0,Action,Thriller,Drama,8,Action Thriller Drama
+Mighty Aphrodite,15.0,Comedy,Romance,,0,Comedy Romance
+Lamerica,0.0,Drama,Foreign,,-1,Drama Foreign
+The Big Green,0.0,Action,Adventure,Comedy,0,Action Adventure Comedy
+Georgia,0.0,Drama,,,-1,Drama
+Kids of the Round Table,0.0,,,,0,
+Home for the Holidays,0.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+The Postman,0.0,Comedy,Drama,Romance,9,Comedy Drama Romance
+The Confessional,0.0,Thriller,Drama,Mystery,-1,Thriller Drama Mystery
+The Indian in the Cupboard,45.0,Adventure,Family,Fantasy,-1,Adventure Family Fantasy
+Eye for an Eye,20.0,Drama,Thriller,,0,Drama Thriller
+Mr. Holland's Opus,0.0,Music,Drama,Family,0,Music Drama Family
+Don't Be a Menace to South Central While Drinking Your Juice in the Hood,0.0,Comedy,,,-1,Comedy
+Two If by Sea,0.0,Comedy,Romance,,0,Comedy Romance
+Bio-Dome,15.0,Comedy,,,-1,Comedy
+Lawnmower Man 2: Beyond Cyberspace,0.0,Action,Science,Fiction,0,Action Science Fiction
+Two Bits,0.0,Drama,Family,,-1,Drama Family
+French Twist,0.0,Comedy,Romance,,0,Comedy Romance
+Friday,3.5,Comedy,,,0,Comedy
+From Dusk Till Dawn,19.0,Horror,Action,Thriller,-1,Horror Action Thriller
+Fair Game,50.0,Action,Thriller,Romance,0,Action Thriller Romance
+Kicking and Screaming,0.0,Comedy,Drama,Romance,10,Comedy Drama Romance
+Les Miserables,0.0,Drama,History,,11,Drama History
+Bed of Roses,0.0,Drama,Romance,,-1,Drama Romance
+Big Bully,15.0,Comedy,Family,,0,Comedy Family
+Screamers,20.0,Horror,Science,Fiction,-1,Horror Science Fiction
+Nico Icon,0.0,Documentary,,,-1,Documentary
+The Crossing Guard,0.0,Drama,Thriller,,0,Drama Thriller
+The Juror,44.0,Drama,Thriller,,-1,Drama Thriller
+The White Balloon,0.0,Family,Drama,,0,Family Drama
+Things to Do in Denver When You're Dead,8.0,Drama,Crime,,0,Drama Crime
+Antonia's Line,0.9,Drama,Comedy,,0,Drama Comedy
+Once Upon a Time... When We Were Colored,0.0,Romance,Drama,,0,Romance Drama
+Last Summer in the Hamptons,0.0,,,,0,
+Angels and Insects,0.0,Drama,Romance,,0,Drama Romance
+White Squall,38.0,Action,Drama,,0,Action Drama
+Dunston Checks In,16.0,Adventure,Comedy,Family,-1,Adventure Comedy Family
+Black Sheep,0.0,Comedy,,,0,Comedy
+Nick of Time,8.169363,Crime,Drama,Thriller,0,Crime Drama Thriller
+The Journey of August King,0.0,Drama,,,0,Drama
+Mary Reilly,47.0,Drama,Horror,Thriller,0,Drama Horror Thriller
+Vampire in Brooklyn,14.0,Comedy,Horror,Romance,12,Comedy Horror Romance
+Beautiful Girls,0.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+Broken Arrow,50.0,Action,Adventure,Drama,13,Action Adventure Drama
+A Midwinter's Tale,0.0,Comedy,,,14,Comedy
+La Haine,3.0,Drama,,,15,Drama
+Shopping,0.0,Action,Adventure,Drama,-1,Action Adventure Drama
+Heidi Fleiss: Hollywood Madam,0.0,Documentary,,,0,Documentary
+City Hall,0.0,Drama,Thriller,,0,Drama Thriller
+Bottle Rocket,7.0,Comedy,Crime,Drama,16,Comedy Crime Drama
+Mr. Wrong,0.0,Comedy,Romance,,0,Comedy Romance
+Unforgettable,18.0,Drama,Mystery,Science,0,Drama Mystery Science
+Happy Gilmore,12.0,Comedy,,,0,Comedy
+The Bridges of Madison County,24.0,Drama,Romance,,17,Drama Romance
+Nobody Loves Me,0.0,Drama,Comedy,Family,-1,Drama Comedy Family
+Muppet Treasure Island,0.0,Action,Comedy,Music,3,Action Comedy Music
+Catwalk,0.0,Documentary,,,-1,Documentary
+Headless Body in Topless Bar,0.0,Crime,,,0,Crime
+Braveheart,72.0,Action,Drama,History,-1,Action Drama History
+Taxi Driver,1.3,Crime,Drama,,-1,Crime Drama
+Rumble in the Bronx,7.5,Crime,Action,Comedy,14,Crime Action Comedy
+Before and After,35.0,Drama,Thriller,,-1,Drama Thriller
+Margaret's Museum,0.0,Drama,,,-1,Drama
+Happiness Is in the Field,13.365,Comedy,,,0,Comedy
+Anne Frank Remembered,0.0,Documentary,Drama,Foreign,18,Documentary Drama Foreign
+The Young Poisoner's Handbook,0.0,Comedy,Crime,Drama,0,Comedy Crime Drama
+If Lucy Fell,0.0,Comedy,Romance,,19,Comedy Romance
+Steal Big Steal Little,25.0,Comedy,Drama,,0,Comedy Drama
+Race the Sun,0.0,Action,Adventure,Comedy,0,Action Adventure Comedy
+The Boys of St. Vincent,0.0,Drama,,,0,Drama
+Boomerang,40.0,Comedy,Romance,,-1,Comedy Romance
+Chungking Express,0.0,Drama,Comedy,Romance,-1,Drama Comedy Romance
+The Star Maker,0.0,Drama,Romance,,0,Drama Romance
+Flirting with Disaster,7.0,Comedy,Romance,,-1,Comedy Romance
+The Neverending Story III: Escape from Fantasia,17.0,Fantasy,,,0,Fantasy
+The Silences of the Palace,0.0,Drama,,,20,Drama
+Jupiter's Wife,0.0,,,,0,
+Pie in the Sky,0.0,Comedy,Romance,,0,Comedy Romance
+Angela,0.0,Comedy,Drama,,-1,Comedy Drama
+Frankie Starlight,0.0,Drama,Romance,War,-1,Drama Romance War
+Jade,50.0,Action,Thriller,Mystery,-1,Action Thriller Mystery
+Nueba Yol,0.0,Comedy,Drama,Romance,-1,Comedy Drama Romance
+Sonic Outlaws,0.0,Music,Documentary,,-1,Music Documentary
+Down Periscope,0.0,Comedy,,,-1,Comedy
+From the Journals of Jean Seberg,0.0,Documentary,,,21,Documentary
+Man of the Year,0.0,Comedy,,,0,Comedy
+The Neon Bible,0.0,Drama,,,-1,Drama
+Target,0.0,,,,0,
+Up Close & Personal,60.0,Drama,Romance,,22,Drama Romance
+The Birdcage,31.0,Comedy,,,-1,Comedy
+Virgin Mary,0.0,Drama,,,0,Drama
+The Brothers McMullen,0.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+Bad Boys,19.0,Action,Comedy,Crime,0,Action Comedy Crime
+The Amazing Panda Adventure,0.0,Action,Adventure,Drama,0,Action Adventure Drama
+The Basketball Diaries,0.0,Drama,Crime,,-1,Drama Crime
+An Awfully Big Adventure,4.0,Romance,Drama,Comedy,0,Romance Drama Comedy
+Amateur,0.0,Crime,Comedy,Drama,-1,Crime Comedy Drama
+Apollo 13,52.0,Drama,,,-1,Drama
+Rob Roy,28.0,Adventure,,,-1,Adventure
+The Addiction,0.0,Drama,Horror,,-1,Drama Horror
+Batman Forever,100.0,Action,Crime,Fantasy,0,Action Crime Fantasy
+Belle de Jour,0.0,Drama,Romance,,-1,Drama Romance
+Beyond Rangoon,0.0,Drama,Thriller,,-1,Drama Thriller
+Blue in the Face,2.0,Comedy,,,0,Comedy
+Canadian Bacon,11.0,Action,Comedy,,-1,Action Comedy
+Casper,50.0,Fantasy,Comedy,Family,-1,Fantasy Comedy Family
+Clockers,25.0,Mystery,Crime,Drama,-1,Mystery Crime Drama
+Congo,50.0,Action,Adventure,Drama,-1,Action Adventure Drama
+Crimson Tide,53.0,Action,Thriller,Drama,-1,Action Thriller Drama
+Crumb,0.0,Documentary,,,-1,Documentary
+Desperado,7.0,Thriller,Action,Crime,-1,Thriller Action Crime
+Devil in a Blue Dress,27.0,Drama,Mystery,Thriller,0,Drama Mystery Thriller
+Die Hard: With a Vengeance,90.0,Action,Thriller,,0,Action Thriller
+The Doom Generation,0.0,Action,Comedy,Crime,-1,Action Comedy Crime
+Feast of July,0.0,Drama,Crime,,-1,Drama Crime
+First Knight,55.0,Action,Adventure,Drama,0,Action Adventure Drama
+Free Willy 2 - The Adventure Home,0.0,Adventure,,,0,Adventure
+Hackers,20.0,Action,Crime,Thriller,-1,Action Crime Thriller
+Jeffrey,0.0,Comedy,Drama,Romance,-1,Comedy Drama Romance
+Johnny Mnemonic,25.0,Adventure,Action,Drama,23,Adventure Action Drama
+Judge Dredd,90.0,Science,Fiction,,-1,Science Fiction
+Jury Duty,0.0,Comedy,Drama,,24,Comedy Drama
+Kids,1.5,Drama,Crime,,0,Drama Crime
+Living in Oblivion,0.5,Drama,Comedy,,0,Drama Comedy
+Lord of Illusions,0.0,Mystery,Horror,Thriller,0,Mystery Horror Thriller
+Love & Human Remains,0.0,Comedy,Drama,,0,Comedy Drama
+Mad Love,0.0,Drama,Family,Romance,0,Drama Family Romance
+Mallrats,6.0,Romance,Comedy,,-1,Romance Comedy
+Mighty Morphin Power Rangers: The Movie,15.0,Action,Adventure,Science,0,Action Adventure Science
+Moonlight and Valentino,0.0,Comedy,Drama,Romance,-1,Comedy Drama Romance
+Mute Witness,2e-06,Thriller,Foreign,,25,Thriller Foreign
+Nadja,0.0,Horror,Thriller,,-1,Horror Thriller
+The Net,22.0,Crime,Drama,Mystery,-1,Crime Drama Mystery
+Nine Months,0.0,Comedy,,,-1,Comedy
+Party Girl,0.15,Comedy,,,0,Comedy
+The Prophecy,8e-06,Fantasy,Horror,Thriller,0,Fantasy Horror Thriller
+Reckless,0.0,Fantasy,Comedy,Drama,-1,Fantasy Comedy Drama
+Safe,0.0,Drama,,,0,Drama
+The Scarlet Letter,50.0,Drama,History,Romance,0,Drama History Romance
+The Show,0.0,Documentary,,,-1,Documentary
+Showgirls,45.0,Drama,,,-1,Drama
+Smoke,7.0,Comedy,Drama,,26,Comedy Drama
+Something to Talk About,0.0,Comedy,,,0,Comedy
+Species,35.0,Science,Fiction,Horror,0,Science Fiction Horror
+The Stars Fell on Henrietta,0.0,Drama,,,19,Drama
+Strange Days,42.0,Crime,Drama,Science,0,Crime Drama Science
+The Umbrellas of Cherbourg,0.0,Drama,Romance,,-1,Drama Romance
+The Tie That Binds,14.0,Thriller,,,27,Thriller
+Three Wishes,0.0,Drama,Fantasy,,-1,Drama Fantasy
+Total Eclipse,0.0,Drama,Romance,,28,Drama Romance
+"To Wong Foo, Thanks for Everything! Julie Newmar",0.0,Comedy,,,29,Comedy
+Under Siege 2: Dark Territory,60.0,Action,Thriller,,0,Action Thriller
+Unstrung Heroes,0.0,Comedy,Drama,Family,30,Comedy Drama Family
+Unzipped,0.0,Documentary,,,-1,Documentary
+A Walk in the Clouds,20.0,Drama,Romance,,0,Drama Romance
+Waterworld,175.0,Adventure,Action,,-1,Adventure Action
+White Man's Burden,8.0,Drama,,,0,Drama
+Wild Bill,30.0,Action,Western,,0,Action Western
+The Browning Version,0.0,Drama,,,-1,Drama
+Bushwhacked,0.0,Adventure,Action,Comedy,-1,Adventure Action Comedy
+Burnt by the Sun,2.8,Drama,,,0,Drama
+Before the Rain,0.0,Drama,War,,0,Drama War
+Before Sunrise,2.5,Drama,Romance,,31,Drama Romance
+Billy Madison,10.0,Comedy,,,17,Comedy
+The Babysitter,0.0,Drama,Thriller,,-1,Drama Thriller
+Boys on the Side,21.0,Comedy,Drama,,0,Comedy Drama
+The Cure,0.0,Drama,Family,,-1,Drama Family
+Castle Freak,0.0,Thriller,Drama,Horror,32,Thriller Drama Horror
+Circle of Friends,0.0,Drama,Family,Romance,0,Drama Family Romance
+Clerks,0.027,Comedy,,,-1,Comedy
+Don Juan DeMarco,25.0,Romance,Drama,Comedy,0,Romance Drama Comedy
+Disclosure,55.0,Drama,Thriller,Crime,-1,Drama Thriller Crime
+Dream Man,0.0,Thriller,,,0,Thriller
+Drop Zone,45.0,Action,Adventure,Thriller,0,Action Adventure Thriller
+Destiny Turns on the Radio,0.0,Crime,Comedy,Fantasy,-1,Crime Comedy Fantasy
+Death and the Maiden,0.0,Drama,Thriller,Mystery,0,Drama Thriller Mystery
+Dolores Claiborne,0.0,Crime,Drama,Mystery,-1,Crime Drama Mystery
+Dumb and Dumber,16.0,Comedy,,,-1,Comedy
+Eat Drink Man Woman,0.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+Exotica,0.0,Drama,Mystery,,-1,Drama Mystery
+Exit to Eden,0.0,Thriller,Comedy,Crime,33,Thriller Comedy Crime
+Ed Wood,18.0,Comedy,Drama,History,0,Comedy Drama History
+French Kiss,0.0,Comedy,Romance,,0,Comedy Romance
+Forget Paris,0.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+Far from Home: The Adventures of Yellow Dog,0.0,Action,Adventure,Drama,0,Action Adventure Drama
+A Goofy Movie,0.0,Romance,Animation,Family,0,Romance Animation Family
+Hideaway,15.0,Drama,Thriller,,-1,Drama Thriller
+Fluke,0.0,Drama,Family,Fantasy,-1,Drama Family Fantasy
+Farinelli,0.0,History,Drama,,-1,History Drama
+Gordy,0.0,Drama,Family,Fantasy,-1,Drama Family Fantasy
+Gumby: The Movie,0.0,Fantasy,Animation,Science,0,Fantasy Animation Science
+The Glass Shield,0.0,Drama,Action,Thriller,-1,Drama Action Thriller
+Hoop Dreams,0.7,Documentary,,,0,Documentary
+Heavenly Creatures,5.0,Drama,Fantasy,,0,Drama Fantasy
+Houseguest,10.5,Comedy,Family,,-1,Comedy Family
+Immortal Beloved,0.00012,Drama,Music,Romance,0,Drama Music Romance
+Heavyweights,0.0,Comedy,Family,Drama,-1,Comedy Family Drama
+The Hunted,0.0,Action,Thriller,,-1,Action Thriller
+I.Q.,25.0,Comedy,Drama,Romance,-1,Comedy Drama Romance
+Interview with the Vampire,60.0,Horror,Romance,,12,Horror Romance
+Jefferson in Paris,14.0,Drama,Romance,,0,Drama Romance
+The Jerky Boys,0.0,Comedy,Crime,,0,Comedy Crime
+Junior,60.0,Comedy,Family,Romance,-1,Comedy Family Romance
+Just Cause,0.0,Action,Drama,Mystery,0,Action Drama Mystery
+A Kid in King Arthur's Court,0.0,Adventure,Fantasy,Comedy,0,Adventure Fantasy Comedy
+Kiss of Death,40.0,Action,Crime,Drama,0,Action Crime Drama
+Star Wars,11.0,Adventure,Action,Science,0,Adventure Action Science
+Little Women,18.0,Drama,Romance,,0,Drama Romance
+A Little Princess,17.0,Drama,Family,Fantasy,0,Drama Family Fantasy
+Ladybird Ladybird,0.0,Drama,,,-1,Drama
+L'Enfer,10.0,Crime,Drama,,-1,Crime Drama
+Like Water for Chocolate,2.0,Drama,Romance,,0,Drama Romance
+Legends of the Fall,30.0,Adventure,Drama,Romance,0,Adventure Drama Romance
+Major Payne,0.0,Adventure,Comedy,Family,34,Adventure Comedy Family
+Little Odessa,0.0,Action,Drama,,0,Action Drama
+Mi Vida Loca,0.0,Crime,Drama,,-1,Crime Drama
+Love Affair,60.0,Drama,Romance,,0,Drama Romance
+Losing Isaiah,17.0,Drama,,,35,Drama
+The Madness of King George,0.0,Comedy,Drama,History,0,Comedy Drama History
+Mary Shelley's Frankenstein,45.0,Drama,Horror,Science,0,Drama Horror Science
+Man of the House,0.0,Action,Comedy,Family,0,Action Comedy Family
+Mixed Nuts,15.0,Comedy,Drama,Romance,-1,Comedy Drama Romance
+Milk Money,0.0,Comedy,Romance,,0,Comedy Romance
+Miracle on 34th Street,0.0,Fantasy,Drama,Family,0,Fantasy Drama Family
+Miami Rhapsody,6e-06,Comedy,Romance,,-1,Comedy Romance
+My Family,5.5,Comedy,Drama,,0,Comedy Drama
+Murder in the First,0.0,Crime,Drama,,0,Crime Drama
+Nobody's Fool,0.0,Drama,Comedy,,0,Drama Comedy
+Nell,31.0,Drama,Thriller,,-1,Drama Thriller
+New Jersey Drive,0.0,Crime,Drama,,0,Crime Drama
+New York Cop,0.0,Action,Thriller,Crime,0,Action Thriller Crime
+Beyond Bedlam,4.8,Horror,,,-1,Horror
+Nemesis 2 - Nebula,0.0,Science,Fiction,Action,-1,Science Fiction Action
+Nina Takes a Lover,0.0,Drama,Romance,,0,Drama Romance
+Natural Born Killers,34.0,Crime,Thriller,Drama,0,Crime Thriller Drama
+Only You,0.0,Comedy,Drama,Romance,-1,Comedy Drama Romance
+Once Were Warriors,0.0,Drama,,,36,Drama
+Poison Ivy II: Lily,0.0,Drama,Romance,Thriller,0,Drama Romance Thriller
+Outbreak,50.0,Action,Drama,Science,-1,Action Drama Science
+Leon: The Professional,16.0,Thriller,Crime,Drama,-1,Thriller Crime Drama
+The Perez Family,11.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+A Pyromaniac's Love Story,0.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+Pulp Fiction,8.0,Thriller,Crime,,-1,Thriller Crime
+Panther,0.0,Drama,,,0,Drama
+Pushing Hands,0.4,Comedy,Drama,,0,Comedy Drama
+Priest,0.0,Drama,Romance,,37,Drama Romance
+Quiz Show,0.0,History,Drama,,-1,History Drama
+Picture Bride,0.0,Drama,History,,0,Drama History
+Queen Margot,0.0,Drama,History,,0,Drama History
+The Quick and the Dead,32.0,Action,Western,,0,Action Western
+Roommates,22.0,Drama,Comedy,,-1,Drama Comedy
+Prêt-à-Porter,15.0,Drama,Comedy,,-1,Drama Comedy
+Three Colors: Red,0.0,Drama,Mystery,Romance,0,Drama Mystery Romance
+Three Colors: Blue,0.0,Drama,Music,Mystery,0,Drama Music Mystery
+Three Colors: White,0.0,Comedy,Drama,Mystery,0,Comedy Drama Mystery
+"Red Firecracker, Green Firecracker",0.0,Drama,,,0,Drama
+Rent-a-Kid,0.0,Comedy,Family,TV,0,Comedy Family TV
+Relative Fear,0.0,Horror,Drama,,0,Horror Drama
+Stuart Saves His Family,0.0,Comedy,Drama,,0,Comedy Drama
+The Swan Princess,35.0,Animation,,,0,Animation
+The Secret of Roan Inish,0.0,Drama,Family,Fantasy,0,Drama Family Fantasy
+The Specialist,45.0,Action,Thriller,,-1,Action Thriller
+Stargate,55.0,Action,Adventure,Science,-1,Action Adventure Science
+The Santa Clause,22.0,Fantasy,Drama,Comedy,0,Fantasy Drama Comedy
+The Shawshank Redemption,25.0,Drama,Crime,,-1,Drama Crime
+Shallow Grave,0.0,Crime,Thriller,,38,Crime Thriller
+Suture,0.0,Drama,Thriller,,-1,Drama Thriller
+Strawberry and Chocolate,0.0,Comedy,Drama,,0,Comedy Drama
+Swimming with Sharks,0.0,Crime,Comedy,,-1,Crime Comedy
+The Sum of Us,3.2e-05,Comedy,Drama,Romance,-1,Comedy Drama Romance
+Senior Trip,0.0,Comedy,,,39,Comedy
+To Live,0.0,Drama,Romance,War,0,Drama Romance War
+Tank Girl,25.0,Action,Comedy,Fantasy,0,Action Comedy Fantasy
+Tales from the Crypt: Demon Knight,0.0,Horror,Comedy,Thriller,0,Horror Comedy Thriller
+Star Trek: Generations,38.0,Science,Fiction,Action,0,Science Fiction Action
+Tales from the Hood,6.0,Crime,Horror,Thriller,0,Crime Horror Thriller
+Tom & Viv,0.0,Drama,Romance,,0,Drama Romance
+Village of the Damned,0.0,Thriller,Horror,Science,0,Thriller Horror Science
+Tommy Boy,0.0,Comedy,,,0,Comedy
+Vanya on 42nd Street,0.0,Drama,Romance,,0,Drama Romance
+The Underneath,6.5,Thriller,Crime,,-1,Thriller Crime
+The Walking Dead,0.0,Drama,War,,0,Drama War
+What's Eating Gilbert Grape,11.0,Romance,Drama,,-1,Romance Drama
+Virtuosity,30.0,Action,Crime,Science,-1,Action Crime Science
+While You Were Sleeping,17.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+The War,0.0,Drama,,,0,Drama
+Double Happiness,0.0,Comedy,Romance,,0,Comedy Romance
+Muriel's Wedding,3.0,Drama,Comedy,Romance,0,Drama Comedy Romance
+The Baby-Sitters Club,0.0,Comedy,Drama,Family,8,Comedy Drama Family
+Ace Ventura: Pet Detective,15.0,Comedy,Mystery,,0,Comedy Mystery
+"The Adventures of Priscilla, Queen of the Desert",0.0,Drama,Comedy,,0,Drama Comedy
+Backbeat,0.0,Drama,Music,,-1,Drama Music
+Bitter Moon,5.0,Thriller,Drama,Romance,0,Thriller Drama Romance
+Bullets Over Broadway,0.0,Action,Comedy,Thriller,40,Action Comedy Thriller
+Clear and Present Danger,62.0,Action,Drama,Thriller,-1,Action Drama Thriller
+The Client,45.0,Drama,Thriller,Crime,-1,Drama Thriller Crime
+"Corrina, Corrina",0.0,Comedy,Drama,Family,-1,Comedy Drama Family
+Crooklyn,0.0,Comedy,Drama,,-1,Comedy Drama
+The Crow,15.0,Fantasy,Action,Thriller,0,Fantasy Action Thriller
+Cobb,0.0,Drama,,,-1,Drama
+The Flintstones,46.0,Fantasy,Comedy,Family,-1,Fantasy Comedy Family
+Forrest Gump,55.0,Comedy,Drama,Romance,-1,Comedy Drama Romance
+Four Weddings and a Funeral,6.0,Comedy,Drama,Romance,41,Comedy Drama Romance
+Higher Learning,0.0,Romance,Drama,Crime,-1,Romance Drama Crime
+I Like It Like That,0.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+I Love Trouble,45.0,Action,Comedy,Romance,0,Action Comedy Romance
+It Could Happen to You,0.0,Comedy,Drama,Romance,-1,Comedy Drama Romance
+The Jungle Book,0.0,Adventure,Drama,Family,42,Adventure Drama Family
+"The Wonderful, Horrible Life of Leni Riefenstahl",0.0,Documentary,Foreign,,0,Documentary Foreign
+The Lion King,45.0,Family,Animation,Drama,0,Family Animation Drama
+Little Buddha,35.0,Drama,History,,0,Drama History
+New Nightmare,14.0,Horror,Thriller,Mystery,0,Horror Thriller Mystery
+The Mask,23.0,Romance,Comedy,Crime,0,Romance Comedy Crime
+Maverick,0.0,Action,Adventure,Comedy,-1,Action Adventure Comedy
+Mrs. Parker and the Vicious Circle,0.0,Drama,,,0,Drama
+The Naked Gun 33⅓: The Final Insult,30.0,Comedy,Crime,,0,Comedy Crime
+The Paper,6.0,Comedy,Drama,,-1,Comedy Drama
+Reality Bites,11.5,Drama,,,-1,Drama
+Red Rock West,8.0,Crime,Drama,Thriller,0,Crime Drama Thriller
+Ri¢hie Ri¢h,40.0,Comedy,Family,,-1,Comedy Family
+Safe Passage,0.0,Drama,,,0,Drama
+The River Wild,45.0,Action,Adventure,Crime,0,Action Adventure Crime
+Speed,30.0,Action,Adventure,Crime,43,Action Adventure Crime
+Speechless,0.0,Comedy,Romance,,-1,Comedy Romance
+Timecop,27.0,Thriller,Science,Fiction,-1,Thriller Science Fiction
+True Lies,115.0,Action,Thriller,,0,Action Thriller
+When a Man Loves a Woman,0.0,Drama,Romance,,0,Drama Romance
+Wolf,0.0,Fantasy,,,0,Fantasy
+Wyatt Earp,63.0,Drama,Action,Western,-1,Drama Action Western
+Bad Company,0.0,Action,Crime,Romance,0,Action Crime Romance
+A Man of No Importance,0.0,Comedy,Drama,,0,Comedy Drama
+S.F.W.,0.0,Comedy,Drama,,-1,Comedy Drama
+A Low Down Dirty Shame,10.0,Action,Comedy,Crime,44,Action Comedy Crime
+"Boys Life: Three Stories of Love, Lust, and Liberation",0.0,Drama,,,0,Drama
+Colonel Chabert,0.0,Drama,,,-1,Drama
+"Faster, Pussycat! Kill! Kill!",0.045,Action,Crime,,0,Action Crime
+Jason's Lyric,7.0,Crime,Drama,Romance,-1,Crime Drama Romance
+The Secret Adventures of Tom Thumb,0.0,Animation,Science,Fiction,0,Animation Science Fiction
+Street Fighter,35.0,Action,Adventure,Thriller,0,Action Adventure Thriller
+Coldblooded,0.0,Action,Comedy,,-1,Action Comedy
+Desert Winds,0.0,,,,0,
+Fall Time,0.0,Action,Adventure,Crime,0,Action Adventure Crime
+The Fear,0.0,Horror,Thriller,,0,Horror Thriller
+Frank and Ollie,0.0,Documentary,,,18,Documentary
+Girl in the Cadillac,0.0,Romance,Adventure,Crime,0,Romance Adventure Crime
+Homage,0.0,Thriller,Drama,,-1,Thriller Drama
+Mirage,0.0,Action,Thriller,,-1,Action Thriller
+Open Season,0.0,Comedy,,,0,Comedy
+Dos Crímenes,0.0,,,,-1,
+Brother Minister: The Assassination of Malcolm X,0.0,Documentary,,,0,Documentary
+Highlander: The Final Dimension,26.0,Action,Fantasy,Science,45,Action Fantasy Science
+Federal Hill,0.0,,,,0,
+In the Mouth of Madness,8.0,Horror,Mystery,Thriller,46,Horror Mystery Thriller
+8 Seconds,0.0,Drama,Romance,,-1,Drama Romance
+Above the Rim,0.0,Crime,Drama,,-1,Crime Drama
+Addams Family Values,0.0,Comedy,Family,Fantasy,0,Comedy Family Fantasy
+Martin Lawrence: You So Crazy,0.0,Comedy,,,0,Comedy
+The Age of Innocence,34.0,Drama,Romance,,0,Drama Romance
+Airheads,0.0,Comedy,Crime,Music,-1,Comedy Crime Music
+The Air Up There,17.08,Comedy,Family,,0,Comedy Family
+Another Stakeout,0.0,Action,Comedy,,-1,Action Comedy
+Bad Girls,0.0,Action,Adventure,Comedy,0,Action Adventure Comedy
+Barcelona,3.2,Comedy,Drama,Romance,-1,Comedy Drama Romance
+Being Human,40.0,Drama,Comedy,Fantasy,0,Drama Comedy Fantasy
+The Beverly Hillbillies,0.0,Comedy,,,0,Comedy
+Beverly Hills Cop III,50.0,Action,Comedy,Crime,0,Action Comedy Crime
+Black Beauty,0.0,Action,Adventure,Drama,0,Action Adventure Drama
+Blink,0.0,Mystery,Crime,Drama,-1,Mystery Crime Drama
+Blown Away,0.0,Drama,Action,Thriller,0,Drama Action Thriller
+Blue Chips,0.0,Drama,,,0,Drama
+Blue Sky,0.0,Drama,Romance,,0,Drama Romance
+Body Snatchers,13.0,Horror,Science,Fiction,0,Horror Science Fiction
+Boxing Helena,0.0,Drama,Romance,,-1,Drama Romance
+A Bronx Tale,22.0,Drama,Crime,,14,Drama Crime
+Cabin Boy,0.0,Comedy,,,0,Comedy
+Calendar Girl,13.0,Drama,Comedy,,0,Drama Comedy
+Carlito's Way,30.0,Action,Crime,Drama,0,Action Crime Drama
+City Slickers II: The Legend of Curly's Gold,0.0,Action,Comedy,Drama,0,Action Comedy Drama
+Clean Slate,0.0,Comedy,Thriller,Mystery,-1,Comedy Thriller Mystery
+Cliffhanger,70.0,Action,Adventure,Thriller,-1,Action Adventure Thriller
+Coneheads,0.0,Comedy,Science,Fiction,-1,Comedy Science Fiction
+Color of Night,40.0,Drama,Mystery,Romance,0,Drama Mystery Romance
+Cops & Robbersons,0.0,Action,Comedy,Family,-1,Action Comedy Family
+The Cowboy Way,0.0,Western,Action,Comedy,0,Western Action Comedy
+Dangerous Game,0.0,Drama,,,0,Drama
+Dave,0.0,Comedy,,,-1,Comedy
+Dazed and Confused,6.9,Comedy,Drama,,-1,Comedy Drama
+Demolition Man,57.0,Crime,Action,Science,0,Crime Action Science
+The Endless Summer 2,0.0,Documentary,,,0,Documentary
+Even Cowgirls Get the Blues,8.0,Western,Drama,Comedy,0,Western Drama Comedy
+Fatal Instinct,0.0,Comedy,,,47,Comedy
+Farewell My Concubine,0.0,Drama,,,0,Drama
+The Favor,0.0,Drama,Comedy,Romance,-1,Drama Comedy Romance
+Fearless,0.0,Drama,,,-1,Drama
+Fear of a Black Hat,0.0,Comedy,,,0,Comedy
+With Honors,0.0,Comedy,Drama,,-1,Comedy Drama
+Flesh and Bone,0.0,Drama,Mystery,Romance,0,Drama Mystery Romance
+Widows' Peak,0.0,Comedy,Thriller,Mystery,48,Comedy Thriller Mystery
+For Love or Money,30.0,Comedy,Romance,,0,Comedy Romance
+The Firm,42.0,Drama,Mystery,Thriller,-1,Drama Mystery Thriller
+Free Willy,20.0,Family,Adventure,,0,Family Adventure
+Fresh,0.0,Crime,Drama,Thriller,-1,Crime Drama Thriller
+The Fugitive,44.0,Adventure,Action,Thriller,-1,Adventure Action Thriller
+Geronimo: An American Legend,35.0,History,Action,Drama,0,History Action Drama
+The Getaway,0.0,Drama,Action,Thriller,-1,Drama Action Thriller
+Getting Even with Dad,30.0,Family,Comedy,Crime,-1,Family Comedy Crime
+Go Fish,0.0,Drama,Romance,,0,Drama Romance
+A Good Man in Africa,0.0,Comedy,Drama,,0,Comedy Drama
+Guilty as Sin,0.0,Drama,Thriller,,-1,Drama Thriller
+Hard Target,18.0,Action,Adventure,Crime,0,Action Adventure Crime
+Heaven & Earth,33.0,History,War,Action,0,History War Action
+Hot Shots! Part Deux,25.0,Action,Comedy,War,-1,Action Comedy War
+Live Nude Girls,0.0,Comedy,,,0,Comedy
+The Englishman Who Went Up a Hill But Came Down a Mountain,0.0,Drama,Comedy,Romance,0,Drama Comedy Romance
+The House of the Spirits,25.0,Romance,Drama,,0,Romance Drama
+House Party 3,0.0,Comedy,,,0,Comedy
+The Hudsucker Proxy,30.0,Comedy,Drama,,-1,Comedy Drama
+I'll Do Anything,40.0,Comedy,Drama,,0,Comedy Drama
+In the Army Now,0.0,Comedy,,,49,Comedy
+In the Line of Fire,40.0,Action,Drama,Thriller,0,Action Drama Thriller
+In the Name of the Father,13.0,Drama,,,0,Drama
+The Inkwell,0.0,Comedy,Drama,Romance,-1,Comedy Drama Romance
+What's Love Got to Do with It,0.0,Drama,Music,,0,Drama Music
+Jimmy Hollywood,30.0,Comedy,,,0,Comedy
+Judgment Night,0.0,Action,Thriller,Crime,0,Action Thriller Crime
+Jurassic Park,63.0,Adventure,Science,Fiction,0,Adventure Science Fiction
+Kalifornia,9.0,Thriller,Crime,,-1,Thriller Crime
+Killing Zoe,1.5,Action,Crime,Drama,50,Action Crime Drama
+King of the Hill,0.0,Drama,,,0,Drama
+Lassie,0.0,Action,Adventure,Drama,-1,Action Adventure Drama
+Last Action Hero,85.0,Adventure,Fantasy,Action,0,Adventure Fantasy Action
+Life With Mikey,0.0,Comedy,Family,,0,Comedy Family
+Lightning Jack,0.0,Action,Comedy,Western,51,Action Comedy Western
+M. Butterfly,0.0,Drama,Romance,,0,Drama Romance
+Made in America,22.0,Comedy,,,0,Comedy
+Malice,0.0,Drama,Crime,,-1,Drama Crime
+The Man without a Face,0.0,Drama,,,0,Drama
+Manhattan Murder Mystery,13.5,Comedy,Mystery,,0,Comedy Mystery
+Menace II Society,3.5,Drama,Action,Crime,0,Drama Action Crime
+Executive Decision,55.0,Action,Adventure,Drama,0,Action Adventure Drama
+In the Realm of the Senses,0.0,Drama,Romance,,-1,Drama Romance
+What Happened Was...,0.0,Thriller,Comedy,Drama,0,Thriller Comedy Drama
+Much Ado About Nothing,8.0,Drama,Comedy,Romance,-1,Drama Comedy Romance
+Mr. Jones,0.0,Drama,Romance,,0,Drama Romance
+Mr. Wonderful,0.0,Comedy,Romance,,0,Comedy Romance
+Mrs. Doubtfire,25.0,Comedy,Drama,Family,0,Comedy Drama Family
+Naked,0.0,Comedy,Drama,,0,Comedy Drama
+The Next Karate Kid,12.0,Adventure,,,0,Adventure
+The New Age,0.0,Comedy,Drama,,0,Comedy Drama
+No Escape,20.0,Action,Drama,Science,0,Action Drama Science
+North,40.0,Comedy,Drama,Family,0,Comedy Drama Family
+Orlando,4.0,Romance,Drama,Fantasy,-1,Romance Drama Fantasy
+A Perfect World,30.0,Crime,Drama,Thriller,0,Crime Drama Thriller
+Philadelphia,26.0,Drama,,,0,Drama
+The Piano,7.0,Drama,Romance,,-1,Drama Romance
+Poetic Justice,14.0,Drama,Romance,,-1,Drama Romance
+The Program,0.0,Drama,,,-1,Drama
+The Puppet Masters,0.0,Horror,Science,Fiction,-1,Horror Science Fiction
+Radioland Murders,0.0,Comedy,Crime,Drama,-1,Comedy Crime Drama
+The Ref,11.0,Comedy,,,-1,Comedy
+The Remains of the Day,11.5,Drama,Romance,,0,Drama Romance
+Renaissance Man,40.0,Comedy,War,,0,Comedy War
+Rising Sun,0.0,Action,Drama,Thriller,0,Action Drama Thriller
+The Road to Wellville,0.0,Comedy,Romance,,0,Comedy Romance
+RoboCop 3,22.0,Action,Adventure,Crime,52,Action Adventure Crime
+Robin Hood: Men in Tights,20.0,Comedy,,,0,Comedy
+Romeo Is Bleeding,11.5,Action,Crime,Drama,53,Action Crime Drama
+Romper Stomper,0.0,Action,Drama,Thriller,-1,Action Drama Thriller
+Ruby in Paradise,0.8,Drama,Romance,,0,Drama Romance
+Rudy,12.0,Drama,,,-1,Drama
+The Saint of Fort Washington,0.0,Drama,,,54,Drama
+Savage Nights,0.0,Drama,,,55,Drama
+Schindler's List,22.0,Drama,History,War,-1,Drama History War
+The Scout,0.0,Comedy,Drama,,-1,Comedy Drama
+Searching for Bobby Fischer,0.0,Drama,,,-1,Drama
+Second Best,0.0,Drama,,,0,Drama
+The Secret Garden,0.0,Drama,Family,Fantasy,0,Drama Family Fantasy
+Serial Mom,13.0,Comedy,Crime,Horror,0,Comedy Crime Horror
+The Shadow,25.0,Adventure,Fantasy,Action,0,Adventure Fantasy Action
+Shadowlands,22.0,Drama,Romance,,-1,Drama Romance
+Short Cuts,0.0,Comedy,Drama,,56,Comedy Drama
+A Simple Twist of Fate,0.0,Drama,Family,,0,Drama Family
+Sirens,0.0,Comedy,Drama,,-1,Comedy Drama
+Six Degrees of Separation,0.0,Mystery,Drama,Comedy,-1,Mystery Drama Comedy
+Sleepless in Seattle,21.0,Comedy,Drama,Romance,-1,Comedy Drama Romance
+Sliver,40.0,Drama,Thriller,,-1,Drama Thriller
+Blade Runner,28.0,Science,Fiction,Drama,57,Science Fiction Drama
+Son in Law,0.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+So I Married an Axe Murderer,20.0,Comedy,Crime,Romance,0,Comedy Crime Romance
+Striking Distance,3e-05,Crime,Action,Mystery,-1,Crime Action Mystery
+Harem,0.0,History,Drama,Romance,-1,History Drama Romance
+Super Mario Bros.,48.0,Adventure,Comedy,Family,-1,Adventure Comedy Family
+Surviving the Game,7.4,Action,Adventure,Thriller,0,Action Adventure Thriller
+Terminal Velocity,50.0,Action,Thriller,,58,Action Thriller
+Thirty Two Short Films About Glenn Gould,0.0,Drama,Music,,56,Drama Music
+Threesome,0.0,Comedy,Drama,Family,-1,Comedy Drama Family
+The Nightmare Before Christmas,18.0,Fantasy,Animation,Family,0,Fantasy Animation Family
+The Three Musketeers,30.0,Action,Adventure,Comedy,-1,Action Adventure Comedy
+Tombstone,25.0,Action,Adventure,Drama,-1,Action Adventure Drama
+Trial by Jury,0.0,Drama,Action,Thriller,24,Drama Action Thriller
+True Romance,12.5,Action,Thriller,Crime,0,Action Thriller Crime
+The War Room,0.0,Documentary,History,,0,Documentary History
+The Pagemaster,27.0,Fantasy,Science,Fiction,-1,Fantasy Science Fiction
+"Paris, France",0.0,Drama,Comedy,,0,Drama Comedy
+"The Beans of Egypt, Maine",0.0,,,,59,
+Killer,0.0,Thriller,Drama,Romance,0,Thriller Drama Romance
+Welcome to the Dollhouse,0.0,Comedy,Drama,,0,Comedy Drama
+Germinal,0.0,Drama,Romance,,-1,Drama Romance
+Chasers,0.0,Comedy,Romance,,-1,Comedy Romance
+Cronos,0.0,Drama,Horror,Thriller,-1,Drama Horror Thriller
+Naked in New York,0.0,Comedy,Romance,,0,Comedy Romance
+Kika,0.0,Comedy,Drama,,-1,Comedy Drama
+Bhaji on the Beach,0.0,Comedy,Drama,,0,Comedy Drama
+Little Big League,0.0,Comedy,Family,,0,Comedy Family
+The Slingshot,0.0,Drama,,,-1,Drama
+Wide Eyed and Legless,0.0,TV,Movie,Drama,0,TV Movie Drama
+Foreign Student,0.0,Drama,Romance,,60,Drama Romance
+"Ciao, Professore!",0.0,Comedy,Foreign,,-1,Comedy Foreign
+Spanking the Monkey,0.2,Comedy,Drama,,61,Comedy Drama
+The Little Rascals,0.0,Romance,Comedy,Family,0,Romance Comedy Family
+À la mode,0.0,Comedy,,,15,Comedy
+Andre,0.0,Drama,Family,Adventure,-1,Drama Family Adventure
+The Escort,0.0,Thriller,Crime,Drama,-1,Thriller Crime Drama
+Princess Caraboo,0.0,Comedy,Drama,History,0,Comedy Drama History
+The Celluloid Closet,0.0,History,Documentary,,-1,History Documentary
+Café au Lait,0.0,Drama,Comedy,Romance,-1,Drama Comedy Romance
+Dear Diary,0.0,Comedy,Drama,,0,Comedy Drama
+I Don't Want to Talk About It,0.0,Romance,Drama,,0,Romance Drama
+The Brady Bunch Movie,0.0,Comedy,,,0,Comedy
+Home Alone,18.0,Comedy,Family,,0,Comedy Family
+Ghost,22.0,Fantasy,Drama,Thriller,0,Fantasy Drama Thriller
+Aladdin,28.0,Animation,Family,Comedy,0,Animation Family Comedy
+Terminator 2: Judgment Day,100.0,Action,Thriller,Science,0,Action Thriller Science
+Dances with Wolves,22.0,Adventure,Drama,Western,-1,Adventure Drama Western
+Tough and Deadly,0.0,Thriller,Action,Drama,0,Thriller Action Drama
+Batman,35.0,Fantasy,Action,,0,Fantasy Action
+The Silence of the Lambs,19.0,Crime,Drama,Thriller,62,Crime Drama Thriller
+Snow White and the Seven Dwarfs,1.488423,Fantasy,Animation,Family,0,Fantasy Animation Family
+Beauty and the Beast,25.0,Romance,Family,Animation,0,Romance Family Animation
+Pinocchio,2.6,Animation,Family,,0,Animation Family
+Pretty Woman,14.0,Romance,Comedy,,0,Romance Comedy
+Window to Paris,0.0,Comedy,Drama,Fantasy,0,Comedy Drama Fantasy
+The Wild Bunch,6.244087,Adventure,Western,,0,Adventure Western
+Love and a .45,0.0,Crime,Thriller,,0,Crime Thriller
+The Wooden Man's Bride,0.0,Drama,Foreign,Romance,0,Drama Foreign Romance
+A Great Day in Harlem,0.0,,,,0,
+Bye Bye Love,0.0,Comedy,Romance,,0,Comedy Romance
+One Fine Day,0.0,Comedy,Romance,,0,Comedy Romance
+Candyman: Farewell to the Flesh,0.0,Horror,,,0,Horror
+Century,0.0,Romance,Drama,,0,Romance Drama
+Fargo,7.0,Crime,Drama,Thriller,-1,Crime Drama Thriller
+Homeward Bound II: Lost in San Francisco,0.0,Adventure,Comedy,Drama,0,Adventure Comedy Drama
+Heavy Metal,9.3,Animation,Science,Fiction,63,Animation Science Fiction
+Hellraiser: Bloodline,4.0,Horror,Thriller,Science,-1,Horror Thriller Science
+The Pallbearer,8.0,Comedy,Romance,,-1,Comedy Romance
+Jane Eyre,0.0,Drama,Romance,,64,Drama Romance
+Loaded,0.5,Drama,Mystery,Thriller,-1,Drama Mystery Thriller
+Bread and Chocolate,0.0,Comedy,Foreign,,0,Comedy Foreign
+The Aristocats,4.0,Animation,Comedy,Family,-1,Animation Comedy Family
+The Flower of My Secret,0.0,Drama,Romance,,0,Drama Romance
+Two Much,0.0,Comedy,Romance,,-1,Comedy Romance
+Ed,0.0,Comedy,Family,,0,Comedy Family
+Scream of Stone,0.0,Adventure,Drama,Documentary,65,Adventure Drama Documentary
+My Favorite Season,0.0,Drama,,,0,Drama
+A Modern Affair,0.0,,,,0,
+Condition Red,0.0,Thriller,Action,Drama,0,Thriller Action Drama
+Halfaouine: Boy of the Terraces,0.0,Comedy,Drama,,0,Comedy Drama
+A Thin Line Between Love and Hate,0.0,Comedy,Thriller,Crime,0,Comedy Thriller Crime
+The Last Supper,0.0,Comedy,Thriller,Crime,-1,Comedy Thriller Crime
+Primal Fear,30.0,Crime,Drama,Mystery,0,Crime Drama Mystery
+Rude,0.0,,,,-1,
+Carried Away,0.0,Drama,Romance,,0,Drama Romance
+All Dogs Go to Heaven 2,0.0,Romance,Animation,Family,0,Romance Animation Family
+Land and Freedom,0.0,Drama,History,War,0,Drama History War
+Denise Calls Up,0.0,Comedy,,,0,Comedy
+Theodore Rex,33.5,Fantasy,Science,Fiction,66,Fantasy Science Fiction
+A Family Thing,0.0,Comedy,Drama,,0,Comedy Drama
+Frisk,0.0,Drama,Thriller,,-1,Drama Thriller
+Sgt. Bilko,0.0,Comedy,Family,,-1,Comedy Family
+Jack & Sarah,0.0,Comedy,Drama,Romance,51,Comedy Drama Romance
+Girl 6,12.0,Comedy,,,0,Comedy
+Diabolique,0.0,Drama,Horror,Mystery,-1,Drama Horror Mystery
+"Little Indian, Big City",0.0,Adventure,Drama,Comedy,0,Adventure Drama Comedy
+Roula,0.0,Romance,Drama,,-1,Romance Drama
+Peanuts – Die Bank zahlt alles,0.0,Comedy,,,0,Comedy
+Happy Weekend,0.0,Comedy,,,0,Comedy
+Nelly and Monsieur Arnaud,0.0,Drama,Romance,,-1,Drama Romance
+Courage Under Fire,46.0,Drama,Thriller,Mystery,0,Drama Thriller Mystery
+Mission: Impossible,80.0,Adventure,Action,Thriller,67,Adventure Action Thriller
+Cold Fever,0.0,Drama,Comedy,,0,Drama Comedy
+Moll Flanders,0.0,Drama,Romance,,0,Drama Romance
+The Superwife,0.0,Comedy,,,-1,Comedy
+"301, 302",0.0,Horror,Mystery,Thriller,-1,Horror Mystery Thriller
+DragonHeart,57.0,Fantasy,,,-1,Fantasy
+Und keiner weint mir nach,0.0,Drama,,,-1,Drama
+My Mother's Courage,0.0,Drama,,,0,Drama
+Eddie,0.0,Action,Comedy,,-1,Action Comedy
+Yankee Zulu,0.0,Drama,Comedy,,-1,Drama Comedy
+Billy's Holiday,0.0,,,,17,
+Purple Noon,0.0,Crime,Drama,Thriller,0,Crime Drama Thriller
+August,0.0,Romance,Comedy,Drama,0,Romance Comedy Drama
+James and the Giant Peach,38.0,Adventure,Animation,Family,0,Adventure Animation Family
+Fear,0.0,Drama,Thriller,Romance,0,Drama Thriller Romance
+Kids in the Hall: Brain Candy,0.0,Comedy,,,0,Comedy
+Faithful,13.0,Comedy,Crime,Drama,-1,Comedy Crime Drama
+Underground,14.0,War,Drama,Comedy,-1,War Drama Comedy
+All Things Fair,0.0,War,Drama,Romance,0,War Drama Romance
+Bloodsport II,0.0,Action,Thriller,,0,Action Thriller
+Pather Panchali,0.0,Drama,,,-1,Drama
+The World of Apu,0.0,Drama,,,0,Drama
+Mystery Science Theater 3000: The Movie,0.0,Comedy,Science,Fiction,0,Comedy Science Fiction
+Tarantella,0.0,,,,-1,
+Space Jam,80.0,Animation,Comedy,Drama,0,Animation Comedy Drama
+Barbarella,9.0,Science,Fiction,,-1,Science Fiction
+Hostile Intentions,0.0,Thriller,Action,Drama,68,Thriller Action Drama
+They Bite,0.0,Comedy,Horror,Science,-1,Comedy Horror Science
+Some Folks Call It a Sling Blade,0.0,Drama,Thriller,,57,Drama Thriller
+The Run of the Country,0.0,Drama,Romance,,0,Drama Romance
+Alphaville,0.22,Drama,Science,Fiction,-1,Drama Science Fiction
+Coup de Torchon,0.0,Drama,,,-1,Drama
+Tigrero: A Film That Was Never Made,0.0,Documentary,Foreign,,-1,Documentary Foreign
+The Eye of Vichy,0.0,,,,0,
+Windows,0.0,Horror,Drama,Thriller,-1,Horror Drama Thriller
+It's My Party,0.0,Drama,,,0,Drama
+Country Life,0.0,Drama,Romance,,0,Drama Romance
+Operation Dumbo Drop,0.0,Action,Adventure,Comedy,0,Action Adventure Comedy
+The Promise,0.0,Drama,Romance,,69,Drama Romance
+Mrs. Winterbourne,25.0,Comedy,Romance,Drama,0,Comedy Romance Drama
+Solo,0.0,Action,Adventure,Science,-1,Action Adventure Science
+Under The Domim Tree,0.0,Drama,Foreign,,-1,Drama Foreign
+The Substitute,0.0,Action,Thriller,,-1,Action Thriller
+True Crime,0.0,Crime,Mystery,Thriller,0,Crime Mystery Thriller
+Butterfly Kiss,0.0,Crime,Drama,Romance,0,Crime Drama Romance
+Feeling Minnesota,0.0,Action,Comedy,Drama,0,Action Comedy Drama
+Delta of Venus,0.0,Drama,Romance,,70,Drama Romance
+To Cross the Rubicon,0.0,,,,-1,
+Angus,0.0,Comedy,Drama,Family,-1,Comedy Drama Family
+Priest Daens,0.0,Drama,History,,37,Drama History
+Faces,0.275,Drama,,,0,Drama
+Boys,0.0,Romance,Drama,Mystery,0,Romance Drama Mystery
+The Quest,30.0,Action,Adventure,,0,Action Adventure
+Cosi,0.0,Comedy,Romance,,-1,Comedy Romance
+Sunset Park,0.0,Drama,,,0,Drama
+Mulholland Falls,0.0,Drama,Mystery,Thriller,0,Drama Mystery Thriller
+The Truth About Cats & Dogs,0.0,Comedy,Romance,,0,Comedy Romance
+Oliver & Company,31.0,Animation,Comedy,Family,0,Animation Comedy Family
+Celtic Pride,0.0,Comedy,,,-1,Comedy
+Flipper,25.53,Adventure,Family,,-1,Adventure Family
+Captives,0.0,Drama,Thriller,Mystery,-1,Drama Thriller Mystery
+Of Love and Shadows,0.0,Drama,,,0,Drama
+Dead Man,9.0,Drama,Fantasy,Western,0,Drama Fantasy Western
+The Horseman on the Roof,35.0,War,Adventure,Drama,-1,War Adventure Drama
+Switchblade Sisters,0.0,Action,Crime,Drama,-1,Action Crime Drama
+Mouth to Mouth,0.0,Comedy,Foreign,,46,Comedy Foreign
+The Visitors,0.0,Fantasy,Comedy,Science,-1,Fantasy Comedy Science
+Multiplicity,45.0,Comedy,Fantasy,Science,-1,Comedy Fantasy Science
+"The Haunted World of Edward D. Wood, Jr.",0.0,Documentary,,,0,Documentary
+Two Friends,0.0,Drama,Foreign,,0,Drama Foreign
+The Craft,15.0,Drama,Fantasy,Horror,-1,Drama Fantasy Horror
+The Great White Hype,0.0,Comedy,Drama,,0,Comedy Drama
+Last Dance,0.0,Drama,Thriller,,0,Drama Thriller
+Cold Comfort Farm,0.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+"Institute Benjamenta, or This Dream People Call Human Life",0.0,Animation,Drama,,0,Animation Drama
+Heaven's Prisoners,25.0,Drama,Mystery,Thriller,0,Drama Mystery Thriller
+Original Gangstas,4.8,Action,Drama,Crime,-1,Action Drama Crime
+The Rock,75.0,Action,Adventure,Thriller,0,Action Adventure Thriller
+Getting Away with Murder,0.0,Comedy,,,0,Comedy
+Cemetery Man,4.0,Fantasy,Drama,Horror,0,Fantasy Drama Horror
+Twister,92.0,Action,Adventure,Drama,-1,Action Adventure Drama
+Barb Wire,0.0,Action,Science,Fiction,-1,Action Science Fiction
+Le Garçu,0.0,Drama,,,71,Drama
+Honeymoon,0.0,Comedy,,,72,Comedy
+Ghost in the Shell,0.0,Action,Animation,Science,0,Action Animation Science
+Thinner,0.0,Horror,Thriller,,-1,Horror Thriller
+Spy Hard,18.0,Action,Comedy,,0,Action Comedy
+Brothers in Trouble,0.0,Comedy,Drama,,0,Comedy Drama
+A Close Shave,0.0,Family,Animation,Comedy,22,Family Animation Comedy
+Force of Evil,0.0,Drama,Action,Crime,0,Drama Action Crime
+The Stupids,0.0,Comedy,Family,,-1,Comedy Family
+The Arrival,25.0,Action,Mystery,Science,-1,Action Mystery Science
+The Man from Down Under,0.0,Drama,War,,0,Drama War
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1.8,Drama,Comedy,War,0,Drama Comedy War
+Careful,0.0,Horror,Comedy,Drama,-1,Horror Comedy Drama
+A Month by the Lake,0.0,Comedy,Drama,Romance,73,Comedy Drama Romance
+Gold Diggers: The Secret of Bear Mountain,0.0,Drama,,,0,Drama
+Kim,0.0,Family,Adventure,,-1,Family Adventure
+Carmen Miranda: Bananas Is My Business,0.0,Documentary,,,74,Documentary
+Ashes of Time,0.0,Drama,Action,,0,Drama Action
+The Jar,0.0,,,,-1,
+Maya Lin: A Strong Clear Vision,0.0,Documentary,,,-1,Documentary
+Stalingrad,0.0,Drama,History,War,-1,Drama History War
+The Phantom,45.0,Adventure,Action,,0,Adventure Action
+Striptease,50.0,Drama,Thriller,Crime,-1,Drama Thriller Crime
+The Last of the High Kings,0.0,Drama,Comedy,,0,Drama Comedy
+Heavy,0.0,Drama,Romance,,63,Drama Romance
+Jack,45.0,Comedy,Drama,Science,51,Comedy Drama Science
+I Shot Andy Warhol,0.0,Drama,,,-1,Drama
+The Grass Harp,0.0,Comedy,Drama,Family,-1,Comedy Drama Family
+Someone Else's America,0.0,Drama,,,0,Drama
+Life is Rosy,0.0,Music,Romance,,0,Music Romance
+Quartier Mozart,0.0,,,,75,
+Touki Bouki,0.0,Drama,Romance,,-1,Drama Romance
+God's Gift,0.0,Drama,,,0,Drama
+Spirits of the Dead,0.0,Drama,Mystery,Horror,0,Drama Mystery Horror
+Babyfever,0.0,,,,-1,
+Pharaoh's  Army,5e-05,Western,Drama,War,49,Western Drama War
+Trainspotting,4.0,Drama,Crime,,-1,Drama Crime
+Til There Was You,1.0,Comedy,Romance,,-1,Comedy Romance
+Independence Day,75.0,Action,Adventure,Science,0,Action Adventure Science
+Stealing Beauty,0.0,Drama,Romance,,0,Drama Romance
+The Fan,55.0,Drama,Mystery,Thriller,-1,Drama Mystery Thriller
+The Hunchback of Notre Dame,100.0,Drama,Animation,Family,-1,Drama Animation Family
+The Cable Guy,47.0,Comedy,Drama,Thriller,0,Comedy Drama Thriller
+Kingpin,27.0,Comedy,,,-1,Comedy
+Eraser,100.0,Action,Drama,Mystery,-1,Action Drama Mystery
+The Gate of Heavenly Peace,0.0,Documentary,,,0,Documentary
+The Nutty Professor,54.0,Fantasy,Comedy,Romance,76,Fantasy Comedy Romance
+"I, the Worst of All",0.0,Drama,Foreign,,-1,Drama Foreign
+An Unforgettable Summer,0.0,Drama,Romance,War,0,Drama Romance War
+A Hungarian Fairy Tale,0.0,,,,14,
+My Life and Times With Antonin Artaud,0.0,,,,0,
+Midnight Dancers,0.0,,,,0,
+Somebody to Love,0.0,Comedy,Drama,,0,Comedy Drama
+A Very Natural Thing,0.0,Drama,,,0,Drama
+The Old Lady Who Walked in the Sea,0.0,Comedy,,,0,Comedy
+Daylight,80.0,Action,Adventure,Thriller,-1,Action Adventure Thriller
+The Frighteners,30.0,Horror,Comedy,,-1,Horror Comedy
+Lone Star,5.0,Drama,Mystery,Romance,0,Drama Mystery Romance
+Harriet the Spy,12.0,Comedy,Drama,Family,0,Comedy Drama Family
+Phenomenon,32.0,Drama,Fantasy,Romance,-1,Drama Fantasy Romance
+Walking and Talking,0.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+She's the One,3.5,Comedy,Romance,,-1,Comedy Romance
+A Time to Kill,40.0,Crime,Drama,Thriller,0,Crime Drama Thriller
+American Buffalo,0.0,Drama,,,0,Drama
+Rendezvous in Paris,0.0,Romance,Comedy,,0,Romance Comedy
+Alaska,23.0,Adventure,,,77,Adventure
+Fled,25.0,Action,Comedy,Thriller,-1,Action Comedy Thriller
+Kazaam,20.0,Fantasy,Comedy,Science,-1,Fantasy Comedy Science
+Magic Hunter,0.0,,,,0,
+Larger Than Life,30.0,Family,Comedy,,0,Family Comedy
+A Boy Called Hate,0.0,,,,0,
+Power 98,0.0,Action,Mystery,Thriller,0,Action Mystery Thriller
+Two Deaths,0.0,War,Drama,,-1,War Drama
+A Very Brady Sequel,0.0,Comedy,,,-1,Comedy
+Stefano Quantestorie,0.0,Comedy,,,-1,Comedy
+Death in the Garden,0.0,Adventure,Drama,,0,Adventure Drama
+Hedd Wyn,0.0,War,Drama,,-1,War Drama
+La Collectionneuse,0.0,Drama,Comedy,Romance,15,Drama Comedy Romance
+Kaspar Hauser,0.0,Drama,Foreign,,-1,Drama Foreign
+Regular Guys,0.0,Comedy,Foreign,,0,Comedy Foreign
+Diebinnen,0.0,Drama,,,-1,Drama
+The Convent,0.0,Thriller,,,-1,Thriller
+The Adventures of Pinocchio,0.0,Animation,Family,Fantasy,0,Animation Family Fantasy
+Joe's Apartment,13.0,Fantasy,Comedy,Music,0,Fantasy Comedy Music
+The First Wives Club,26.0,Comedy,,,8,Comedy
+Stonewall,0.0,Romance,Drama,Comedy,-1,Romance Drama Comedy
+Ransom,80.0,Action,Thriller,,-1,Action Thriller
+High School High,0.0,Comedy,,,0,Comedy
+Phat Beach,0.0,Comedy,,,0,Comedy
+Foxfire,0.0,Action,Drama,Thriller,-1,Action Drama Thriller
+Chain Reaction,50.0,Action,Drama,Science,-1,Action Drama Science
+Matilda,36.0,Comedy,Family,Fantasy,-1,Comedy Family Fantasy
+Emma,6.0,Drama,Comedy,Romance,-1,Drama Comedy Romance
+The Crow: City of Angels,13.0,Action,Fantasy,Thriller,0,Action Fantasy Thriller
+House Arrest,0.0,Comedy,Family,,0,Comedy Family
+Eyes Without a Face,0.0,Drama,Horror,Thriller,0,Drama Horror Thriller
+Bordello of Blood,15.0,Horror,Comedy,,0,Horror Comedy
+Lotto Land,0.0,Drama,,,0,Drama
+The Story of Xinghua,0.0,,,,0,
+The Day the Sun Turned Cold,0.0,,,,0,
+Flirt,0.0,Drama,Romance,,-1,Drama Romance
+The Big Squeeze,0.0,Drama,,,0,Drama
+The Spitfire Grill,6.0,Comedy,Drama,,-1,Comedy Drama
+Escape from L.A.,50.0,Action,Adventure,Science,0,Action Adventure Science
+Cyclo,0.0,Crime,Drama,,-1,Crime Drama
+Basquiat,2.962051,Drama,History,,-1,Drama History
+Tin Cup,45.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+Dingo,0.2,Drama,Music,,-1,Drama Music
+The Ballad of Narayama,0.0,Drama,,,78,Drama
+Every Other Weekend,0.0,Drama,,,0,Drama
+Mille bolle blu,0.0,,,,-1,
+Crows and Sparrows,0.0,,,,79,
+The Godfather,6.0,Drama,Crime,,0,Drama Crime
+Maybe... Maybe Not,0.0,Comedy,Drama,,-1,Comedy Drama
+Police Story 3: Supercop,0.9,Action,Crime,Thriller,0,Action Crime Thriller
+Manny & Lo,0.5,Drama,Comedy,,0,Drama Comedy
+Wife,0.0,Drama,,,0,Drama
+Small Faces,1.85,,,,0,
+Bound,4.5,Crime,Drama,Romance,0,Crime Drama Romance
+Carpool,17.0,Comedy,Family,,-1,Comedy Family
+Death in Brunswick,0.0,Drama,,,0,Drama
+Kansas City,18.0,Thriller,Drama,Music,0,Thriller Drama Music
+Gone Fishin',53.0,Comedy,Family,,80,Comedy Family
+Lover's Knot,0.0,Romance,Comedy,,0,Romance Comedy
+Vive L'Amour,0.0,Drama,,,-1,Drama
+Shadow of Angels,0.0,Drama,,,0,Drama
+Killer: A Journal of Murder,0.0,Drama,,,0,Drama
+Nothing to Lose,0.0,Action,Crime,Drama,-1,Action Crime Drama
+Project S,0.0,Action,Adventure,Crime,81,Action Adventure Crime
+Girls Town,0.0,Comedy,Drama,,0,Comedy Drama
+Bye-Bye,0.0,Drama,,,0,Drama
+The Relic,60.0,Horror,Mystery,Thriller,-1,Horror Mystery Thriller
+The Island of Dr. Moreau,40.0,Fantasy,Horror,Science,3,Fantasy Horror Science
+First Kid,0.0,Comedy,Family,,0,Comedy Family
+The Trigger Effect,8.0,Drama,Thriller,,82,Drama Thriller
+Sweet Nothing,0.0,,,,0,
+Bogus,32.0,Fantasy,Comedy,Family,-1,Fantasy Comedy Family
+Bulletproof,25.0,Action,Adventure,Comedy,-1,Action Adventure Comedy
+Talk of Angels,0.0,Drama,Romance,War,0,Drama Romance War
+The Land Before Time III: The Time of the Great Giving,0.0,Animation,Adventure,Family,0,Animation Adventure Family
+1-900,0.0,,,,-1,
+Baton Rouge,0.0,Thriller,,,-1,Thriller
+Halloween: The Curse of Michael Myers,5.0,Horror,Thriller,,0,Horror Thriller
+Twelfth Night,0.0,Drama,Comedy,Romance,0,Drama Comedy Romance
+Mother Night,0.0,Drama,History,,0,Drama History
+Liebelei,0.0,Drama,Romance,,-1,Drama Romance
+Venice,0.0,Drama,Romance,,12,Drama Romance
+Wild Reeds,0.0,Drama,Romance,,0,Drama Romance
+For Whom the Bell Tolls,3.0,Drama,History,Romance,0,Drama History Romance
+The Philadelphia Story,0.0,Comedy,Romance,,0,Comedy Romance
+Singin' in the Rain,2.5408,Comedy,Music,Romance,0,Comedy Music Romance
+An American in Paris,2.723903,Drama,Comedy,Music,0,Drama Comedy Music
+Funny Face,0.0,Music,Comedy,Romance,0,Music Comedy Romance
+Breakfast at Tiffany's,2.5,Comedy,Drama,Romance,8,Comedy Drama Romance
+Vertigo,2.479,Mystery,Romance,Thriller,-1,Mystery Romance Thriller
+Rear Window,1.0,Drama,Mystery,Thriller,0,Drama Mystery Thriller
+It Happened One Night,0.325,Comedy,Romance,,0,Comedy Romance
+Gaslight,2.068,Drama,Mystery,Thriller,-1,Drama Mystery Thriller
+The Gay Divorcee,0.52,Comedy,Music,Romance,-1,Comedy Music Romance
+North by Northwest,4.0,Mystery,Thriller,,0,Mystery Thriller
+The Apartment,3.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+Some Like It Hot,2.883848,Comedy,Romance,,0,Comedy Romance
+Charade,4.0,Comedy,Mystery,Romance,-1,Comedy Mystery Romance
+Casablanca,0.878,Drama,Romance,,-1,Drama Romance
+The Maltese Falcon,0.375,Mystery,Crime,Thriller,-1,Mystery Crime Thriller
+My Fair Lady,17.0,Drama,Family,Music,0,Drama Family Music
+Sabrina,2.238813,Comedy,Drama,Romance,2,Comedy Drama Romance
+Roman Holiday,1.5,Comedy,Romance,,17,Comedy Romance
+The Little Princess,0.0,Drama,Comedy,Family,0,Drama Comedy Family
+Meet Me in St. Louis,0.0,Comedy,Music,Romance,0,Comedy Music Romance
+The Wizard of Oz,2.777,Adventure,Family,Fantasy,0,Adventure Family Fantasy
+Gone with the Wind,4.0,Drama,Romance,War,80,Drama Romance War
+My Favorite Year,0.0,Comedy,Drama,,0,Comedy Drama
+Sunset Boulevard,1.752,Drama,,,0,Drama
+Citizen Kane,0.839727,Mystery,Drama,,83,Mystery Drama
+2001: A Space Odyssey,10.5,Science,Fiction,Mystery,0,Science Fiction Mystery
+Golden Earrings,0.0,Adventure,Romance,,0,Adventure Romance
+All About Eve,1.4,Drama,,,0,Drama
+The Women,1.688,Comedy,Drama,,0,Comedy Drama
+Rebecca,1.288,Drama,Mystery,,-1,Drama Mystery
+Foreign Correspondent,0.0,Mystery,Thriller,War,60,Mystery Thriller War
+Notorious,2.0,Thriller,Drama,Romance,-1,Thriller Drama Romance
+Spellbound,1.5,Drama,Mystery,Thriller,-1,Drama Mystery Thriller
+An Affair to Remember,0.0,Drama,Romance,,0,Drama Romance
+To Catch a Thief,2.5,Crime,Drama,Mystery,-1,Crime Drama Mystery
+Father of the Bride,0.0,Comedy,Drama,Family,0,Comedy Drama Family
+The Band Wagon,0.0,Comedy,Music,,83,Comedy Music
+Ninotchka,1.365,Comedy,Romance,,-1,Comedy Romance
+Love in the Afternoon,0.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+Gigi,0.0,Comedy,Music,Romance,-1,Comedy Music Romance
+The Reluctant Debutante,0.0,Comedy,Romance,,-1,Comedy Romance
+The Adventures of Robin Hood,2.033,Action,Adventure,Romance,0,Action Adventure Romance
+The Mark of Zorro,0.0,Action,Adventure,Drama,0,Action Adventure Drama
+Laura,1.02,Drama,Mystery,,-1,Drama Mystery
+The Ghost and Mrs. Muir,0.0,Fantasy,Romance,Mystery,0,Fantasy Romance Mystery
+Lost Horizon,4.0,Adventure,Fantasy,Drama,0,Adventure Fantasy Drama
+Top Hat,0.609,Comedy,Music,Romance,0,Comedy Music Romance
+To Be or Not to Be,0.0,Comedy,War,,-1,Comedy War
+My Man Godfrey,0.0,Comedy,Romance,,0,Comedy Romance
+Giant,5.4,Action,Drama,Western,0,Action Drama Western
+East of Eden,1e-06,Drama,,,33,Drama
+The Thin Man,0.226408,Comedy,Crime,Mystery,0,Comedy Crime Mystery
+His Girl Friday,0.0,Comedy,Drama,,0,Comedy Drama
+Around the World in Eighty Days,6.0,Adventure,Comedy,Family,0,Adventure Comedy Family
+It's a Wonderful Life,3.18,Drama,Family,Fantasy,0,Drama Family Fantasy
+Mr. Smith Goes to Washington,1.5,Comedy,Drama,,0,Comedy Drama
+Bringing Up Baby,1.073,Comedy,Romance,,8,Comedy Romance
+Penny Serenade,0.0,Drama,Romance,,-1,Drama Romance
+The Scarlet Letter,0.0,Drama,,,0,Drama
+Lady of Burlesque,0.0,Comedy,Thriller,Mystery,0,Comedy Thriller Mystery
+Of Human Bondage,0.0,Drama,,,0,Drama
+Angel on My Shoulder,0.0,Comedy,Fantasy,Romance,8,Comedy Fantasy Romance
+Little Lord Fauntleroy,0.0,Drama,Family,,0,Drama Family
+They Made Me a Criminal,0.0,Thriller,Crime,Drama,-1,Thriller Crime Drama
+The Inspector General,0.0,Comedy,Music,Romance,84,Comedy Music Romance
+Angel and the Badman,0.0,Romance,Western,,8,Romance Western
+The 39 Steps,0.0,Action,Thriller,Mystery,0,Action Thriller Mystery
+A Walk in the Sun,0.0,War,Drama,,0,War Drama
+The Outlaw,0.0,Action,Adventure,Western,-1,Action Adventure Western
+Night of the Living Dead,0.114,Horror,,,0,Horror
+The African Queen,1.3,Adventure,War,Romance,0,Adventure War Romance
+Beat the Devil,1.0,Action,Adventure,Comedy,0,Action Adventure Comedy
+Cat on a Hot Tin Roof,3.0,Drama,Romance,,0,Drama Romance
+The Last Time I Saw Paris,0.0,Romance,Drama,,0,Romance Drama
+Meet John Doe,0.0,Drama,Comedy,Romance,0,Drama Comedy Romance
+Algiers,0.0,Drama,Action,Mystery,-1,Drama Action Mystery
+Something to Sing About,0.0,Comedy,,,-1,Comedy
+A Farewell to Arms,4e-06,Drama,Romance,War,0,Drama Romance War
+Moonlight Murder,0.0,Music,Mystery,,0,Music Mystery
+Nothing Personal,0.0,Drama,,,22,Drama
+"Yes, Madam",0.0,Action,Foreign,,0,Action Foreign
+Dangerous Ground,0.0,Drama,,,0,Drama
+Picnic,0.0,Drama,Romance,,0,Drama Romance
+Madagascar Skin,0.0,,,,0,
+The Pompatus of Love,0.0,Comedy,Romance,Drama,0,Comedy Romance Drama
+Small Wonders,0.0,Documentary,Family,,0,Documentary Family
+Fly Away Home,0.0,Action,Adventure,Drama,0,Action Adventure Drama
+Bliss,0.0,Drama,Romance,,-1,Drama Romance
+Grace of My Heart,0.0,Drama,Comedy,Music,0,Drama Comedy Music
+Brother of Sleep,0.0,Drama,,,0,Drama
+Maximum Risk,25.0,Action,Adventure,Thriller,85,Action Adventure Thriller
+Michael Collins,28.0,Drama,Thriller,,0,Drama Thriller
+The Rich Man's Wife,0.0,Drama,Thriller,,0,Drama Thriller
+Infinity,0.0,Drama,Romance,,-1,Drama Romance
+Big Night,0.0,Drama,,,0,Drama
+Last Man Standing,67.0,Action,Crime,Drama,0,Action Crime Drama
+Caught,0.0,Action,Drama,Thriller,86,Action Drama Thriller
+Set It Off,9.0,Drama,Action,Crime,-1,Drama Action Crime
+2 Days in the Valley,0.0,Comedy,Crime,,0,Comedy Crime
+Curdled,2.3,Comedy,Crime,Thriller,-1,Comedy Crime Thriller
+L'associé,0.0,Comedy,,,-1,Comedy
+Ed's Next Move,0.0,,,,0,
+Extreme Measures,38.0,Drama,Thriller,,87,Drama Thriller
+The Glimmer Man,45.0,Action,Adventure,Crime,0,Action Adventure Crime
+D3: The Mighty Ducks,0.0,Action,Comedy,Drama,0,Action Comedy Drama
+The Chamber,50.0,Crime,Drama,,-1,Crime Drama
+The Apple Dumpling Gang,0.0,Comedy,Family,,88,Comedy Family
+"Davy Crockett, King of the Wild Frontier",0.0,Action,Adventure,Family,0,Action Adventure Family
+Escape to Witch Mountain,0.0,Adventure,Fantasy,Science,0,Adventure Fantasy Science
+The Love Bug,0.0,Comedy,Family,Fantasy,0,Comedy Family Fantasy
+Herbie Rides Again,0.0,Romance,Comedy,Family,74,Romance Comedy Family
+Old Yeller,0.0,Adventure,Drama,Western,0,Adventure Drama Western
+The Parent Trap,0.0,Comedy,Family,,89,Comedy Family
+Pollyanna,0.0,Adventure,,,-1,Adventure
+Homeward Bound: The Incredible Journey,0.0,Adventure,Comedy,Drama,0,Adventure Comedy Drama
+The Shaggy Dog,0.0,Comedy,Family,,0,Comedy Family
+Swiss Family Robinson,0.0,Adventure,Family,,0,Adventure Family
+That Darn Cat!,0.0,Drama,Family,Comedy,0,Drama Family Comedy
+"20,000 Leagues Under the Sea",5.0,Adventure,Drama,Science,0,Adventure Drama Science
+Cool Runnings,14.0,Comedy,,,90,Comedy
+Angels in the Outfield,0.0,Fantasy,Drama,Comedy,0,Fantasy Drama Comedy
+Cinderella,2.9,Family,Fantasy,Animation,0,Family Fantasy Animation
+Winnie the Pooh and the Blustery Day,0.0,Animation,Family,Music,0,Animation Family Music
+The Three Caballeros,0.0,Animation,Family,Music,-1,Animation Family Music
+The Sword in the Stone,3.0,Animation,Family,,65,Animation Family
+So Dear to My Heart,0.0,Animation,Drama,Family,0,Animation Drama Family
+Robin Hood: Prince of Thieves,48.0,Adventure,,,0,Adventure
+Mary Poppins,6.0,Comedy,Family,Fantasy,0,Comedy Family Fantasy
+Dumbo,0.812,Animation,Family,,0,Animation Family
+Pete's Dragon,10.0,Fantasy,Animation,Comedy,-1,Fantasy Animation Comedy
+Bedknobs and Broomsticks,20.0,Adventure,Fantasy,Animation,-1,Adventure Fantasy Animation
+Alice in Wonderland,3.0,Animation,Adventure,Family,0,Animation Adventure Family
+The Fox and the Hound,12.0,Adventure,Animation,Drama,-1,Adventure Animation Drama
+Freeway,3.0,Comedy,Drama,Thriller,-1,Comedy Drama Thriller
+The Sound of Music,8.2,Drama,Family,Music,0,Drama Family Music
+Die Hard,28.0,Action,Thriller,,0,Action Thriller
+The Lawnmower Man,10.0,Horror,Thriller,Science,0,Horror Thriller Science
+Unhook the Stars,0.0,Drama,Romance,,19,Drama Romance
+Synthetic Pleasures,0.0,Documentary,,,-1,Documentary
+The Secret Agent,0.0,Drama,Thriller,,0,Drama Thriller
+Secrets & Lies,4.5,Drama,,,0,Drama
+That Thing You Do!,0.0,Comedy,Drama,,0,Comedy Drama
+To Gillian on Her 37th Birthday,0.0,Drama,Romance,,-1,Drama Romance
+Surviving Picasso,16.0,Drama,Romance,,0,Drama Romance
+Love Is All There Is,0.0,Comedy,Romance,,0,Comedy Romance
+Beautiful Thing,0.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+The Long Kiss Goodnight,65.0,Crime,Action,Mystery,0,Crime Action Mystery
+The Ghost and the Darkness,50.0,Adventure,,,0,Adventure
+Looking for Richard,0.0,Documentary,,,91,Documentary
+Trees Lounge,0.0,Comedy,Drama,,-1,Comedy Drama
+The Proprietor,0.0,Drama,,,-1,Drama
+Normal Life,0.0,Crime,Drama,,0,Crime Drama
+Get on the Bus,2.4,Drama,,,-1,Drama
+Shadow Conspiracy,45.0,Action,Thriller,,0,Action Thriller
+Jude,7.0,Drama,Romance,,-1,Drama Romance
+Everyone Says I Love You,20.0,Music,Comedy,Romance,0,Music Comedy Romance
+Bitter Sugar,0.0,Drama,Romance,,0,Drama Romance
+Romeo + Juliet,14.5,Drama,Romance,,53,Drama Romance
+Swingers,0.2,Comedy,Romance,,-1,Comedy Romance
+Sleepers,44.0,Crime,Drama,Thriller,-1,Crime Drama Thriller
+The Sunchaser,0.0,Drama,,,-1,Drama
+Johns,0.0,Drama,,,-1,Drama
+Aladdin and the King of Thieves,0.0,Adventure,Animation,Family,0,Adventure Animation Family
+The Woman in Question,0.0,Mystery,,,0,Mystery
+Shall We Dance,0.0,Comedy,Music,Romance,0,Comedy Music Romance
+A Damsel in Distress,0.0,Comedy,Music,Romance,-1,Comedy Music Romance
+Crossfire,0.0,Crime,Drama,Mystery,-1,Crime Drama Mystery
+"Murder, My Sweet",0.0,Crime,Drama,Mystery,0,Crime Drama Mystery
+Macao,0.0,Adventure,Drama,Romance,-1,Adventure Drama Romance
+For the Moment,0.00012,War,Drama,Romance,-1,War Drama Romance
+Willy Wonka & the Chocolate Factory,3.0,Family,Fantasy,,0,Family Fantasy
+The Sexual Life of the Belgians,0.0,Comedy,Romance,,0,Comedy Romance
+The Innocents,0.0,Horror,,,-1,Horror
+Sleeper,2.0,Comedy,Romance,Science,-1,Comedy Romance Science
+Bananas,2.0,Comedy,,,74,Comedy
+A Fish Called Wanda,7.5,Comedy,Crime,,0,Comedy Crime
+Life of Brian,4.0,Comedy,,,0,Comedy
+Victor/Victoria,0.0,Comedy,Music,Romance,-1,Comedy Music Romance
+The Candidate,0.0,Comedy,Drama,,0,Comedy Drama
+The Great Race,12.0,Adventure,Comedy,,0,Adventure Comedy
+Bonnie and Clyde,2.5,Crime,Drama,,-1,Crime Drama
+The Old Man and the Sea,0.0,Adventure,Drama,,0,Adventure Drama
+Dial M for Murder,1.4,Crime,Mystery,Thriller,0,Crime Mystery Thriller
+Madame Butterfly,0.0,,,,0,
+Dirty Dancing,6.0,Drama,Music,Romance,44,Drama Music Romance
+Reservoir Dogs,1.2,Crime,Thriller,,0,Crime Thriller
+Platoon,6.0,Drama,War,Action,-1,Drama War Action
+Weekend at Bernie's,6.5,Comedy,,,0,Comedy
+Basic Instinct,49.0,Thriller,Mystery,,47,Thriller Mystery
+The Doors,38.0,Drama,Music,,92,Drama Music
+The Crying Game,3.705538,Romance,Crime,Drama,0,Romance Crime Drama
+Glengarry Glen Ross,12.5,Crime,Drama,Mystery,93,Crime Drama Mystery
+Sophie's Choice,12.0,Drama,Romance,,-1,Drama Romance
+E.T. the Extra-Terrestrial,10.5,Science,Fiction,Adventure,-1,Science Fiction Adventure
+The Search for One-eye Jimmy,0.0,Comedy,,,0,Comedy
+A Christmas Carol,0.0,Fantasy,Drama,Family,0,Fantasy Drama Family
+Days of Thunder,60.0,Adventure,,,0,Adventure
+Top Gun,15.0,Action,Romance,War,0,Action Romance War
+American Strays,0.0,Action,Comedy,,0,Action Comedy
+Rebel Without a Cause,1.5,Drama,,,0,Drama
+A Streetcar Named Desire,1.8,Drama,,,0,Drama
+Children of the Corn IV: The Gathering,0.0,Horror,,,0,Horror
+The Leopard Son,0.0,Documentary,,,0,Documentary
+Charm's  Incidents,0.0,Comedy,,,94,Comedy
+Bird of Prey,0.0,Crime,Drama,,-1,Crime Drama
+Microcosmos,0.0,Documentary,,,-1,Documentary
+Palookaville,0.0,Comedy,,,-1,Comedy
+The Associate,0.0,Comedy,,,-1,Comedy
+The Funeral,12.5,Crime,Drama,,41,Crime Drama
+The Sleepover,0.0,Comedy,Horror,,-1,Comedy Horror
+A Single Girl,0.0,Drama,,,0,Drama
+The Eighth Day,0.0,Drama,,,0,Drama
+North Star,0.0,Action,Adventure,Drama,0,Action Adventure Drama
+Drunks,0.0,Drama,,,-1,Drama
+The People vs. Larry Flynt,36.0,Drama,,,0,Drama
+Glory Daze,0.0,Comedy,,,95,Comedy
+A Perfect Candidate,0.0,Documentary,,,0,Documentary
+On Golden Pond,0.0,Drama,,,0,Drama
+The Return of the Pink Panther,5.0,Mystery,Comedy,Crime,0,Mystery Comedy Crime
+Drop Dead Fred,6.788,Comedy,Fantasy,Family,0,Comedy Fantasy Family
+The Abyss,70.0,Adventure,Action,Thriller,-1,Adventure Action Thriller
+The Fog,1.0,Horror,,,0,Horror
+Escape from New York,6.0,Science,Fiction,Action,0,Science Fiction Action
+The Howling,1.0,Drama,Horror,,0,Drama Horror
+Jean de Florette,4.940939,Drama,,,21,Drama
+Manon of the Spring,0.0,Drama,,,-1,Drama
+Johnny 100 Pesos,0.0,Drama,,,23,Drama
+Private Benjamin,0.0,Comedy,,,0,Comedy
+Monty Python and the Holy Grail,0.4,Adventure,Comedy,Fantasy,96,Adventure Comedy Fantasy
+Hustler White,0.0,Romance,Drama,,0,Romance Drama
+Dadetown,0.0,,,,-1,
+Everything Relative,0.0,Drama,,,0,Drama
+Entertaining Angels - The Dorothy Day Story,0.0,Drama,,,0,Drama
+Three Lives and Only One Death,0.5,Comedy,Crime,,0,Comedy Crime
+The Line King: The Al Hirschfeld Story,0.0,Documentary,,,0,Documentary
+Snowriders,0.0,Documentary,,,-1,Documentary
+Curtis's Charm,0.0,,,,94,
+When We Were Kings,0.0,Documentary,,,0,Documentary
+The Wrong Trousers,0.0,Animation,Comedy,Family,0,Animation Comedy Family
+JLG/JLG: Self-Portrait in December,0.0,Documentary,,,-1,Documentary
+The Return of Martin Guerre,0.0,Mystery,Crime,Drama,0,Mystery Crime Drama
+Faust,0.0,Animation,Drama,Fantasy,-1,Animation Drama Fantasy
+He Walked by Night,0.0,Drama,Thriller,,0,Drama Thriller
+Raw Deal,0.0,Crime,,,-1,Crime
+T-Men,0.0,Thriller,Crime,,0,Thriller Crime
+The Children Are Watching Us,0.0,Drama,,,0,Drama
+Pastoral Symphony,0.0,Drama,,,-1,Drama
+Here Comes Cookie,0.0,,,,0,
+Love In Bloom,0.0,,,,0,
+Six of a Kind,0.0,Comedy,,,0,Comedy
+The Tin Drum,0.0,Drama,History,War,0,Drama History War
+The Ruling Class,0.0,Drama,Comedy,,97,Drama Comedy
+Mina Tannenbaum,0.0,Drama,Comedy,,-1,Drama Comedy
+2 or 3 Things I Know About Her,0.0,Comedy,Drama,,0,Comedy Drama
+The Bloody Child,0.0,Drama,,,0,Drama
+Dear God,0.0,Comedy,,,0,Comedy
+Bad Moon,7.0,Horror,,,0,Horror
+American Dream,0.0,Documentary,,,0,Documentary
+Best of the Best 3: No Turning Back,0.0,Action,,,0,Action
+Bob Roberts,0.0,Comedy,Drama,,98,Comedy Drama
+Cinema Paradiso,0.0,Drama,Romance,,-1,Drama Romance
+"The Cook, the Thief, His Wife & Her Lover",0.0,Crime,Drama,,0,Crime Drama
+Dead Tired,0.0,Comedy,,,0,Comedy
+Delicatessen,4.0,Comedy,Science,Fiction,-1,Comedy Science Fiction
+The Double Life of Veronique,0.0,Drama,Thriller,,0,Drama Thriller
+Enchanted April,0.0,Romance,Drama,,-1,Romance Drama
+Paths of Glory,0.935,Drama,War,,95,Drama War
+The Grifters,0.0,Crime,Drama,,-1,Crime Drama
+Hear My Song,0.0,Comedy,Foreign,,0,Comedy Foreign
+The Shooter,0.0,Western,,,-1,Western
+The English Patient,27.0,Drama,Romance,War,13,Drama Romance War
+Mediterraneo,0.0,Comedy,Romance,War,-1,Comedy Romance War
+My Left Foot: The Story of Christy Brown,0.64518,Drama,,,0,Drama
+"Sex, Lies, and Videotape",1.2,Drama,,,0,Drama
+Passion Fish,0.0,Drama,,,0,Drama
+Strictly Ballroom,3.0,Comedy,Drama,Romance,-1,Comedy Drama Romance
+The Thin Blue Line,0.0,Mystery,Documentary,Crime,0,Mystery Documentary Crime
+Tie Me Up! Tie Me Down!,0.0,Comedy,Crime,Drama,27,Comedy Crime Drama
+Madonna: Truth or Dare,4e-06,Documentary,Music,,0,Documentary Music
+Paris is Burning,0.5,Documentary,,,0,Documentary
+One Flew Over the Cuckoo's Nest,3.0,Drama,,,-1,Drama
+Up in Smoke,0.0,Comedy,,,26,Comedy
+The Empire Strikes Back,18.0,Adventure,Action,Science,0,Adventure Action Science
+The Princess Bride,16.0,Adventure,Family,Fantasy,0,Adventure Family Fantasy
+Raiders of the Lost Ark,18.0,Adventure,Action,,0,Adventure Action
+Brazil,15.0,Comedy,Science,Fiction,-1,Comedy Science Fiction
+Aliens,18.5,Horror,Action,Thriller,-1,Horror Action Thriller
+"The Good, the Bad and the Ugly",1.2,Western,,,0,Western
+Withnail & I,0.0,Comedy,Drama,,-1,Comedy Drama
+12 Angry Men,0.35,Drama,,,0,Drama
+Lawrence of Arabia,15.0,Adventure,Drama,History,0,Adventure Drama History
+A Clockwork Orange,2.2,Science,Fiction,Drama,-1,Science Fiction Drama
+To Kill a Mockingbird,2.0,Crime,Drama,,0,Crime Drama
+Apocalypse Now,31.5,Drama,War,,-1,Drama War
+Once Upon a Time in the West,5.0,Western,,,0,Western
+Return of the Jedi,32.35,Adventure,Action,Science,0,Adventure Action Science
+Wings of Desire,2.5,Drama,Fantasy,Romance,0,Drama Fantasy Romance
+The Third Man,0.0,Thriller,Mystery,,0,Thriller Mystery
+GoodFellas,25.0,Drama,Crime,,-1,Drama Crime
+Alien,11.0,Horror,Action,Thriller,0,Horror Action Thriller
+Army of Darkness,11.0,Fantasy,Horror,Comedy,49,Fantasy Horror Comedy
+The Big Blue,0.0,Adventure,Drama,Romance,0,Adventure Drama Romance
+Ran,11.5,Action,Drama,History,-1,Action Drama History
+The Killer,0.0,Action,Crime,Drama,0,Action Crime Drama
+Psycho,0.806948,Drama,Horror,Thriller,0,Drama Horror Thriller
+The Blues Brothers,27.0,Music,Comedy,Action,0,Music Comedy Action
+The Godfather: Part II,13.0,Drama,Crime,,0,Drama Crime
+Full Metal Jacket,17.0,Drama,War,,63,Drama War
+A Grand Day Out,0.0,Adventure,Animation,Comedy,0,Adventure Animation Comedy
+Henry V,9.0,War,Drama,History,0,War Drama History
+Amadeus,18.0,Drama,History,Music,-1,Drama History Music
+The Quiet Man,0.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+Once Upon a Time in America,30.0,Drama,Crime,,0,Drama Crime
+Raging Bull,18.0,Drama,,,-1,Drama
+Annie Hall,4.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+The Right Stuff,27.0,Drama,History,,99,Drama History
+Stalker,0.0,Drama,Science,Fiction,-1,Drama Science Fiction
+Das Boot,14.0,Action,Drama,History,-1,Action Drama History
+The Sting,5.5,Comedy,Crime,Drama,-1,Comedy Crime Drama
+Harold and Maude,1.2,Comedy,Drama,Romance,-1,Comedy Drama Romance
+Trust,0.7,Drama,Comedy,,-1,Drama Comedy
+The Seventh Seal,0.0,Fantasy,Drama,,0,Fantasy Drama
+Local Hero,0.0,Comedy,Drama,,0,Comedy Drama
+The Terminator,6.4,Action,Thriller,Science,0,Action Thriller Science
+Braindead,3.0,Horror,Comedy,,-1,Horror Comedy
+Glory,18.0,War,,,95,War
+Rosencrantz & Guildenstern Are Dead,0.0,Comedy,Drama,,0,Comedy Drama
+Manhattan,0.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+Miller's Crossing,14.0,Drama,Thriller,Crime,0,Drama Thriller Crime
+Dead Poets Society,16.4,Drama,,,0,Drama
+The Graduate,3.0,Drama,,,-1,Drama
+Touch of Evil,0.829,Drama,Thriller,Crime,0,Drama Thriller Crime
+La Femme Nikita,0.0,Action,Thriller,,15,Action Thriller
+The Bridge on the River Kwai,3.0,Drama,History,War,0,Drama History War
+8½,0.0,Fantasy,Drama,,-1,Fantasy Drama
+Chinatown,6.0,Crime,Drama,Mystery,-1,Crime Drama Mystery
+The Day the Earth Stood Still,1.2,Drama,Science,Fiction,0,Drama Science Fiction
+The Treasure of the Sierra Madre,3.8,Action,Adventure,Drama,3,Action Adventure Drama
+Bad Taste,0.02571,Action,Comedy,Horror,0,Action Comedy Horror
+Duck Soup,0.0,Comedy,,,100,Comedy
+Better Off Dead...,0.0,Comedy,,,0,Comedy
+The Shining,19.0,Horror,Thriller,,-1,Horror Thriller
+Stand by Me,8.0,Crime,Drama,,0,Crime Drama
+M,0.0,Drama,Action,Thriller,-1,Drama Action Thriller
+Evil Dead II,3.6,Horror,Comedy,Fantasy,0,Horror Comedy Fantasy
+The Great Escape,4.0,Adventure,Drama,History,0,Adventure Drama History
+The Deer Hunter,15.0,Drama,War,,0,Drama War
+Diva,0.0,Action,Drama,Music,-1,Action Drama Music
+Groundhog Day,14.6,Romance,Fantasy,Drama,0,Romance Fantasy Drama
+Unforgiven,14.0,Western,,,-1,Western
+The Manchurian Candidate,80.0,Mystery,Thriller,,0,Mystery Thriller
+Pump up the Volume,0.0,Music,Drama,,-1,Music Drama
+Arsenic and Old Lace,1.120175,Comedy,Crime,,0,Comedy Crime
+Back to the Future,19.0,Adventure,Comedy,Science,0,Adventure Comedy Science
+Fried Green Tomatoes,11.0,Drama,Comedy,,0,Drama Comedy
+Patton,12.0,Drama,History,War,-1,Drama History War
+Down by Law,0.0,Crime,Drama,Comedy,0,Crime Drama Comedy
+Akira,8.0,Science,Fiction,Animation,-1,Science Fiction Animation
+Highlander,16.0,Adventure,Action,Fantasy,45,Adventure Action Fantasy
+Cool Hand Luke,3.0,Crime,Drama,,90,Crime Drama
+Cyrano de Bergerac,0.0,Drama,Comedy,History,-1,Drama Comedy History
+Young Frankenstein,2.8,Comedy,Science,Fiction,0,Comedy Science Fiction
+Night on Earth,3.5,Comedy,Drama,,0,Comedy Drama
+Raise the Red Lantern,0.0,Drama,,,0,Drama
+The Great Dictator,2.0,Comedy,,,0,Comedy
+Fantasia,2.28,Animation,Family,Music,-1,Animation Family Music
+High Noon,0.73,Western,,,0,Western
+The Big Sleep,0.0,Crime,Drama,Mystery,0,Crime Drama Mystery
+Heathers,0.0,Thriller,Comedy,Drama,-1,Thriller Comedy Drama
+Somewhere in Time,5.1,Science,Fiction,Drama,0,Science Fiction Drama
+Ben-Hur,15.0,Action,Adventure,Drama,-1,Action Adventure Drama
+This Is Spinal Tap,2.5,Comedy,Music,,-1,Comedy Music
+Koyaanisqatsi,0.0,Documentary,Music,,-1,Documentary Music
+Some Kind of Wonderful,0.0,Drama,Romance,,0,Drama Romance
+Indiana Jones and the Last Crusade,48.0,Adventure,Action,,0,Adventure Action
+Being There,0.0,Comedy,Drama,,-1,Comedy Drama
+Gandhi,22.0,Drama,History,,-1,Drama History
+The Unbearable Lightness of Being,17.0,Comedy,Romance,,-1,Comedy Romance
+A Room with a View,3.0,Drama,Romance,,0,Drama Romance
+Real Genius,0.0,Comedy,Romance,,101,Comedy Romance
+Pink Floyd: The Wall,12.0,Music,,,0,Music
+The Killing Fields,14.4,War,Drama,History,50,War Drama History
+My Life as a Dog,0.0,Drama,Comedy,,0,Drama Comedy
+Forbidden Planet,1.9,Adventure,Science,Fiction,0,Adventure Science Fiction
+Field of Dreams,0.0,Drama,Fantasy,,0,Drama Fantasy
+The Man Who Would Be King,0.0,Adventure,Drama,,0,Adventure Drama
+Butch Cassidy and the Sundance Kid,6.0,History,Drama,Western,0,History Drama Western
+"Paris, Texas",1.746964,Drama,,,0,Drama
+Until the End of the World,23.0,Thriller,Drama,Science,0,Thriller Drama Science
+When Harry Met Sally...,16.0,Comedy,Romance,Drama,0,Comedy Romance Drama
+I Shot a Man in Vegas,0.0,,,,0,
+Parallel Sons,0.0,,,,-1,
+Hype!,0.0,Documentary,Music,,0,Documentary Music
+Santa with Muscles,0.0,Family,Comedy,,0,Family Comedy
+Female Perversions,0.0,Drama,Romance,,102,Drama Romance
+Mad Dog Time,0.0,Drama,Action,Comedy,0,Drama Action Comedy
+Breathing Room,0.0,Romance,Comedy,,0,Romance Comedy
+Paris Was a Woman,0.0,Documentary,,,0,Documentary
+I'm Not Rappaport,0.0,Comedy,,,-1,Comedy
+Blue Juice,0.0,Comedy,Romance,,0,Comedy Romance
+Kids of Survival,0.0,,,,0,
+Alien³,50.0,Science,Fiction,Action,-1,Science Fiction Action
+An American Werewolf in London,10.0,Horror,Comedy,,0,Horror Comedy
+Amityville: It's About Time,0.0,Horror,,,0,Horror
+Amityville 3-D,0.0,Horror,Thriller,,0,Horror Thriller
+Amityville: Dollhouse,0.0,Horror,,,0,Horror
+Amityville: A New Generation,1.5,Horror,,,0,Horror
+Amityville II: The Possession,0.0,Horror,,,0,Horror
+The Amityville Horror,0.0,Drama,Horror,Thriller,0,Drama Horror Thriller
+The Amityville Curse,0.0,Horror,,,0,Horror
+Blood for Dracula,0.0,Horror,,,0,Horror
+April Fool's Day,5.0,Horror,Mystery,,0,Horror Mystery
+Audrey Rose,0.0,Fantasy,Drama,Horror,0,Fantasy Drama Horror
+The Believers,0.0,Crime,Drama,Horror,-1,Crime Drama Horror
+The Birds,2.5,Horror,,,-1,Horror
+The Blob,0.24,Horror,Science,Fiction,-1,Horror Science Fiction
+Blood Beach,2.0,Science,Fiction,Horror,0,Science Fiction Horror
+Body Parts,0.0,Horror,Thriller,,0,Horror Thriller
+The Body Snatcher,0.0,Thriller,Horror,,0,Thriller Horror
+Dracula,40.0,Romance,Horror,,0,Romance Horror
+Bride of Frankenstein,0.39375,Horror,Science,Fiction,0,Horror Science Fiction
+Burnt Offerings,0.0,Horror,,,0,Horror
+Candyman,6.0,Drama,Horror,Thriller,0,Drama Horror Thriller
+Cape Fear,35.0,Crime,Thriller,,0,Crime Thriller
+Cape Fear,0.0,Drama,Thriller,,0,Drama Thriller
+Carrie,1.8,Horror,Thriller,,103,Horror Thriller
+Cat People,0.0,Drama,Fantasy,Horror,0,Drama Fantasy Horror
+A Nightmare on Elm Street,1.8,Horror,,,0,Horror
+Nosferatu,0.0,Fantasy,Horror,,-1,Fantasy Horror
+Vampire in Venice,0.0,Horror,,,12,Horror
+The Omen,2.8,Horror,Thriller,,0,Horror Thriller
+Blood and Wine,26.0,Crime,Drama,Thriller,0,Crime Drama Thriller
+Albino Alligator,6.0,Crime,Drama,Thriller,104,Crime Drama Thriller
+The Mirror Has Two Faces,42.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+Breaking the Waves,0.0,Drama,Romance,,-1,Drama Romance
+Nightwatch,0.0,Action,Drama,Horror,-1,Action Drama Horror
+Star Trek: First Contact,46.0,Science,Fiction,Action,0,Science Fiction Action
+Shine,0.0,Drama,,,-1,Drama
+Sling Blade,1.0,Drama,,,57,Drama
+Jingle All the Way,60.0,Family,Comedy,,0,Family Comedy
+Identification of a Woman,0.0,Romance,Drama,,0,Romance Drama
+Paradise Lost: The Child Murders at Robin Hood Hills,0.0,Documentary,Drama,,0,Documentary Drama
+The Preacher's Wife,40.0,Fantasy,Drama,Comedy,0,Fantasy Drama Comedy
+Zero Kelvin,2.535,Drama,Thriller,,82,Drama Thriller
+Ridicule,3.0,Comedy,Drama,Romance,-1,Comedy Drama Romance
+The Crucible,25.0,Drama,History,,-1,Drama History
+101 Dalmatians,54.0,Comedy,Family,,105,Comedy Family
+The Forbidden Christ,0.0,Drama,,,0,Drama
+I Can't Sleep,0.0,Drama,Mystery,,0,Drama Mystery
+Die Hard 2,70.0,Action,Thriller,,0,Action Thriller
+Star Trek: The Motion Picture,35.0,Science,Fiction,Adventure,0,Science Fiction Adventure
+Star Trek VI: The Undiscovered Country,27.0,Science,Fiction,Action,0,Science Fiction Action
+Star Trek V: The Final Frontier,30.0,Science,Fiction,Action,0,Science Fiction Action
+Star Trek II: The Wrath of Khan,12.0,Action,Adventure,Science,0,Action Adventure Science
+Star Trek III: The Search for Spock,18.0,Science,Fiction,Action,0,Science Fiction Action
+Star Trek IV: The Voyage Home,24.0,Science,Fiction,Adventure,0,Science Fiction Adventure
+Batman Returns,80.0,Action,Fantasy,,0,Action Fantasy
+Young Guns,13.0,Crime,Action,Adventure,0,Crime Action Adventure
+Young Guns II,20.0,Western,Adventure,,0,Western Adventure
+Grease,6.0,Romance,,,106,Romance
+Grease 2,13.2,Comedy,Drama,Family,106,Comedy Drama Family
+Marked for Death,12.0,Action,Thriller,,0,Action Thriller
+Adrenalin: Fear the Rush,0.0,Action,Science,Fiction,0,Action Science Fiction
+The Substance of Fire,0.0,Drama,,,-1,Drama
+Under Siege,35.0,Action,Thriller,,0,Action Thriller
+Terror in a Texas Town,0.0,Action,Western,,0,Action Western
+Jaws,7.0,Horror,Thriller,Adventure,107,Horror Thriller Adventure
+Jaws 2,20.0,Horror,Thriller,,107,Horror Thriller
+Jaws 3-D,20.5,Thriller,Horror,,107,Thriller Horror
+My Fellow Americans,0.0,Comedy,Drama,,-1,Comedy Drama
+Mars Attacks!,70.0,Comedy,Fantasy,Science,-1,Comedy Fantasy Science
+Citizen Ruth,3.0,Drama,Comedy,,83,Drama Comedy
+Jerry Maguire,50.0,Comedy,Drama,Romance,-1,Comedy Drama Romance
+Raising Arizona,6.0,Comedy,Crime,,-1,Comedy Crime
+Tin Men,0.0,Comedy,Drama,,0,Comedy Drama
+Sneakers,0.0,Comedy,Crime,Drama,-1,Comedy Crime Drama
+Bastard Out of Carolina,0.0,Drama,,,-1,Drama
+In Love and War,0.0,Drama,Romance,,0,Drama Romance
+Marvin's Room,23.0,Drama,,,0,Drama
+Somebody Is Waiting,0.0,Drama,,,1,Drama
+Ghosts of Mississippi,0.0,History,Drama,,-1,History Drama
+Night Falls on Manhattan,0.0,Drama,Crime,,0,Drama Crime
+Beavis and Butt-Head Do America,12.0,Animation,Comedy,,0,Animation Comedy
+La Cérémonie,0.0,Drama,Thriller,,15,Drama Thriller
+Scream,14.0,Crime,Horror,Mystery,65,Crime Horror Mystery
+The Last of the Mohicans,40.0,Action,Adventure,Drama,-1,Action Adventure Drama
+Michael,0.0,Comedy,Drama,Fantasy,0,Comedy Drama Fantasy
+The Evening Star,0.0,Drama,Romance,Family,0,Drama Romance Family
+Hamlet,0.0,Drama,,,108,Drama
+Some Mother's Son,0.0,Drama,History,,0,Drama History
+The Whole Wide World,1.3,Drama,Romance,,0,Drama Romance
+Mother,0.0,Comedy,,,0,Comedy
+Thieves,0.0,Romance,Crime,Drama,0,Romance Crime Drama
+Evita,55.0,History,Drama,Music,-1,History Drama Music
+The Portrait of a Lady,0.0,Drama,Romance,,0,Drama Romance
+Walkabout,0.0,Adventure,Drama,,-1,Adventure Drama
+Message to Love: The Isle of Wight Festival,0.0,Documentary,Music,,0,Documentary Music
+Murder at 1600,0.0,Action,Drama,Mystery,0,Action Drama Mystery
+Hearts and Minds,0.5,Drama,Thriller,Documentary,0,Drama Thriller Documentary
+Inside,0.0,Crime,Drama,TV,-1,Crime Drama TV
+Fierce Creatures,0.0,Comedy,Romance,,0,Comedy Romance
+Zeus & Roxanne,0.0,Action,Adventure,Comedy,-1,Action Adventure Comedy
+Turbulence,55.0,Action,Thriller,Crime,-1,Action Thriller Crime
+Angel Baby,0.0,Drama,,,8,Drama
+First Strike,0.0,Action,Adventure,Comedy,-1,Action Adventure Comedy
+Underworld,0.0,Drama,Action,Comedy,-1,Drama Action Comedy
+Beverly Hills Ninja,0.0,Action,Comedy,,0,Action Comedy
+Metro,55.0,Action,Adventure,Comedy,-1,Action Adventure Comedy
+The Machine,0.0,Horror,Thriller,Science,-1,Horror Thriller Science
+Falling in Love Again,0.0,Drama,Romance,,0,Drama Romance
+The Cement Garden,0.0,Drama,,,0,Drama
+Dante's Peak,116.0,Action,Adventure,Thriller,48,Action Adventure Thriller
+Meet Wally Sparks,0.0,Comedy,,,0,Comedy
+Amos & Andrew,0.0,Action,Comedy,,-1,Action Comedy
+Benny & Joon,0.0,Comedy,Drama,Romance,109,Comedy Drama Romance
+Prefontaine,8.0,Drama,Romance,,-1,Drama Romance
+A Tickle in the Heart,0.0,Documentary,,,0,Documentary
+Guantanamera,0.0,Drama,Comedy,Romance,-1,Drama Comedy Romance
+McHale's Navy,0.0,Action,Comedy,Romance,-1,Action Comedy Romance
+Kolya,0.0,Music,Drama,Comedy,-1,Music Drama Comedy
+Gridlock'd,0.0,Crime,Drama,Comedy,-1,Crime Drama Comedy
+Fire on the Mountain,0.0,Documentary,,,0,Documentary
+Waiting for Guffman,0.0,Music,Comedy,,1,Music Comedy
+Prisoner of the Mountains,0.0,Drama,War,,0,Drama War
+The Beautician and the Beast,16.0,Comedy,Romance,,0,Comedy Romance
+SubUrbia,0.0,Comedy,Drama,,-1,Comedy Drama
+Hotel de Love,0.0,Comedy,Foreign,Romance,0,Comedy Foreign Romance
+The Pest,17.0,Action,Comedy,,-1,Action Comedy
+Fools Rush In,0.0,Drama,Comedy,Romance,0,Drama Comedy Romance
+Touch,0.0,Action,Comedy,Drama,0,Action Comedy Drama
+Absolute Power,50.0,Crime,Drama,Thriller,0,Crime Drama Thriller
+That Darn Cat,0.0,Comedy,Family,,0,Comedy Family
+Vegas Vacation,25.0,Comedy,,,0,Comedy
+Unforgotten: Twenty-Five Years After Willowbrook,0.0,,,,-1,
+That Old Feeling,0.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+Lost Highway,15.0,Drama,Thriller,Mystery,0,Drama Thriller Mystery
+Rosewood,30.0,Drama,History,,-1,Drama History
+Donnie Brasco,35.0,Crime,Drama,Thriller,-1,Crime Drama Thriller
+Salut cousin !,0.0,Comedy,,,110,Comedy
+Booty Call,0.0,Comedy,,,-1,Comedy
+Rhyme & Reason,0.0,Documentary,,,-1,Documentary
+Boys Life 2,0.0,Drama,Romance,,0,Drama Romance
+City of Industry,8.0,Crime,Thriller,Drama,0,Crime Thriller Drama
+Best Men,1.0,Comedy,Romance,,0,Comedy Romance
+Jungle 2 Jungle,0.0,Comedy,Family,,42,Comedy Family
+Kama Sutra - A Tale of Love,3.0,Drama,History,Romance,0,Drama History Romance
+Private Parts,28.0,Comedy,Drama,,0,Comedy Drama
+Love Jones,10.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+The Saint,68.0,Thriller,Action,Romance,54,Thriller Action Romance
+Smilla's Sense of Snow,35.0,Action,Crime,Drama,4,Action Crime Drama
+The Van,0.0,Comedy,Drama,,-1,Comedy Drama
+Crash,10.0,Drama,Thriller,Romance,-1,Drama Thriller Romance
+The Daytrippers,0.0,Comedy,Drama,Mystery,-1,Comedy Drama Mystery
+Liar Liar,45.0,Comedy,,,111,Comedy
+The Quiet Room,0.0,Drama,Foreign,,0,Drama Foreign
+Selena,20.0,Drama,,,-1,Drama
+The Devil's Own,90.0,Crime,Thriller,Drama,0,Crime Thriller Drama
+Cats Don't Dance,32.0,Animation,Comedy,Family,0,Animation Comedy Family
+B.A.P.S.,0.0,Action,Comedy,,-1,Action Comedy
+Love and Other Catastrophes,0.0,Comedy,Romance,,0,Comedy Romance
+Turbo: A Power Rangers Movie,10.0,Action,Adventure,Family,0,Action Adventure Family
+Anna Karenina,35.0,Drama,Romance,,-1,Drama Romance
+Double Team,30.0,Action,Science,Fiction,0,Action Science Fiction
+Inventing the Abbotts,0.0,Drama,Romance,,-1,Drama Romance
+Anaconda,45.0,Adventure,Horror,Thriller,-1,Adventure Horror Thriller
+Grosse Pointe Blank,0.0,Action,Comedy,Thriller,112,Action Comedy Thriller
+Keys to Tulsa,0.0,Crime,Drama,Thriller,-1,Crime Drama Thriller
+Kissed,0.0,Romance,Drama,,113,Romance Drama
+8 Heads in a Duffel Bag,0.0,Comedy,Crime,,-1,Comedy Crime
+Hollow Reed,0.0,Drama,,,114,Drama
+Paradise Road,16.0,War,Drama,History,0,War Drama History
+Traveller,0.0,Drama,Crime,,-1,Drama Crime
+All Over Me,0.0,Drama,Romance,,-1,Drama Romance
+A Brother's Kiss,0.0,Drama,,,0,Drama
+A Chef in Love,0.0,Drama,Comedy,Romance,0,Drama Comedy Romance
+Romy and Michele's High School Reunion,0.0,Comedy,,,0,Comedy
+Temptress Moon,0.0,Drama,Foreign,Romance,0,Drama Foreign Romance
+Volcano,90.0,Science,Fiction,Action,-1,Science Fiction Action
+Children of the Revolution,0.0,Comedy,Drama,,0,Comedy Drama
+Austin Powers: International Man of Mystery,16.5,Science,Fiction,Comedy,0,Science Fiction Comedy
+Breakdown,36.0,Drama,Action,Thriller,0,Drama Action Thriller
+Broken English,0.0,Romance,Drama,,13,Romance Drama
+Commandments,0.0,Comedy,Drama,Romance,-1,Comedy Drama Romance
+Ripe,0.0,Drama,,,-1,Drama
+"Truth or Consequences, N.M.",0.0,Action,Crime,Drama,0,Action Crime Drama
+The Turning,0.0,Drama,,,-1,Drama
+Warriors of Virtue,0.0,Fantasy,Family,Action,36,Fantasy Family Action
+Fathers' Day,85.0,Comedy,Family,,0,Comedy Family
+The Fifth Element,90.0,Adventure,Fantasy,Action,-1,Adventure Fantasy Action
+Intimate Relations,0.0,,,,-1,
+Nowhere,0.0,Science,Fiction,Drama,-1,Science Fiction Drama
+Losing Chase,0.0,Drama,Romance,,35,Drama Romance
+Sprung,0.0,Comedy,Romance,,-1,Comedy Romance
+Le Bonheur,0.0,Drama,Romance,,71,Drama Romance
+Love! Valour! Compassion!,2.0,Drama,,,0,Drama
+Shall We Dance?,0.0,Music,Comedy,Drama,0,Music Comedy Drama
+The Second Jungle Book: Mowgli & Baloo,0.0,Adventure,Family,,42,Adventure Family
+Twin Town,0.0,Comedy,Drama,,0,Comedy Drama
+Addicted to Love,0.0,Comedy,Romance,,0,Comedy Romance
+Brassed Off,0.0,Comedy,Romance,Drama,-1,Comedy Romance Drama
+The Designated Mourner,0.0,,,,-1,
+The Lost World: Jurassic Park,73.0,Adventure,Action,Science,0,Adventure Action Science
+Ponette,0.0,Drama,Foreign,,-1,Drama Foreign
+Schizopolis,0.0,Comedy,,,-1,Comedy
+Shiloh,0.0,Drama,Family,,-1,Drama Family
+The War at Home,0.0,Drama,,,0,Drama
+Rough Magic,0.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+Trial and Error,0.0,Comedy,Romance,,24,Comedy Romance
+Buddy,0.0,Adventure,Comedy,Family,0,Adventure Comedy Family
+Con Air,75.0,Action,Thriller,Crime,0,Action Thriller Crime
+Late Bloomers,0.0,,,,0,
+The Pillow Book,0.0,Drama,Foreign,Romance,42,Drama Foreign Romance
+To Have (Or Not),0.0,Drama,Romance,,-1,Drama Romance
+Speed 2: Cruise Control,160.0,Action,Adventure,Thriller,43,Action Adventure Thriller
+Squeeze,0.5,Crime,Drama,,0,Crime Drama
+Sudden Manhattan,0.0,Comedy,Thriller,,0,Comedy Thriller
+The Next Step,0.0,,,,-1,
+Wedding Bell Blues,0.0,Comedy,Romance,,0,Comedy Romance
+Batman & Robin,125.0,Action,Crime,Fantasy,0,Action Crime Fantasy
+Dream with the Fishes,0.0,Comedy,,,0,Comedy
+Roseanna's Grave,0.0,Comedy,Romance,Drama,38,Comedy Romance Drama
+Head Above Water,0.0,Comedy,Thriller,,0,Comedy Thriller
+Hercules,85.0,Animation,Family,Fantasy,-1,Animation Family Fantasy
+The Last Time I Committed Suicide,0.0,Drama,,,0,Drama
+MURDER and murder,0.0,Drama,Romance,,0,Drama Romance
+My Best Friend's Wedding,38.0,Comedy,Romance,,0,Comedy Romance
+Tetsuo II: Body Hammer,0.0,Science,Fiction,Horror,0,Science Fiction Horror
+When the Cat's Away,0.0,Comedy,,,0,Comedy
+Contempt,0.9,Drama,,,-1,Drama
+Face/Off,80.0,Action,Crime,Science,0,Action Crime Science
+Fall,0.0,Drama,Romance,,0,Drama Romance
+Gabbeh,0.0,Drama,Mystery,Romance,-1,Drama Mystery Romance
+Mondo,0.0,Drama,,,-1,Drama
+The Innocent Sleep,0.0,Thriller,,,0,Thriller
+For Ever Mozart,0.0,Drama,Comedy,War,75,Drama Comedy War
+Men in Black,90.0,Action,Adventure,Comedy,0,Action Adventure Comedy
+Out to Sea,0.0,Comedy,Romance,,0,Comedy Romance
+Wild America,0.0,Family,,,0,Family
+A Simple Wish,28.0,Adventure,Comedy,Family,0,Adventure Comedy Family
+Contact,90.0,Drama,Science,Fiction,0,Drama Science Fiction
+Love Serenade,0.0,Comedy,Foreign,Romance,0,Comedy Foreign Romance
+G.I. Jane,50.0,Action,Drama,,64,Action Drama
+Conan the Barbarian,20.0,Adventure,Fantasy,Action,-1,Adventure Fantasy Action
+George of the Jungle,55.0,Adventure,Comedy,Family,42,Adventure Comedy Family
+Cop Land,15.0,Action,Crime,Drama,0,Action Crime Drama
+Event Horizon,60.0,Horror,Science,Fiction,0,Horror Science Fiction
+Spawn,40.0,Action,Adventure,Fantasy,-1,Action Adventure Fantasy
+Air Bud,3.0,Comedy,Family,Drama,0,Comedy Family Drama
+Picture Perfect,19.0,Comedy,Romance,,0,Comedy Romance
+In the Company of Men,0.0,Comedy,Drama,,0,Comedy Drama
+Free Willy 3: The Rescue,0.0,Adventure,,,0,Adventure
+Career Girls,0.0,Drama,,,0,Drama
+Conspiracy Theory,75.0,Action,Drama,Mystery,0,Action Drama Mystery
+Desperate Measures,50.0,Action,Drama,Thriller,87,Action Drama Thriller
+Steel,16.0,Science,Fiction,Action,-1,Science Fiction Action
+She's So Lovely,18.0,Drama,Romance,Thriller,-1,Drama Romance Thriller
+Hoodlum,30.0,Crime,Drama,,-1,Crime Drama
+Leave it to Beaver,0.0,Adventure,Comedy,Drama,-1,Adventure Comedy Drama
+Mimic,30.0,Fantasy,Horror,Thriller,-1,Fantasy Horror Thriller
+Money Talks,0.0,Action,Adventure,Comedy,0,Action Adventure Comedy
+Excess Baggage,0.0,Action,Comedy,Romance,-1,Action Comedy Romance
+Kull the Conqueror,0.0,Adventure,Fantasy,Action,-1,Adventure Fantasy Action
+Air Force One,85.0,Action,Thriller,,0,Action Thriller
+One Eight Seven,20.0,Drama,Thriller,,0,Drama Thriller
+The Hunt for Red October,30.0,Action,Adventure,Thriller,0,Action Adventure Thriller
+My Own Private Idaho,2.5,Drama,Romance,,0,Drama Romance
+"Kiss Me, Guido",0.0,Comedy,,,0,Comedy
+Star Maps,0.0,Comedy,Drama,,0,Comedy Drama
+In & Out,35.0,Comedy,Romance,,-1,Comedy Romance
+The Edge,0.0,Action,Adventure,Drama,115,Action Adventure Drama
+The Peacemaker,50.0,Action,Thriller,,-1,Action Thriller
+L.A. Confidential,35.0,Crime,Drama,Mystery,-1,Crime Drama Mystery
+Seven Years in Tibet,70.0,Adventure,Drama,History,0,Adventure Drama History
+Kiss the Girls,27.0,Drama,Mystery,Thriller,0,Drama Mystery Thriller
+Soul Food,0.0,Comedy,Drama,,0,Comedy Drama
+Kicked in the Head,0.0,Comedy,Crime,Drama,0,Comedy Crime Drama
+Wishmaster,5.0,Horror,,,-1,Horror
+A Thousand Acres,0.0,Drama,,,-1,Drama
+The Game,50.0,Drama,Thriller,Mystery,0,Drama Thriller Mystery
+Fire Down Below,60.0,Action,Adventure,Crime,-1,Action Adventure Crime
+U Turn,19.0,Thriller,,,-1,Thriller
+The Locusts,0.0,Drama,Romance,,-1,Drama Romance
+The Matchmaker,0.0,Comedy,Romance,,-1,Comedy Romance
+The Assignment,0.0,Thriller,Action,Crime,0,Thriller Action Crime
+A Smile Like Yours,0.0,Comedy,Romance,,0,Comedy Romance
+Ulee's Gold,0.0,Drama,,,-1,Drama
+The Ice Storm,18.0,Drama,,,-1,Drama
+Stag,0.0,Thriller,,,-1,Thriller
+Chasing Amy,0.25,Comedy,Drama,Romance,-1,Comedy Drama Romance
+Def Jam's How to Be a Player,0.0,Comedy,Romance,,116,Comedy Romance
+The Full Monty,3.5,Comedy,,,96,Comedy
+Alive and Kicking,0.0,Comedy,Drama,,10,Comedy Drama
+Mrs Brown,0.0,Drama,History,Romance,0,Drama History Romance
+I Know What You Did Last Summer,17.0,Horror,Thriller,Mystery,0,Horror Thriller Mystery
+The Devil's Advocate,57.0,Drama,Horror,Mystery,0,Drama Horror Mystery
+RocketMan,16.0,Comedy,Family,Science,-1,Comedy Family Science
+Playing God,12.0,Drama,Action,Thriller,0,Drama Action Thriller
+The House of Yes,1.5,Comedy,Drama,,0,Comedy Drama
+"Fast, Cheap & Out of Control",0.0,Documentary,,,-1,Documentary
+Washington Square,0.0,Drama,Romance,,54,Drama Romance
+Telling Lies In America,0.0,Music,Drama,,0,Music Drama
+Year of the Horse,0.0,Documentary,Music,,0,Documentary Music
+Gattaca,36.0,Thriller,Science,Fiction,-1,Thriller Science Fiction
+FairyTale: A True Story,0.0,Fantasy,Drama,Mystery,0,Fantasy Drama Mystery
+Phantoms,0.0,Horror,Science,Fiction,-1,Horror Science Fiction
+Swept from the Sea,0.0,Drama,Romance,,0,Drama Romance
+Wonderland,0.0,Documentary,,,0,Documentary
+A Life Less Ordinary,12.0,Fantasy,Drama,Comedy,0,Fantasy Drama Comedy
+Hurricane Streets,0.0,Romance,Crime,Drama,-1,Romance Crime Drama
+Eve's Bayou,0.0,Drama,,,0,Drama
+Switchback,37.0,Action,Adventure,Mystery,-1,Action Adventure Mystery
+Gang Related,0.0,Action,Drama,,88,Action Drama
+Stripes,10.0,Action,Comedy,,-1,Action Comedy
+Nenette and Boni,0.0,Drama,,,-1,Drama
+Bean,18.0,Comedy,,,-1,Comedy
+Hugo Pool,0.0,Comedy,Romance,,-1,Comedy Romance
+Mad City,50.0,Action,Drama,Thriller,0,Action Drama Thriller
+One Night Stand,24.0,Drama,,,0,Drama
+The Tango Lesson,0.0,Drama,Music,Romance,117,Drama Music Romance
+Welcome to Sarajevo,0.0,War,Drama,History,0,War Drama History
+Deceiver,0.0,Mystery,Crime,Drama,-1,Mystery Crime Drama
+The Rainmaker,40.0,Drama,Crime,Thriller,-1,Drama Crime Thriller
+Boogie Nights,15.0,Drama,,,55,Drama
+Witness,12.0,Crime,Drama,Romance,25,Crime Drama Romance
+Incognito,0.0,Crime,Thriller,,-1,Crime Thriller
+Starship Troopers,105.0,Adventure,Action,Thriller,-1,Adventure Action Thriller
+Critical Care,0.0,Comedy,Drama,,-1,Comedy Drama
+The Joy Luck Club,11.0,Drama,,,8,Drama
+Chairman of the Board,0.0,Comedy,,,-1,Comedy
+Sliding Doors,6.0,Comedy,Drama,Fantasy,92,Comedy Drama Fantasy
+Mortal Kombat: Annihilation,30.0,Action,Fantasy,Science,7,Action Fantasy Science
+The Truman Show,60.0,Comedy,Drama,,-1,Comedy Drama
+The Wings of the Dove,0.0,Drama,Romance,,0,Drama Romance
+Mrs. Dalloway,0.0,Drama,Romance,,0,Drama Romance
+"I Love You, I Love You Not",0.0,Drama,Family,Romance,0,Drama Family Romance
+Red Corner,48.0,Crime,Drama,Thriller,0,Crime Drama Thriller
+The Jackal,60.0,Action,Thriller,Adventure,-1,Action Thriller Adventure
+Anastasia,53.0,Animation,Family,,-1,Animation Family
+The Man Who Knew Too Little,20.0,Comedy,Thriller,Crime,0,Comedy Thriller Crime
+Alien: Resurrection,70.0,Science,Fiction,Horror,0,Science Fiction Horror
+Alien Escape,1.0,Horror,Science,Fiction,0,Horror Science Fiction
+Amistad,36.0,Drama,History,Mystery,-1,Drama History Mystery
+The Apostle,5.0,Drama,,,-1,Drama
+Artemisia,0.0,Drama,History,,-1,Drama History
+Bent,0.0,Drama,History,Romance,-1,Drama History Romance
+Bang,0.0,Drama,,,-1,Drama
+The Boys,0.0,Comedy,,,0,Comedy
+The Butcher Boy,0.0,Comedy,Drama,,0,Comedy Drama
+Deconstructing Harry,20.0,Comedy,Drama,,0,Comedy Drama
+Flubber,80.0,Comedy,Family,Science,0,Comedy Family Science
+For Richer or Poorer,35.0,Comedy,,,-1,Comedy
+Good Will Hunting,10.0,Drama,,,0,Drama
+Guy,0.0,,,,0,
+Tar,0.0,,,,-1,
+Home Alone 3,32.0,Comedy,Family,,0,Comedy Family
+Ill Gotten Gains,0.0,Drama,,,-1,Drama
+Man of Her Dreams,0.0,Horror,Drama,,0,Horror Drama
+Midnight in the Garden of Good and Evil,35.0,Crime,Drama,Mystery,0,Crime Drama Mystery
+MouseHunt,38.0,Comedy,Family,,-1,Comedy Family
+Never Met Picasso,0.0,,,,0,
+Office Killer,0.0,Comedy,Horror,Thriller,0,Comedy Horror Thriller
+Other Voices Other Rooms,0.0,Drama,,,5,Drama
+Scream 2,24.0,Horror,Mystery,,65,Horror Mystery
+Stranger in the House,0.0,Thriller,,,0,Thriller
+The Sweet Hereafter,5.0,Drama,,,0,Drama
+Time Tracers,0.0,Science,Fiction,,0,Science Fiction
+Titanic,200.0,Drama,Romance,Thriller,118,Drama Romance Thriller
+Tomorrow Never Dies,110.0,Adventure,Action,Thriller,-1,Adventure Action Thriller
+Twisted,0.0,Drama,,,-1,Drama
+Full Speed,0.0,Romance,Drama,,43,Romance Drama
+The Education of Little Tree,0.0,Drama,,,0,Drama
+The Postman,80.0,Drama,Adventure,,9,Drama Adventure
+The Horse Whisperer,60.0,Drama,Romance,,0,Drama Romance
+The Winter Guest,0.0,Drama,,,-1,Drama
+Jackie Brown,12.0,Comedy,Crime,Romance,0,Comedy Crime Romance
+Kundun,28.0,Drama,,,-1,Drama
+Mr. Magoo,30.0,Comedy,Family,,0,Comedy Family
+The Big Lebowski,15.0,Comedy,Crime,,0,Comedy Crime
+Afterglow,0.0,Drama,Romance,Comedy,-1,Drama Romance Comedy
+My Life in Pink,0.0,Drama,Comedy,,0,Drama Comedy
+Great Expectations,25.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+3 Ninjas: High Noon at Mega Mountain,0.0,Action,Comedy,Family,0,Action Comedy Family
+Men of Means,0.0,Drama,Action,,0,Drama Action
+Caught Up,0.0,Drama,Thriller,Crime,86,Drama Thriller Crime
+Arguing the World,0.0,,,,0,
+Firestorm,19.0,Action,Adventure,Thriller,-1,Action Adventure Thriller
+Senseless,0.0,Comedy,Romance,,-1,Comedy Romance
+Wag the Dog,15.0,Comedy,Drama,,0,Comedy Drama
+Dark City,27.0,Mystery,Science,Fiction,0,Mystery Science Fiction
+The Leading Man,0.0,Thriller,Drama,Romance,0,Thriller Drama Romance
+Star Kid,0.0,Action,Adventure,Family,0,Action Adventure Family
+Hard Rain,70.0,Thriller,,,0,Thriller
+Half Baked,8.0,Comedy,Crime,,0,Comedy Crime
+Fallen,0.0,Thriller,Fantasy,Crime,0,Thriller Fantasy Crime
+Shooting Fish,3.0,Crime,Comedy,Romance,0,Crime Comedy Romance
+The Prophecy II,0.0,Fantasy,Horror,Thriller,0,Fantasy Horror Thriller
+Fallen Angels,0.0,Drama,Action,Romance,0,Drama Action Romance
+Four Days in September,0.0,Action,Drama,Foreign,0,Action Drama Foreign
+Spice World,25.0,Adventure,Fantasy,Drama,0,Adventure Fantasy Drama
+Deep Rising,45.0,Adventure,Action,Horror,0,Adventure Action Horror
+Tainted,0.0,Thriller,Comedy,,-1,Thriller Comedy
+A Letter from Death Row,0.0,Drama,Crime,Mystery,0,Drama Crime Mystery
+Music from Another Room,0.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+Mother and Son,0.0,Drama,,,0,Drama
+The Replacement Killers,30.0,Action,Drama,Crime,0,Action Drama Crime
+B. Monkey,0.0,Romance,Crime,Drama,61,Romance Crime Drama
+The Night Flier,1.0,Mystery,Horror,Fantasy,0,Mystery Horror Fantasy
+Blues Brothers 2000,28.0,Music,Action,Comedy,0,Music Action Comedy
+Tokyo Fist,0.0,Romance,Action,Drama,-1,Romance Action Drama
+Ride,0.0,Comedy,,,0,Comedy
+The Wedding Singer,18.0,Romance,Comedy,,0,Romance Comedy
+Sphere,75.0,Science,Fiction,,-1,Science Fiction
+Ayn Rand: A Sense of Life,0.0,Documentary,,,0,Documentary
+A Further Gesture,0.0,Drama,Thriller,Romance,-1,Drama Thriller Romance
+Little City,0.0,Comedy,Romance,,0,Comedy Romance
+Palmetto,0.0,Mystery,Thriller,Drama,-1,Mystery Thriller Drama
+As Good as It Gets,50.0,Comedy,Romance,,0,Comedy Romance
+King of New York,1.0,Thriller,Crime,,0,Thriller Crime
+A Paralyzing Fear: The Story of Polio in America,0.0,Documentary,,,0,Documentary
+Men with Guns,0.0,Drama,Crime,,0,Drama Crime
+Twilight,0.0,Drama,Crime,Mystery,-1,Drama Crime Mystery
+U.S. Marshals,60.0,Thriller,Crime,Action,-1,Thriller Crime Action
+Welcome to Woop Woop,0.0,Music,Comedy,Fantasy,0,Music Comedy Fantasy
+Love and Death on Long Island,0.0,Drama,Romance,Foreign,0,Drama Romance Foreign
+Midaq Alley,0.0,Drama,,,-1,Drama
+In God's Hands,0.0,Adventure,,,0,Adventure
+Everest,0.0,Adventure,Documentary,,-1,Adventure Documentary
+Hush,0.0,Drama,Thriller,,-1,Drama Thriller
+Suicide Kings,0.0,Action,Comedy,Crime,0,Action Comedy Crime
+The Man in the Iron Mask,0.0,Action,Adventure,Drama,0,Action Adventure Drama
+The Newton Boys,27.0,Crime,Action,Drama,0,Crime Action Drama
+Wild Things,20.0,Thriller,,,0,Thriller
+Paulie,0.0,Comedy,Family,,-1,Comedy Family
+"A Cool, Dry Place",0.0,Drama,Romance,,90,Drama Romance
+Fireworks,0.0,Crime,Drama,,0,Crime Drama
+Primary Colors,65.0,Comedy,Drama,,0,Comedy Drama
+"Niagara, Niagara",0.0,Drama,Romance,,119,Drama Romance
+Wide Awake,6.0,Comedy,Drama,Family,0,Comedy Drama Family
+A Price Above Rubies,0.0,Drama,Romance,,-1,Drama Romance
+Eden,0.0,Drama,,,33,Drama
+Two Girls and a Guy,1.0,Drama,Romance,,0,Drama Romance
+No Looking Back,0.0,Drama,Comedy,Romance,91,Drama Comedy Romance
+Storefront Hitchcock,0.0,Documentary,,,-1,Documentary
+The Proposition,0.147773,Drama,Romance,,-1,Drama Romance
+The Object of My Affection,15.0,Comedy,Drama,Romance,-1,Comedy Drama Romance
+Meet the Deedles,24.0,Animation,Comedy,Family,0,Animation Comedy Family
+Homegrown,0.0,Drama,Action,Comedy,-1,Drama Action Comedy
+The Players Club,0.0,Drama,,,8,Drama
+Barney's Great Adventure,0.0,Family,,,0,Family
+The Big One,0.0,Documentary,,,0,Documentary
+Chinese Box,0.0,Drama,Romance,,-1,Drama Romance
+Lost in Space,80.0,Adventure,Family,Science,0,Adventure Family Science
+Heaven's Burning,0.0,Drama,Action,Thriller,0,Drama Action Thriller
+Mercury Rising,60.0,Action,Crime,Drama,0,Action Crime Drama
+The Spanish Prisoner,10.0,Crime,Drama,Mystery,0,Crime Drama Mystery
+City of Angels,55.0,Drama,Fantasy,Romance,0,Drama Fantasy Romance
+The Last Days of Disco,8.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+The Odd Couple II,0.0,Adventure,Comedy,,0,Adventure Comedy
+My Giant,0.0,Comedy,Drama,Family,0,Comedy Drama Family
+He Got Game,25.0,Drama,,,0,Drama
+The Gingerbread Man,0.0,Thriller,,,0,Thriller
+Illtown,0.0,,,,-1,
+Slappy and the Stinkers,0.0,Adventure,Family,,-1,Adventure Family
+Live Flesh,0.0,Drama,Romance,Thriller,0,Drama Romance Thriller
+Zero Effect,5.0,Comedy,Crime,Mystery,82,Comedy Crime Mystery
+Nil by Mouth,9.0,Drama,,,46,Drama
+Ratchet,0.0,Thriller,,,-1,Thriller
+The Borrowers,29.0,Adventure,Fantasy,Action,-1,Adventure Fantasy Action
+Prince Valiant,0.0,Adventure,Fantasy,,59,Adventure Fantasy
+"I Love You, Don't Touch Me!",0.0,Comedy,Romance,,0,Comedy Romance
+Leather Jacket Love Story,0.067,Drama,Comedy,Romance,0,Drama Comedy Romance
+Love Walked In,0.0,Drama,Thriller,,0,Drama Thriller
+"An Alan Smithee Film: Burn, Hollywood, Burn",10.0,Comedy,,,-1,Comedy
+Kissing a Fool,0.0,Comedy,Romance,,0,Comedy Romance
+Krippendorf's Tribe,0.0,Comedy,Drama,Family,-1,Comedy Drama Family
+Kurt & Courtney,0.0,Documentary,Music,,-1,Documentary Music
+The Real Blonde,0.0,Comedy,Drama,Romance,101,Comedy Drama Romance
+Mr. Nice Guy,12.716953,Crime,Action,Comedy,0,Crime Action Comedy
+Taste of Cherry,0.0,Drama,,,0,Drama
+Character,4.5,Drama,Foreign,History,-1,Drama Foreign History
+Junk Mail,0.0,Comedy,Thriller,,0,Comedy Thriller
+Species II,35.0,Science,Fiction,Action,0,Science Fiction Action
+Major League: Back to the Minors,0.0,Comedy,,,34,Comedy
+Sour Grapes,0.0,Comedy,,,120,Comedy
+Wild Man Blues,0.0,Music,Documentary,,0,Music Documentary
+The Big Hit,13.0,Action,Adventure,Comedy,0,Action Adventure Comedy
+Tarzan and the Lost City,0.0,Action,Adventure,,0,Action Adventure
+Black Dog,0.0,Action,Adventure,Thriller,0,Action Adventure Thriller
+"Dancer, Texas Pop. 81",0.0,Comedy,Drama,Family,0,Comedy Drama Family
+A Friend of the Deceased,0.0,Drama,Comedy,,0,Drama Comedy
+Go Now,0.0,Romance,Drama,TV,-1,Romance Drama TV
+Les Misérables,0.0,Crime,Drama,History,11,Crime Drama History
+Still Breathing,0.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+Clockwatchers,0.0,Comedy,Drama,,-1,Comedy Drama
+Deep Impact,75.0,Action,Drama,Romance,0,Action Drama Romance
+Little Men,0.0,,,,0,
+Woo,13.0,Comedy,Romance,,-1,Comedy Romance
+The Hanging Garden,0.0,Drama,,,0,Drama
+Lawn Dogs,7.0,Drama,,,0,Drama
+Quest for Camelot,40.0,Fantasy,Animation,Drama,0,Fantasy Animation Drama
+Godzilla,130.0,Science,Fiction,Action,0,Science Fiction Action
+Bulworth,30.0,Comedy,Drama,,-1,Comedy Drama
+Fear and Loathing in Las Vegas,18.5,Adventure,Drama,Comedy,0,Adventure Drama Comedy
+The Opposite of Sex,5.0,Comedy,Drama,,0,Comedy Drama
+I Got the Hook Up,0.0,Action,Comedy,,0,Action Comedy
+Almost Heroes,0.0,Action,Adventure,Comedy,30,Action Adventure Comedy
+Hope Floats,0.0,Drama,Romance,,-1,Drama Romance
+Insomnia,0.0,Crime,Drama,Thriller,-1,Crime Drama Thriller
+Little Boy Blue,0.0,Drama,Thriller,,0,Drama Thriller
+The Ugly,0.0,Horror,Thriller,,0,Horror Thriller
+A Perfect Murder,60.0,Crime,Thriller,Drama,0,Crime Thriller Drama
+Beyond Silence,0.0,Drama,,,62,Drama
+Six Days Seven Nights,70.0,Action,Adventure,Comedy,0,Action Adventure Comedy
+Can't Hardly Wait,10.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+Cousin Bette,0.0,Comedy,Drama,Romance,110,Comedy Drama Romance
+High Art,0.0,Drama,Romance,,0,Drama Romance
+The Land Girls,0.0,Drama,Romance,War,0,Drama Romance War
+Passion in the Desert,0.0,Drama,Adventure,,0,Drama Adventure
+Children of Heaven,0.18,Drama,Comedy,Family,0,Drama Comedy Family
+Dear Jesse,0.0,,,,0,
+Dream for an Insomniac,0.0,Romance,Comedy,Drama,0,Romance Comedy Drama
+Hav Plenty,0.0,Action,Comedy,Romance,121,Action Comedy Romance
+Henry Fool,0.0,Comedy,Drama,,0,Comedy Drama
+Marie from the Bay of Angels,0.0,Drama,Romance,,0,Drama Romance
+Mr. Jealousy,0.0,Comedy,Romance,,0,Comedy Romance
+Mulan,90.0,Animation,Family,Adventure,-1,Animation Family Adventure
+Resurrection Man,0.0,Thriller,Crime,Drama,0,Thriller Crime Drama
+The X Files,66.0,Mystery,Science,Fiction,-1,Mystery Science Fiction
+I Went Down,0.0,Action,Comedy,Crime,0,Action Comedy Crime
+Doctor Dolittle,71.0,Comedy,Family,Fantasy,122,Comedy Family Fantasy
+Out of Sight,48.0,Romance,Comedy,Crime,123,Romance Comedy Crime
+Picnic at Hanging Rock,0.0,Thriller,Drama,Mystery,0,Thriller Drama Mystery
+Smoke Signals,0.0,Drama,Comedy,,26,Drama Comedy
+Voyage to the Beginning of the World,0.0,Drama,Foreign,,0,Drama Foreign
+Buffalo '66,1.5,Romance,Comedy,Crime,0,Romance Comedy Crime
+Armageddon,140.0,Action,Thriller,Science,-1,Action Thriller Science
+Lethal Weapon 4,140.0,Action,Adventure,Comedy,124,Action Adventure Comedy
+Madeline,0.0,Comedy,Drama,Family,-1,Comedy Drama Family
+Small Soldiers,40.0,Comedy,Adventure,Fantasy,0,Comedy Adventure Fantasy
+Pi,0.06,Mystery,Drama,Thriller,-1,Mystery Drama Thriller
+Whatever,0.0,Drama,,,-1,Drama
+There's Something About Mary,23.0,Romance,Comedy,,0,Romance Comedy
+Plan 9 from Outer Space,0.06,Science,Fiction,Horror,0,Science Fiction Horror
+Wings,2.0,Action,Drama,Romance,0,Action Drama Romance
+The Broadway Melody,0.379,Drama,Music,Romance,40,Drama Music Romance
+All Quiet on the Western Front,1.25,Drama,War,,0,Drama War
+Cimarron,0.0,Drama,Western,,-1,Drama Western
+Grand Hotel,0.7,Drama,Romance,,0,Drama Romance
+Cavalcade,1.18028,Drama,,,-1,Drama
+Mutiny on the Bounty,1.95,Adventure,Drama,History,-1,Adventure Drama History
+The Great Ziegfeld,0.0,Drama,Music,Romance,0,Drama Music Romance
+The Life of Emile Zola,0.0,Drama,,,0,Drama
+You Can't Take It With You,1.644736,Comedy,Romance,,-1,Comedy Romance
+How Green Was My Valley,1.25,Drama,,,0,Drama
+Mrs. Miniver,1.344,Drama,Romance,War,0,Drama Romance War
+Going My Way,0.0,Drama,Comedy,Music,0,Drama Comedy Music
+The Lost Weekend,1.25,Drama,,,0,Drama
+The Best Years of Our Lives,2.1,Drama,History,Romance,0,Drama History Romance
+Gentleman's Agreement,2.0,Drama,Romance,,-1,Drama Romance
+Hamlet,0.75,Drama,,,108,Drama
+All the King's Men,0.0,Drama,,,0,Drama
+The Greatest Show on Earth,4.0,Action,Drama,Romance,0,Action Drama Romance
+From Here to Eternity,1.65,War,Drama,Romance,0,War Drama Romance
+On the Waterfront,0.91,Crime,Drama,,-1,Crime Drama
+Marty,0.343,Drama,Romance,,-1,Drama Romance
+West Side Story,6.0,Crime,Drama,Music,0,Crime Drama Music
+Tom Jones,1.0,Adventure,Comedy,History,0,Adventure Comedy History
+A Man for All Seasons,3.9,Drama,History,,0,Drama History
+In the Heat of the Night,2.0,Crime,Drama,Mystery,0,Crime Drama Mystery
+Oliver!,10.0,Drama,Family,Music,0,Drama Family Music
+Midnight Cowboy,3.6,Drama,,,0,Drama
+The French Connection,1.8,Action,Crime,Thriller,0,Action Crime Thriller
+Rocky,1.0,Drama,,,0,Drama
+Kramer vs. Kramer,8.0,Drama,,,-1,Drama
+Ordinary People,6.0,Drama,,,0,Drama
+Chariots of Fire,5.5,Drama,History,,-1,Drama History
+Terms of Endearment,8.0,Drama,Comedy,,-1,Drama Comedy
+Out of Africa,31.0,Drama,,,-1,Drama
+The Last Emperor,23.0,Drama,History,,-1,Drama History
+Rain Man,25.0,Drama,,,0,Drama
+Driving Miss Daisy,7.5,Comedy,Drama,,29,Comedy Drama
+Take the Money and Run,1.5,Comedy,Crime,,0,Comedy Crime
+Klute,2.5,Mystery,,,-1,Mystery
+Repo Man,1.5,Comedy,Crime,Science,0,Comedy Crime Science
+Metropolitan,0.225,Comedy,Drama,,-1,Comedy Drama
+Labyrinth,25.0,Adventure,Family,Fantasy,-1,Adventure Family Fantasy
+The Breakfast Club,1.0,Comedy,Drama,,8,Comedy Drama
+A Nightmare on Elm Street Part 2: Freddy's Revenge,3.0,Horror,,,0,Horror
+A Nightmare on Elm Street 3: Dream Warriors,5.0,Horror,Thriller,,0,Horror Thriller
+A Nightmare on Elm Street 4: The Dream Master,7.0,Horror,Thriller,,0,Horror Thriller
+A Nightmare on Elm Street 5: The Dream Child,8.0,Horror,Thriller,,0,Horror Thriller
+Freddy's Dead: The Final Nightmare,11.0,Horror,Thriller,Comedy,0,Horror Thriller Comedy
+Friday the 13th,0.55,Horror,,,0,Horror
+Friday the 13th Part 2,1.25,Horror,Thriller,,0,Horror Thriller
+Friday the 13th Part III,4.0,Horror,Thriller,,0,Horror Thriller
+Friday the 13th: The Final Chapter,2.6,Horror,Thriller,,0,Horror Thriller
+Friday the 13th: A New Beginning,2.2,Horror,Thriller,,0,Horror Thriller
+Friday the 13th Part VI: Jason Lives,3.0,Horror,Mystery,Thriller,0,Horror Mystery Thriller
+Friday the 13th Part VII: The New Blood,2.8,Horror,Thriller,,0,Horror Thriller
+Friday the 13th Part VIII: Jason Takes Manhattan,5.0,Horror,Thriller,,0,Horror Thriller
+Halloween,0.3,Horror,Thriller,,0,Horror Thriller
+Halloween II,2.5,Horror,Thriller,,0,Horror Thriller
+Halloween III: Season of the Witch,2.5,Horror,Mystery,Science,0,Horror Mystery Science
+Halloween 4: The Return of Michael Myers,5.0,Horror,Thriller,,0,Horror Thriller
+Halloween 5: The Revenge of Michael Myers,5.0,Horror,Thriller,,0,Horror Thriller
+Prom Night,1.0,Horror,Mystery,Thriller,0,Horror Mystery Thriller
+Hello Mary Lou: Prom Night II,0.0,Horror,,,0,Horror
+Prom Night III: The Last Kiss,0.0,Thriller,Comedy,Horror,0,Thriller Comedy Horror
+Prom Night IV: Deliver Us from Evil,0.0,Horror,,,0,Horror
+Child's Play,9.0,Horror,Thriller,,0,Horror Thriller
+Child's Play 2,13.0,Drama,Horror,,0,Drama Horror
+Child's Play 3,13.0,Thriller,Horror,Action,0,Thriller Horror Action
+Poltergeist,10.7,Horror,,,0,Horror
+Poltergeist II: The Other Side,19.0,Horror,Thriller,,0,Horror Thriller
+Poltergeist III,10.5,Horror,Thriller,,0,Horror Thriller
+The Exorcist,8.0,Drama,Horror,Thriller,0,Drama Horror Thriller
+Exorcist II: The Heretic,14.0,Horror,Thriller,Fantasy,0,Horror Thriller Fantasy
+The Exorcist III,0.0,Thriller,Horror,Mystery,0,Thriller Horror Mystery
+Lethal Weapon,15.0,Adventure,Action,Comedy,124,Adventure Action Comedy
+Lethal Weapon 2,25.0,Action,Adventure,Comedy,124,Action Adventure Comedy
+Lethal Weapon 3,35.0,Adventure,Action,Comedy,124,Adventure Action Comedy
+Gremlins,11.0,Fantasy,Horror,Comedy,0,Fantasy Horror Comedy
+Gremlins 2: The New Batch,50.0,Comedy,Horror,Fantasy,0,Comedy Horror Fantasy
+The Goonies,19.0,Adventure,Comedy,Family,-1,Adventure Comedy Family
+The Mask of Zorro,95.0,Action,Adventure,,0,Action Adventure
+Polish Wedding,0.0,Comedy,Drama,,0,Comedy Drama
+"This World, Then the Fireworks",0.0,Crime,Drama,Thriller,0,Crime Drama Thriller
+Soylent Green,0.0,Mystery,Science,Fiction,0,Mystery Science Fiction
+Metropolis,92.62,Drama,Science,Fiction,-1,Drama Science Fiction
+Back to the Future Part II,40.0,Adventure,Comedy,Family,0,Adventure Comedy Family
+Back to the Future Part III,40.0,Adventure,Comedy,Family,0,Adventure Comedy Family
+The Poseidon Adventure,5.0,Action,Adventure,,0,Action Adventure
+Freaky Friday,0.0,Fantasy,Comedy,Family,0,Fantasy Comedy Family
+The Absent-Minded Professor,0.0,Comedy,Family,Science,76,Comedy Family Science
+The Apple Dumpling Gang Rides Again,0.0,Comedy,Family,Western,88,Comedy Family Western
+Babes in Toyland,0.0,Fantasy,Science,Fiction,125,Fantasy Science Fiction
+Bambi,0.858,Animation,Drama,Family,-1,Animation Drama Family
+Seven Samurai,2.0,Action,Drama,,0,Action Drama
+Dangerous Liaisons,14.0,Drama,Romance,,0,Drama Romance
+Dune,40.0,Action,Science,Fiction,-1,Action Science Fiction
+The Last Temptation of Christ,7.0,Drama,,,0,Drama
+The Godfather: Part III,54.0,Crime,Drama,Thriller,0,Crime Drama Thriller
+The Rapture,1.227401,Mystery,Drama,,-1,Mystery Drama
+Lolita,62.0,Drama,Romance,,126,Drama Romance
+Disturbing Behavior,15.0,Mystery,Horror,Science,-1,Mystery Horror Science
+Jane Austen's Mafia!,10.0,Comedy,Crime,,64,Comedy Crime
+Saving Private Ryan,70.0,Drama,History,War,0,Drama History War
+Billy's Hollywood Screen Kiss,0.0,Comedy,Romance,,0,Comedy Romance
+East Palace West Palace,0.0,Drama,,,20,Drama
+The Million Dollar Duck,0.0,Comedy,Family,,100,Comedy Family
+The Barefoot Executive,0.0,Comedy,Family,,0,Comedy Family
+The Black Cauldron,25.0,Animation,,,0,Animation
+The Black Hole,20.0,Adventure,Family,Science,0,Adventure Family Science
+Blackbeard's Ghost,0.0,Fantasy,Comedy,Family,0,Fantasy Comedy Family
+Blank Check,13.0,Comedy,Family,,112,Comedy Family
+Candleshoe,0.0,Family,,,-1,Family
+The Cat from Outer Space,0.0,Comedy,Family,Science,0,Comedy Family Science
+Cheetah,5.0,Drama,Family,,-1,Drama Family
+The Computer Wore Tennis Shoes,0.0,Comedy,Family,,-1,Comedy Family
+Condorman,0.0,Comedy,Action,Adventure,-1,Comedy Action Adventure
+D2: The Mighty Ducks,0.0,Action,Comedy,Drama,0,Action Comedy Drama
+Darby O'Gill and the Little People,0.0,Adventure,Fantasy,Science,0,Adventure Fantasy Science
+The Devil and Max Devlin,0.0,Fantasy,Comedy,Science,0,Fantasy Comedy Science
+A Far Off Place,0.0,Drama,Adventure,,90,Drama Adventure
+Flight of the Navigator,0.0,Family,Science,Fiction,0,Family Science Fiction
+The Gnome-Mobile,0.0,Fantasy,Comedy,Family,-1,Fantasy Comedy Family
+The Great Mouse Detective,14.0,Comedy,Animation,Family,0,Comedy Animation Family
+The Happiest Millionaire,0.0,Comedy,Drama,Family,-1,Comedy Drama Family
+Herbie Goes Bananas,0.0,Fantasy,Comedy,Family,74,Fantasy Comedy Family
+Herbie Goes To Monte Carlo,0.0,Romance,Comedy,Family,74,Romance Comedy Family
+Hocus Pocus,28.0,Comedy,Family,Fantasy,-1,Comedy Family Fantasy
+Honey I Blew Up the Kid,40.0,Adventure,Comedy,Family,0,Adventure Comedy Family
+"Honey, I Shrunk the Kids",32.0,Adventure,Comedy,Family,0,Adventure Comedy Family
+Hot Lead & Cold Feet,0.0,Action,Comedy,Family,0,Action Comedy Family
+In Search of the Castaways,0.0,Action,Adventure,Drama,0,Action Adventure Drama
+The Incredible Journey,0.0,Adventure,Family,,0,Adventure Family
+The Negotiator,50.0,Action,Adventure,Crime,-1,Action Adventure Crime
+The Parent Trap,0.0,Comedy,Drama,Family,89,Comedy Drama Family
+BASEketball,0.0,Comedy,,,-1,Comedy
+Full Tilt Boogie,0.0,Documentary,,,55,Documentary
+The Governess,0.0,Drama,Romance,,-1,Drama Romance
+Seventh Heaven,0.0,Drama,,,0,Drama
+Roger & Me,0.16,Documentary,History,,127,Documentary History
+The Purple Rose of Cairo,15.0,Fantasy,Comedy,Romance,0,Fantasy Comedy Romance
+Out of the Past,0.0,Drama,Mystery,Thriller,128,Drama Mystery Thriller
+Doctor Zhivago,11.0,Drama,Romance,War,122,Drama Romance War
+Fanny & Alexander,0.0,Fantasy,Drama,Mystery,-1,Fantasy Drama Mystery
+The Trip to Bountiful,0.0,Drama,,,39,Drama
+Tender Mercies,0.0,Drama,Music,Romance,-1,Drama Music Romance
+And the Band Played On,0.0,Drama,,,83,Drama
+The 'Burbs,18.0,Comedy,Horror,Thriller,-1,Comedy Horror Thriller
+Fandango,0.0,Comedy,Drama,,-1,Comedy Drama
+The Night Porter,0.0,Drama,,,0,Drama
+Mephisto,0.000144,Drama,,,-1,Drama
+Blue Velvet,6.0,Crime,Drama,Mystery,0,Crime Drama Mystery
+The Journey of Natty Gann,0.0,Adventure,,,0,Adventure
+The Jungle Book,4.0,Family,Animation,Adventure,42,Family Animation Adventure
+Kidnapped,0.0,Action,Adventure,Drama,-1,Action Adventure Drama
+Lady and the Tramp,0.0,Family,Animation,,0,Family Animation
+The Little Mermaid,40.0,Animation,Family,,0,Animation Family
+The Mighty Ducks,10.0,Comedy,Family,,0,Comedy Family
+The Muppet Christmas Carol,0.0,Comedy,Family,Fantasy,0,Comedy Family Fantasy
+Newsies,15.0,Drama,Music,Family,-1,Drama Music Family
+One Hundred and One Dalmatians,4.0,Adventure,Animation,Comedy,105,Adventure Animation Comedy
+One Magic Christmas,0.0,Family,Fantasy,,0,Family Fantasy
+Peter Pan,4.0,Animation,Music,Family,0,Animation Music Family
+Popeye,20.0,Action,Adventure,Comedy,-1,Action Adventure Comedy
+The Rescuers Down Under,37.931,Adventure,Animation,Crime,129,Adventure Animation Crime
+The Rescuers,1.2,Fantasy,Family,Animation,129,Fantasy Family Animation
+Return from Witch Mountain,0.0,Adventure,Fantasy,Science,0,Adventure Fantasy Science
+The Return of Jafar,0.0,Family,Adventure,Animation,0,Family Adventure Animation
+Return to Oz,25.0,Adventure,Family,Fantasy,0,Adventure Family Fantasy
+The Rocketeer,42.0,Action,Adventure,Science,-1,Action Adventure Science
+The Shaggy D.A.,0.0,Comedy,Family,,0,Comedy Family
+Sleeping Beauty,6.0,Fantasy,Animation,Romance,0,Fantasy Animation Romance
+Something Wicked This Way Comes,19.0,Fantasy,Mystery,Thriller,0,Fantasy Mystery Thriller
+Son of Flubber,0.0,Comedy,Family,Romance,0,Comedy Family Romance
+Song of the South,0.0,Family,Music,,0,Family Music
+Splash,8.0,Comedy,Fantasy,Romance,-1,Comedy Fantasy Romance
+Squanto: A Warrior's Tale,0.0,Drama,Family,,14,Drama Family
+Steamboat Willie,0.004986,Animation,,,-1,Animation
+Tall Tale,32.0,Adventure,,,14,Adventure
+Tex,0.0,Drama,,,-1,Drama
+Tron,17.0,Science,Fiction,Action,-1,Science Fiction Action
+Swing Kids,0.0,Music,Drama,,0,Music Drama
+Halloween: H20,17.0,Horror,Thriller,,0,Horror Thriller
+L.A. Story,0.0,Comedy,Drama,Fantasy,0,Comedy Drama Fantasy
+The Jerk,0.0,Comedy,,,-1,Comedy
+Dead Men Don't Wear Plaid,0.0,Comedy,Mystery,,0,Comedy Mystery
+The Man with Two Brains,10.1,Comedy,Romance,Science,0,Comedy Romance Science
+Grand Canyon,0.0,Drama,,,0,Drama
+Graveyard Shift,10.5,Drama,Horror,,-1,Drama Horror
+The Outsiders,10.0,Crime,Drama,,-1,Crime Drama
+Indiana Jones and the Temple of Doom,28.0,Adventure,Action,,0,Adventure Action
+The Lord of the Rings,4.0,Fantasy,Drama,Animation,0,Fantasy Drama Animation
+Nineteen Eighty-Four,0.0,Drama,Romance,Science,-1,Drama Romance Science
+The Dead Zone,10.0,Horror,Science,Fiction,0,Horror Science Fiction
+Maximum Overdrive,10.0,Action,Drama,Horror,85,Action Drama Horror
+Needful Things,0.0,Drama,Horror,,0,Drama Horror
+Cujo,5.0,Horror,Thriller,,-1,Horror Thriller
+Children of the Corn,0.8,Drama,Fantasy,Horror,0,Drama Fantasy Horror
+All Dogs Go to Heaven,13.8,Drama,Animation,Family,0,Drama Animation Family
+The Addams Family,30.0,Horror,Comedy,Fantasy,0,Horror Comedy Fantasy
+Ever After: A Cinderella Story,26.0,Drama,Romance,Comedy,0,Drama Romance Comedy
+Snake Eyes,73.0,Crime,Mystery,,0,Crime Mystery
+"First Love, Last Rites",0.3,Drama,,,0,Drama
+Safe Men,0.0,Comedy,Crime,,0,Comedy Crime
+The Saltmen of Tibet,0.0,Documentary,Foreign,,0,Documentary Foreign
+Atlantic City,7.2,Crime,Drama,Romance,0,Crime Drama Romance
+Autumn Sonata,0.0,Music,Drama,,14,Music Drama
+Who's Afraid of Virginia Woolf?,7.5,Drama,,,-1,Drama
+Adventures in Babysitting,0.0,Thriller,Comedy,Crime,0,Thriller Comedy Crime
+Weird Science,0.0,Comedy,Romance,Fantasy,81,Comedy Romance Fantasy
+Doctor Dolittle,18.0,Adventure,Fantasy,Comedy,122,Adventure Fantasy Comedy
+The Nutty Professor,0.0,Comedy,Family,Romance,76,Comedy Family Romance
+Charlotte's Web,0.0,Animation,Drama,Family,-1,Animation Drama Family
+Watership Down,1.0,Adventure,Animation,Drama,-1,Adventure Animation Drama
+The Secret of NIMH,7.0,Fantasy,Animation,Drama,0,Fantasy Animation Drama
+The Dark Crystal,15.0,Fantasy,,,0,Fantasy
+An American Tail,9.0,Drama,Family,Animation,0,Drama Family Animation
+An American Tail: Fievel Goes West,0.0,Adventure,Animation,Family,0,Adventure Animation Family
+Legend,25.0,Adventure,Fantasy,,0,Adventure Fantasy
+Sixteen Candles,6.5,Comedy,Romance,,-1,Comedy Romance
+Pretty in Pink,0.0,Comedy,,,0,Comedy
+St. Elmo's Fire,0.0,Drama,Romance,,0,Drama Romance
+The Clan of the Cave Bear,15.0,Adventure,Drama,,-1,Adventure Drama
+House,3.0,Comedy,Horror,,0,Comedy Horror
+House II: The Second Story,0.0,Fantasy,Horror,Comedy,0,Fantasy Horror Comedy
+The Gods Must Be Crazy,5.0,Action,Comedy,,0,Action Comedy
+The Gods Must Be Crazy II,0.0,Action,Comedy,,0,Action Comedy
+Air Bud: Golden Receiver,0.0,Comedy,Family,,0,Comedy Family
+The Avengers,60.0,Thriller,,,-1,Thriller
+How Stella Got Her Groove Back,20.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+Slums of Beverly Hills,5.0,Comedy,Drama,,0,Comedy Drama
+The Best Man,0.0,,,,0,
+The Chambermaid on the Titanic,0.0,Drama,,,118,Drama
+"Henry II, Portrait of a Serial Killer",0.0,Crime,Horror,Thriller,0,Crime Horror Thriller
+Henry: Portrait of a Serial Killer,0.111,Crime,Drama,Horror,0,Crime Drama Horror
+Rosemary's Baby,3.2,Horror,Drama,Mystery,8,Horror Drama Mystery
+The NeverEnding Story,27.0,Drama,Family,Fantasy,0,Drama Family Fantasy
+The Neverending Story II: The Next Chapter,32.0,Drama,Family,Fantasy,0,Drama Family Fantasy
+Attack of the Killer Tomatoes!,0.09,Comedy,Horror,Science,0,Comedy Horror Science
+Surf Nazis Must Die,0.0,Horror,Science,Fiction,0,Horror Science Fiction
+Your Friends & Neighbors,5.0,Drama,Comedy,,0,Drama Comedy
+Return to Paradise,0.0,Drama,Thriller,Romance,0,Drama Thriller Romance
+Blade,45.0,Horror,Action,,57,Horror Action
+Dance with Me,0.0,Drama,Music,Romance,0,Drama Music Romance
+Dead Man on Campus,0.0,Comedy,,,0,Comedy
+Wrongfully Accused,0.0,Action,Adventure,Comedy,-1,Action Adventure Comedy
+Next Stop Wonderland,0.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+All I Wanna Do,0.0,Comedy,,,-1,Comedy
+The Navigator: A Medieval Odyssey,0.0,Adventure,Action,Drama,0,Adventure Action Drama
+Beetlejuice,15.0,Fantasy,Comedy,,-1,Fantasy Comedy
+Déjà Vu,0.0,Romance,Drama,,-1,Romance Drama
+Rope,1.5,Crime,Drama,Mystery,-1,Crime Drama Mystery
+Family Plot,2.0,Comedy,Crime,Thriller,0,Comedy Crime Thriller
+Frenzy,3.5,Crime,Drama,Mystery,-1,Crime Drama Mystery
+Topaz,4.0,Action,Drama,Mystery,-1,Action Drama Mystery
+Torn Curtain,3.0,Mystery,Thriller,,-1,Mystery Thriller
+Marnie,2.135161,Crime,Drama,Mystery,-1,Crime Drama Mystery
+The Wrong Man,1.2,Crime,Drama,Mystery,0,Crime Drama Mystery
+The Man Who Knew Too Much,2.5,Adventure,Crime,Drama,0,Adventure Crime Drama
+The Trouble with Harry,1.2,Comedy,Mystery,Thriller,0,Comedy Mystery Thriller
+I Confess,0.0,Crime,Drama,,-1,Crime Drama
+Strangers on a Train,1.2,Crime,Drama,Thriller,0,Crime Drama Thriller
+Stage Fright,0.0,Thriller,,,0,Thriller
+54,13.0,Music,Drama,,-1,Music Drama
+I Married a Strange Person!,0.00025,Drama,Comedy,Animation,0,Drama Comedy Animation
+Why Do Fools Fall In Love,0.0,Drama,Romance,,0,Drama Romance
+Keep the Aspidistra Flying,0.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+See the Sea,0.0,Drama,Thriller,,0,Drama Thriller
+Willow,35.0,Adventure,Drama,Action,-1,Adventure Drama Action
+The Untouchables,25.0,Crime,Drama,History,-1,Crime Drama History
+Dirty Work,0.0,Comedy,,,44,Comedy
+Knock Off,33.0,Action,Adventure,Thriller,-1,Action Adventure Thriller
+Firelight,0.0,Romance,Drama,,-1,Romance Drama
+Modulations,0.0,Documentary,,,-1,Documentary
+Phoenix,0.0,Drama,Thriller,Crime,-1,Drama Thriller Crime
+Under Capricorn,0.0,Drama,,,-1,Drama
+The Paradine Case,4.258,Drama,Crime,Thriller,-1,Drama Crime Thriller
+Lifeboat,1.59,Drama,War,,-1,Drama War
+Shadow of a Doubt,0.0,Crime,Drama,Thriller,0,Crime Drama Thriller
+Saboteur,0.0,Thriller,War,,-1,Thriller War
+Mr. & Mrs. Smith,0.0,Comedy,Romance,,0,Comedy Romance
+Suspicion,1.103,Mystery,Thriller,,-1,Mystery Thriller
+Jamaica Inn,0.0,Adventure,Crime,,17,Adventure Crime
+The Lady Vanishes,0.0,Mystery,Thriller,,0,Mystery Thriller
+Young and Innocent,0.0,Drama,Crime,,0,Drama Crime
+Sabotage,0.0,Thriller,Mystery,,-1,Thriller Mystery
+Secret Agent,0.0,Thriller,,,0,Thriller
+The Man Who Knew Too Much,0.0,Drama,Thriller,,0,Drama Thriller
+Waltzes from Vienna,0.0,,,,-1,
+Number Seventeen,0.0,Crime,Mystery,Thriller,115,Crime Mystery Thriller
+Rich and Strange,0.0,Comedy,Drama,Thriller,0,Comedy Drama Thriller
+The Skin Game,0.0,Drama,,,0,Drama
+Elstree Calling,0.0,Music,Comedy,,-1,Music Comedy
+Juno and the Paycock,0.0,Drama,,,-1,Drama
+Murder!,0.0,Mystery,Thriller,,0,Mystery Thriller
+The Manxman,0.0,Drama,,,-1,Drama
+Blackmail,0.0,Drama,Thriller,Crime,-1,Drama Thriller Crime
+Champagne,0.0,Comedy,,,-1,Comedy
+The Farmer's Wife,0.0,Drama,,,0,Drama
+Downhill,0.0,Drama,,,-1,Drama
+Easy Virtue,0.0,Drama,Thriller,,36,Drama Thriller
+The Ring,0.0,Drama,,,-1,Drama
+The Lodger: A Story of the London Fog,0.012,Crime,Drama,Thriller,0,Crime Drama Thriller
+The Pleasure Garden,0.0,Drama,,,0,Drama
+Rounders,12.0,Drama,Crime,,-1,Drama Crime
+Cube,0.25,Thriller,Science,Fiction,-1,Thriller Science Fiction
+Digging to China,0.0,Drama,,,-1,Drama
+Let's Talk About Sex,0.0,,,,0,
+One Man's Hero,0.0,Western,Action,Drama,0,Western Action Drama
+Simon Birch,20.0,Comedy,Drama,Family,130,Comedy Drama Family
+Without Limits,25.0,Drama,,,-1,Drama
+Seven Beauties,0.0,Comedy,Drama,Foreign,0,Comedy Drama Foreign
+Swept Away,0.0,Drama,Comedy,Romance,0,Drama Comedy Romance
+My Bodyguard,0.0,Drama,Family,,-1,Drama Family
+Class,0.0,Comedy,Drama,,97,Comedy Drama
+"Grandview, U.S.A.",0.0,Drama,,,-1,Drama
+Broadcast News,20.0,Comedy,Drama,Romance,-1,Comedy Drama Romance
+The Allnighter,0.0,Comedy,Romance,,-1,Comedy Romance
+Working Girl,28.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+Stars & Bars,0.0,Comedy,,,19,Comedy
+Married to the Mob,10.0,Comedy,Crime,Romance,0,Comedy Crime Romance
+Say Anything...,0.0,Comedy,Drama,Romance,-1,Comedy Drama Romance
+My Blue Heaven,0.0,Action,Comedy,,0,Action Comedy
+Men Don't Leave,0.0,Drama,,,0,Drama
+The Cabinet of Dr. Ramirez,0.0,,,,3,
+Hero,42.0,Drama,Comedy,Thriller,0,Drama Comedy Thriller
+Toys,0.0,Fantasy,Comedy,Science,-1,Fantasy Comedy Science
+Choices,0.0,Drama,,,-1,Drama
+Young Doctors in Love,0.0,Comedy,,,0,Comedy
+Parasite,0.8,Horror,Science,Fiction,-1,Horror Science Fiction
+No Small Affair,0.0,Comedy,Drama,Music,0,Comedy Drama Music
+Blame It on Rio,0.0,Comedy,Romance,,-1,Comedy Romance
+Wisdom,0.0,Crime,Drama,,-1,Crime Drama
+One Crazy Summer,0.0,Drama,Comedy,Romance,0,Drama Comedy Romance
+About Last Night...,0.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+The Seventh Sign,0.0,Horror,Thriller,Mystery,0,Horror Thriller Mystery
+We're No Angels,20.0,Comedy,Crime,Drama,0,Comedy Crime Drama
+Nothing but Trouble,40.0,Comedy,Adventure,,0,Comedy Adventure
+The Butcher's Wife,0.0,Fantasy,Comedy,Science,0,Fantasy Comedy Science
+Mortal Thoughts,8.0,Mystery,Thriller,,7,Mystery Thriller
+A Few Good Men,40.0,Drama,,,0,Drama
+Indecent Proposal,38.0,Drama,,,-1,Drama
+Permanent Midnight,0.0,Drama,Romance,,0,Drama Romance
+One True Thing,0.0,Drama,Romance,,0,Drama Romance
+Rush Hour,33.0,Action,Comedy,Crime,0,Action Comedy Crime
+Lilian's Story,0.0,Drama,,,0,Drama
+Six-String Samurai,2.0,Action,Adventure,Science,0,Action Adventure Science
+A Soldier's Daughter Never Cries,0.0,Drama,,,0,Drama
+Somewhere in the City,0.0,Comedy,Drama,,0,Comedy Drama
+Ronin,55.0,Action,Thriller,Crime,-1,Action Thriller Crime
+Urban Legend,14.0,Horror,Thriller,,0,Horror Thriller
+Clay Pigeons,0.0,Comedy,Crime,Drama,-1,Comedy Crime Drama
+Monument Ave.,0.0,Drama,Thriller,Crime,-1,Drama Thriller Crime
+Pecker,0.0,Comedy,,,-1,Comedy
+The Sheltering Sky,25.0,Adventure,Drama,Romance,0,Adventure Drama Romance
+Bandit Queen,0.0,Drama,Foreign,,0,Drama Foreign
+If....,0.0,Drama,,,-1,Drama
+The Fiendish Plot of Dr. Fu Manchu,0.0,Comedy,Horror,,3,Comedy Horror
+Them!,23.0,Science,Fiction,Mystery,-1,Science Fiction Mystery
+The Thing,15.0,Horror,Mystery,Science,0,Horror Mystery Science
+The Player,8.0,Comedy,Drama,,116,Comedy Drama
+Stardust Memories,10.0,Comedy,Drama,Romance,-1,Comedy Drama Romance
+Edward Scissorhands,20.0,Fantasy,Drama,Romance,-1,Fantasy Drama Romance
+Overnight Delivery,12.0,Comedy,Romance,,-1,Comedy Romance
+Shadrach,0.0,Drama,,,-1,Drama
+Antz,60.0,Adventure,Animation,Comedy,-1,Adventure Animation Comedy
+The Impostors,0.0,Comedy,,,-1,Comedy
+A Night at the Roxbury,17.0,Comedy,,,0,Comedy
+What Dreams May Come,85.0,Drama,Fantasy,Romance,0,Drama Fantasy Romance
+Strangeland,1.1,Horror,,,-1,Horror
+The Battle of the Sexes,0.0,Comedy,,,-1,Comedy
+The Producers,0.947,Comedy,,,-1,Comedy
+History of the World: Part I,11.0,Comedy,,,0,Comedy
+My Cousin Vinny,11.0,Comedy,Drama,,110,Comedy Drama
+Nashville,2.2,Drama,Music,,-1,Drama Music
+Love Is the Devil: Study for a Portrait of Francis Bacon,0.0,TV,Movie,Drama,0,TV Movie Drama
+Slam,1e-06,Drama,,,-1,Drama
+Holy Man,60.0,Drama,Comedy,,0,Drama Comedy
+One Tough Cop,0.0,,,,0,
+Detroit 9000,0.0,Drama,Action,Crime,-1,Drama Action Crime
+The Inheritors,0.0,Drama,Foreign,,-1,Drama Foreign
+The Mighty,0.0,Comedy,Drama,,0,Comedy Drama
+2010,28.0,Thriller,Science,Fiction,-1,Thriller Science Fiction
+Children of a Lesser God,0.0,Drama,Romance,,0,Drama Romance
+The Elephant Man,5.0,Drama,History,,0,Drama History
+Beloved,0.0,Drama,Thriller,,0,Drama Thriller
+Bride of Chucky,25.0,Horror,Comedy,,0,Horror Comedy
+Practical Magic,75.0,Drama,Fantasy,Comedy,0,Drama Fantasy Comedy
+The Alarmist,0.0,Comedy,,,-1,Comedy
+Happiness,3.0,Comedy,Drama,,0,Comedy Drama
+Reach The Rock,0.0,Comedy,Drama,,0,Comedy Drama
+Apt Pupil,14.0,Drama,Thriller,,-1,Drama Thriller
+Pleasantville,0.0,Fantasy,Drama,Comedy,-1,Fantasy Drama Comedy
+Soldier,75.0,Action,War,Science,0,Action War Science
+The Cruise,0.0,Documentary,,,43,Documentary
+Life Is Beautiful,20.0,Comedy,Drama,,0,Comedy Drama
+Orgazmo,1.0,Comedy,,,-1,Comedy
+Shattered Image,0.0,,,,-1,
+Tales from the Darkside: The Movie,3.5,Thriller,Comedy,Fantasy,0,Thriller Comedy Fantasy
+Vampires,20.0,Action,Drama,Fantasy,-1,Action Drama Fantasy
+American History X,20.0,Drama,,,0,Drama
+Hands on a Hard Body: The Documentary,0.0,Documentary,,,0,Documentary
+Living Out Loud,12.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+Belly,0.0,Crime,Drama,,-1,Crime Drama
+Gods and Monsters,10.0,Drama,,,0,Drama
+The Siege,70.0,Drama,Action,Thriller,0,Drama Action Thriller
+The Waterboy,23.0,Comedy,,,-1,Comedy
+Elizabeth,30.0,Drama,History,,-1,Drama History
+Velvet Goldmine,0.0,Drama,Music,,0,Drama Music
+I Still Know What You Did Last Summer,65.0,Horror,Mystery,Thriller,0,Horror Mystery Thriller
+I'll Be Home for Christmas,30.0,Comedy,Family,,0,Comedy Family
+Meet Joe Black,90.0,Fantasy,Drama,Mystery,0,Fantasy Drama Mystery
+Dancing at Lughnasa,0.0,Drama,,,44,Drama
+Hard Core Logo,0.0,Drama,Comedy,Music,0,Drama Comedy Music
+The Naked Man,0.0,Comedy,Thriller,,0,Comedy Thriller
+Runaway Train,9.0,Action,Thriller,,0,Action Thriller
+Desert Bloom,0.0,Drama,Family,,0,Drama Family
+The Stepford Wives,0.0,Horror,Mystery,Science,8,Horror Mystery Science
+The Pope of Greenwich Village,0.0,Drama,Action,Comedy,0,Drama Action Comedy
+Sid & Nancy,4.0,Drama,Music,Romance,-1,Drama Music Romance
+Mona Lisa,0.0,Drama,Crime,Romance,-1,Drama Crime Romance
+Heart Condition,0.0,Fantasy,Comedy,Science,0,Fantasy Comedy Science
+Nights of Cabiria,0.0,Drama,,,55,Drama
+The Big Chill,0.0,Comedy,Drama,,0,Comedy Drama
+Enemy of the State,90.0,Action,Drama,Thriller,-1,Action Drama Thriller
+The Rugrats Movie,30.0,Animation,Family,,0,Animation Family
+A Bug's Life,120.0,Adventure,Animation,Comedy,0,Adventure Animation Comedy
+Celebrity,0.0,Drama,Comedy,,-1,Drama Comedy
+Central Station,2.9,Drama,,,-1,Drama
+Savior,10.0,History,Drama,War,-1,History Drama War
+Waking Ned,0.0,Comedy,Romance,,-1,Comedy Romance
+The Celebration,1.3,Drama,,,-1,Drama
+Pink Flamingos,0.012,Horror,Comedy,Crime,0,Horror Comedy Crime
+Glen or Glenda,0.0,Comedy,Drama,,93,Comedy Drama
+Godzilla,1.0,Thriller,Horror,Science,0,Thriller Horror Science
+Godzilla 1985,2.0,Action,Drama,Horror,0,Action Drama Horror
+King Kong vs. Godzilla,0.0,Action,Adventure,Science,0,Action Adventure Science
+King Kong,0.672,Action,Adventure,Drama,0,Action Adventure Drama
+King Kong,23.0,Adventure,Drama,,0,Adventure Drama
+King Kong Lives,10.0,Action,Horror,,0,Action Horror
+Desperately Seeking Susan,5.0,Comedy,,,-1,Comedy
+The Emerald Forest,0.0,Action,Adventure,Drama,-1,Action Adventure Drama
+Fletch,8.0,Comedy,Crime,Mystery,0,Comedy Crime Mystery
+Fletch Lives,8.04576,Comedy,Crime,Mystery,0,Comedy Crime Mystery
+Red Sonja,17.9,Adventure,Fantasy,Action,0,Adventure Fantasy Action
+Gung Ho,0.0,Comedy,Drama,,-1,Comedy Drama
+The Money Pit,10.0,Comedy,Romance,,0,Comedy Romance
+A View to a Kill,30.0,Adventure,Action,Thriller,0,Adventure Action Thriller
+Lifeforce,25.0,Fantasy,Horror,Science,-1,Fantasy Horror Science
+Police Academy,4.5,Comedy,Crime,,0,Comedy Crime
+Police Academy 2: Their First Assignment,0.0,Comedy,Crime,,0,Comedy Crime
+Police Academy 3: Back in Training,0.0,Comedy,Crime,,0,Comedy Crime
+Police Academy 4: Citizens on Patrol,0.0,Comedy,Crime,,0,Comedy Crime
+Police Academy 5: Assignment Miami Beach,0.0,Comedy,Crime,,0,Comedy Crime
+Police Academy 6: City Under Siege,0.0,Comedy,Crime,,0,Comedy Crime
+Babe: Pig in the City,90.0,Adventure,Comedy,Drama,0,Adventure Comedy Drama
+Home Fries,15.0,Drama,Comedy,Romance,0,Drama Comedy Romance
+Ringmaster,3.5,Comedy,,,-1,Comedy
+Very Bad Things,30.0,Comedy,Crime,Thriller,0,Comedy Crime Thriller
+Steam: The Turkish Bath,0.0,Drama,,,-1,Drama
+Psycho,60.0,Horror,Mystery,Thriller,0,Horror Mystery Thriller
+Little Voice,0.0,Comedy,Drama,,0,Comedy Drama
+A Simple Plan,0.0,Drama,Crime,Thriller,0,Drama Crime Thriller
+Jack Frost,27.0,Comedy,Family,Drama,51,Comedy Family Drama
+Star Trek: Insurrection,70.0,Science,Fiction,Action,0,Science Fiction Action
+The Prince of Egypt,70.0,Adventure,Animation,Drama,59,Adventure Animation Drama
+Rushmore,9.0,Comedy,Drama,,-1,Comedy Drama
+Shakespeare in Love,25.0,Romance,History,,0,Romance History
+Mass Appeal,0.0,Drama,,,-1,Drama
+Miracle on 34th Street,0.0,Drama,Family,,0,Drama Family
+Santa Claus: The Movie,50.0,Family,Fantasy,Adventure,0,Family Fantasy Adventure
+Prancer,0.0,Drama,Family,Fantasy,-1,Drama Family Fantasy
+Pale Rider,0.0,Romance,Western,,-1,Romance Western
+Rambo: First Blood Part II,44.0,Action,Adventure,Thriller,0,Action Adventure Thriller
+First Blood,15.0,Action,Adventure,Thriller,0,Action Adventure Thriller
+Rambo III,63.0,Action,Adventure,Thriller,0,Action Adventure Thriller
+The Jewel of the Nile,25.0,Action,Adventure,Comedy,-1,Action Adventure Comedy
+Romancing the Stone,10.0,Action,Adventure,Comedy,65,Action Adventure Comedy
+Cocoon,0.0,Comedy,Drama,Science,0,Comedy Drama Science
+Cocoon: The Return,17.5,Comedy,Drama,Science,0,Comedy Drama Science
+Rocky II,7.0,Drama,,,0,Drama
+Rocky III,17.0,Drama,,,0,Drama
+Rocky IV,31.0,Drama,,,0,Drama
+Rocky V,42.0,Drama,,,0,Drama
+Clue,15.0,Comedy,Thriller,Crime,-1,Comedy Thriller Crime
+Young Sherlock Holmes,18.0,Action,Adventure,Crime,0,Action Adventure Crime
+Violets Are Blue,0.0,,,,0,
+Back to School,0.0,Comedy,,,0,Comedy
+Heartburn,0.0,Comedy,Drama,Romance,-1,Comedy Drama Romance
+Nothing in Common,0.0,Drama,Comedy,Romance,-1,Drama Comedy Romance
+Extremities,0.0,Drama,Thriller,,-1,Drama Thriller
+The Karate Kid,8.0,Drama,,,0,Drama
+"The Karate Kid, Part II",0.000113,Adventure,Drama,Action,0,Adventure Drama Action
+"The Karate Kid, Part III",0.0,Family,Adventure,,0,Family Adventure
+National Lampoon's Christmas Vacation,27.0,Comedy,,,0,Comedy
+You've Got Mail,65.0,Comedy,Romance,,0,Comedy Romance
+The General,0.0,Drama,Action,Crime,84,Drama Action Crime
+The Theory of Flight,0.0,Drama,,,0,Drama
+The Thin Red Line,52.0,Drama,History,War,0,Drama History War
+The Faculty,15.0,Horror,Mystery,Science,-1,Horror Mystery Science
+Mighty Joe Young,90.0,Action,Adventure,Family,0,Action Adventure Family
+Mighty Joe Young,9.4e-05,Adventure,Fantasy,Drama,0,Adventure Fantasy Drama
+Patch Adams,50.0,Comedy,Drama,,-1,Comedy Drama
+Stepmom,0.0,Drama,Romance,,-1,Drama Romance
+A Civil Action,70.0,Drama,,,0,Drama
+Down in the Delta,0.0,Drama,,,70,Drama
+Hurlyburly,0.0,Comedy,Drama,,-1,Comedy Drama
+Tea with Mussolini,12.0,Comedy,Drama,War,-1,Comedy Drama War
+Wilde,0.0,Drama,History,,-1,Drama History
+Outside Ozona,0.0,Thriller,Comedy,Drama,131,Thriller Comedy Drama
+Affliction,6.0,Drama,,,-1,Drama
+Another Day in Paradise,0.0,Thriller,Crime,Drama,0,Thriller Crime Drama
+The Hi-Lo Country,0.0,Drama,Action,Western,0,Drama Action Western
+Hilary and Jackie,0.0,Music,Drama,,0,Music Drama
+Playing by Heart,20.0,Drama,,,0,Drama
+24 7: Twenty Four Seven,0.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+At First Sight,0.0,Drama,Romance,,123,Drama Romance
+In Dreams,0.0,Drama,Thriller,,0,Drama Thriller
+Varsity Blues,0.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+Virus,75.0,Horror,Action,Science,-1,Horror Action Science
+The Garbage Pail Kids Movie,0.0,Adventure,Science,Fiction,0,Adventure Science Fiction
+Howard the Duck,37.0,Comedy,Fantasy,Science,100,Comedy Fantasy Science
+The Gate,2.5,Horror,Fantasy,,0,Horror Fantasy
+The Gate II: Trespassers,0.0,Horror,,,0,Horror
+The Boy Who Could Fly,0.0,Drama,Family,Fantasy,0,Drama Family Fantasy
+The Fly,0.7,Drama,Horror,Science,0,Drama Horror Science
+The Fly,15.0,Horror,Science,Fiction,0,Horror Science Fiction
+The Fly II,0.0,Horror,Science,Fiction,0,Horror Science Fiction
+Running Scared,0.0,Thriller,Action,Comedy,-1,Thriller Action Comedy
+Armed and Dangerous,12.0,Action,Comedy,Crime,0,Action Comedy Crime
+The Texas Chain Saw Massacre,0.085,Horror,,,0,Horror
+The Texas Chainsaw Massacre 2,4.7,Horror,,,0,Horror
+Leatherface: Texas Chainsaw Massacre III,0.0,Horror,Thriller,,0,Horror Thriller
+Texas Chainsaw Massacre: The Next Generation,0.6,Horror,Comedy,Thriller,0,Horror Comedy Thriller
+Ruthless People,0.0,Comedy,,,0,Comedy
+Trick or Treat,0.0,Horror,Music,,132,Horror Music
+Deadly Friend,0.0,Horror,Science,Fiction,0,Horror Science Fiction
+Belizaire the Cajun,0.0,Romance,Drama,History,-1,Romance Drama History
+The Name of the Rose,20.0,Drama,Thriller,Mystery,0,Drama Thriller Mystery
+Jumpin' Jack Flash,0.0,Romance,Comedy,Thriller,51,Romance Comedy Thriller
+Peggy Sue Got Married,18.0,Comedy,Drama,Fantasy,0,Comedy Drama Fantasy
+Crocodile Dundee,5.0,Adventure,Comedy,,0,Adventure Comedy
+Crocodile Dundee II,0.0,Adventure,Comedy,,0,Adventure Comedy
+Tough Guys,0.0,Comedy,Crime,,0,Comedy Crime
+Soul Man,0.0,Comedy,,,0,Comedy
+The Color of Money,13.8,Drama,,,0,Drama
+52 Pick-Up,0.0,Crime,Drama,Thriller,-1,Crime Drama Thriller
+Heartbreak Ridge,15.0,Action,Comedy,Drama,-1,Action Comedy Drama
+Firewalker,0.0,Action,Adventure,Comedy,-1,Action Adventure Comedy
+¡Three Amigos!,25.0,Comedy,Western,,-1,Comedy Western
+Gloria,30.0,Drama,Action,Thriller,-1,Drama Action Thriller
+Dry Cleaning,0.0,Drama,,,90,Drama
+My Name Is Joe,0.0,Drama,Romance,,0,Drama Romance
+Still Crazy,0.0,Comedy,Music,,0,Comedy Music
+The Day of the Beast,0.0,Action,Comedy,Horror,0,Action Comedy Horror
+Tinseltown,0.0,,,,-1,
+She's All That,10.0,Comedy,Romance,,-1,Comedy Romance
+The 24 Hour Woman,0.0,Comedy,Romance,,0,Comedy Romance
+"Blood, Guts, Bullets and Octane",0.0073,Action,Comedy,Thriller,0,Action Comedy Thriller
+Peeping Tom,0.15,Horror,Thriller,,0,Horror Thriller
+Spanish Fly,0.0,,,,0,
+Payback,90.0,Drama,Action,Thriller,-1,Drama Action Thriller
+Simply Irresistible,6.0,Comedy,,,-1,Comedy
+20 Dates,0.0,Romance,Comedy,,-1,Romance Comedy
+Comedian Harmonists,0.0,Music,Drama,,-1,Music Drama
+The Last Days,0.0,Documentary,Drama,History,0,Documentary Drama History
+Fantastic Planet,0.0,Animation,Fantasy,Science,0,Animation Fantasy Science
+Blast from the Past,35.0,Comedy,Romance,,128,Comedy Romance
+Message in a Bottle,80.0,Romance,Drama,,16,Romance Drama
+My Favorite Martian,65.0,Comedy,Drama,Family,0,Comedy Drama Family
+"God Said, 'Ha!'",0.0,Comedy,,,0,Comedy
+Jawbreaker,3.0,Comedy,,,-1,Comedy
+October Sky,0.0,Drama,Family,,0,Drama Family
+Office Space,10.0,Comedy,Crime,,0,Comedy Crime
+The Apple,0.0,Drama,,,88,Drama
+200 Cigarettes,6.0,Comedy,Drama,Romance,-1,Comedy Drama Romance
+8MM,40.0,Thriller,Crime,Mystery,-1,Thriller Crime Mystery
+The Other Sister,35.0,Comedy,Drama,Romance,-1,Comedy Drama Romance
+Breakfast of Champions,12.0,Comedy,,,8,Comedy
+The Breaks,0.0,Comedy,,,-1,Comedy
+Eight Days a Week,0.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+Just the Ticket,12.0,Comedy,Romance,,0,Comedy Romance
+The Long Goodbye,0.0,Thriller,Crime,Drama,0,Thriller Crime Drama
+The Ballad of Narayama,0.0,Drama,,,78,Drama
+Pet Sematary,11.5,Drama,Horror,,0,Drama Horror
+Pet Sematary II,8.0,Horror,,,0,Horror
+Children of the Corn II: The Final Sacrifice,0.9,Horror,,,0,Horror
+Children of the Corn III: Urban Harvest,0.0,Thriller,Horror,,0,Thriller Horror
+Christine,0.0,Horror,,,-1,Horror
+Night Shift,0.0,Comedy,,,0,Comedy
+House on Haunted Hill,0.2,Drama,Horror,Thriller,0,Drama Horror Thriller
+Airport,10.0,Action,Drama,Thriller,133,Action Drama Thriller
+Airport 1975,3.0,Action,Adventure,Drama,133,Action Adventure Drama
+Airport '77,6.0,Action,Adventure,Drama,133,Action Adventure Drama
+Rollercoaster,0.0,Action,Thriller,,-1,Action Thriller
+The Towering Inferno,14.0,Action,Thriller,,-1,Action Thriller
+Alligator,1.5,Horror,Science,Fiction,104,Horror Science Fiction
+Meteor,0.0,Action,Science,Fiction,-1,Action Science Fiction
+Westworld,0.0,Action,Adventure,Drama,-1,Action Adventure Drama
+Logan's Run,9.0,Adventure,Action,Romance,0,Adventure Action Romance
+Planet of the Apes,5.8,Science,Fiction,Adventure,0,Science Fiction Adventure
+Beneath the Planet of the Apes,3.0,Adventure,Science,Fiction,0,Adventure Science Fiction
+Battle for the Planet of the Apes,1.7,Action,Science,Fiction,0,Action Science Fiction
+Conquest of the Planet of the Apes,1.7,Action,Science,Fiction,0,Action Science Fiction
+Escape from the Planet of the Apes,2.5,Action,Science,Fiction,0,Action Science Fiction
+Avalanche,6.5,Action,Adventure,Drama,-1,Action Adventure Drama
+Earthquake,7.0,Action,Drama,Thriller,-1,Action Drama Thriller
+The Concorde... Airport '79,14.0,Action,Drama,Thriller,133,Action Drama Thriller
+Beyond the Poseidon Adventure,0.0,Action,Adventure,Drama,0,Action Adventure Drama
+The Dancemaker,0.0,Documentary,,,-1,Documentary
+Analyze This,80.0,Comedy,Crime,,-1,Comedy Crime
+The Corruptor,25.0,Action,Crime,Mystery,-1,Action Crime Mystery
+Cruel Intentions,10.5,Drama,Romance,Thriller,68,Drama Romance Thriller
+"Lock, Stock and Two Smoking Barrels",1.35,Comedy,Crime,,-1,Comedy Crime
+Six Ways to Sunday,0.0,Comedy,,,134,Comedy
+The School of Flesh,0.0,Romance,Drama,Mystery,0,Romance Drama Mystery
+Relax... It's Just Sex,0.0,Comedy,,,0,Comedy
+The Deep End of the Ocean,38.0,Drama,Mystery,,0,Drama Mystery
+Harvest,0.0,Drama,,,-1,Drama
+The Rage: Carrie 2,21.0,Horror,Thriller,Science,103,Horror Thriller Science
+Wing Commander,30.0,Action,Science,Fiction,-1,Action Science Fiction
+The Haunting,0.0,Mystery,Horror,Thriller,135,Mystery Horror Thriller
+Dead Ringers,13.0,Drama,Horror,Thriller,0,Drama Horror Thriller
+My Boyfriend's Back,0.0,Comedy,Romance,,-1,Comedy Romance
+Village of the Damned,0.2,Horror,Science,Fiction,0,Horror Science Fiction
+Children of the Damned,0.0,Science,Fiction,Thriller,0,Science Fiction Thriller
+Baby Geniuses,12.0,Science,Fiction,Comedy,8,Science Fiction Comedy
+Telling You,0.0,Drama,Comedy,Romance,0,Drama Comedy Romance
+I Stand Alone,0.0,Drama,Thriller,,0,Drama Thriller
+Forces of Nature,75.0,Romance,Comedy,,0,Romance Comedy
+The King and I,25.0,Animation,Drama,Family,0,Animation Drama Family
+Ravenous,12.0,Comedy,Horror,Thriller,-1,Comedy Horror Thriller
+True Crime,0.0,Crime,Drama,,0,Crime Drama
+Bandits,0.0,Action,Drama,Foreign,0,Action Drama Foreign
+Dangerous Beauty,0.0,Drama,Romance,,0,Drama Romance
+The Empty Mirror,0.0,Drama,,,0,Drama
+The King and I,4.55,Drama,Music,Romance,0,Drama Music Romance
+Doug's 1st Movie,0.0,Animation,Family,Comedy,0,Animation Family Comedy
+Edtv,80.0,Comedy,,,-1,Comedy
+The Mod Squad,50.0,Action,Mystery,Thriller,-1,Action Mystery Thriller
+Among Giants,0.0,Comedy,Romance,,-1,Comedy Romance
+A Walk on the Moon,14.0,Drama,Romance,,0,Drama Romance
+The Matrix,63.0,Action,Science,Fiction,-1,Action Science Fiction
+10 Things I Hate About You,16.0,Comedy,Romance,Drama,0,Comedy Romance Drama
+Tango,0.0,Drama,Foreign,Romance,117,Drama Foreign Romance
+The Out-of-Towners,75.0,Comedy,,,-1,Comedy
+The Dreamlife of Angels,0.5,Drama,Foreign,,0,Drama Foreign
+"Love, etc.",0.0,,,,0,
+Metroland,0.0,Comedy,Drama,,-1,Comedy Drama
+The Sticky Fingers of Time,0.25,Science,Fiction,Drama,0,Science Fiction Drama
+Following,0.006,Crime,Drama,Thriller,-1,Crime Drama Thriller
+Go,6.5,Crime,Comedy,Thriller,-1,Crime Comedy Thriller
+Never Been Kissed,25.0,Romance,Comedy,Drama,113,Romance Comedy Drama
+Twin Dragons,10.0,Comedy,Action,,0,Comedy Action
+Cookie's Fortune,10.0,Comedy,Drama,Thriller,0,Comedy Drama Thriller
+Foolish,0.0,Comedy,Drama,,-1,Comedy Drama
+Lovers of the Arctic Circle,0.0,Drama,Mystery,Romance,0,Drama Mystery Romance
+Goodbye Lover,20.0,Thriller,Comedy,Crime,0,Thriller Comedy Crime
+Life,80.0,Comedy,Crime,,0,Comedy Crime
+Friends & Lovers,0.0,Comedy,Romance,Drama,0,Comedy Romance Drama
+Hideous Kinky,12.0,Romance,Drama,,-1,Romance Drama
+Jeanne and the Perfect Guy,0.0,Drama,,,0,Drama
+The Joyriders,0.0,,,,-1,
+The Monster,0.0,Comedy,,,-1,Comedy
+Open Your Eyes,2.9,Drama,Thriller,,0,Drama Thriller
+Photographer,0.0,TV,Movie,History,-1,TV Movie History
+SLC Punk,0.0,Crime,Romance,Comedy,-1,Crime Romance Comedy
+Lost & Found,1e-06,Comedy,Romance,,0,Comedy Romance
+Pushing Tin,33.0,Comedy,Drama,,0,Comedy Drama
+Election,0.0,Comedy,,,-1,Comedy
+eXistenZ,15.0,Action,Thriller,Science,-1,Action Thriller Science
+A Little Bit of Soul,0.0,,,,0,
+The Mighty Peking Man,0.0,Science,Fiction,Action,0,Science Fiction Action
+Nô,0.0,Drama,Foreign,,-1,Drama Foreign
+Let It Come Down: The Life of Paul Bowles,0.0,Documentary,,,0,Documentary
+Entrapment,66.0,Romance,Drama,Mystery,-1,Romance Drama Mystery
+Idle Hands,25.0,Thriller,Comedy,Horror,0,Thriller Comedy Horror
+Get Real,0.0,Drama,Romance,,101,Drama Romance
+Heaven,0.0,Crime,Thriller,,0,Crime Thriller
+The King of Masks,0.0,Drama,,,0,Drama
+Three Seasons,0.0,Drama,Foreign,,0,Drama Foreign
+The Winslow Boy,0.0,Drama,,,0,Drama
+Mildred Pierce,1.453,Crime,Drama,,-1,Crime Drama
+Night of the Comet,3.0,Comedy,Horror,Science,0,Comedy Horror Science
+Chopping Mall,0.8,Horror,Science,Fiction,-1,Horror Science Fiction
+My Science Project,0.0,Comedy,Family,Fantasy,81,Comedy Family Fantasy
+Dick Tracy,47.0,Adventure,Action,Comedy,136,Adventure Action Comedy
+The Mummy,80.0,Adventure,Action,Fantasy,0,Adventure Action Fantasy
+The Castle,0.786675,Drama,Comedy,,32,Drama Comedy
+Mascara,0.0,,,,-1,
+This Is My Father,0.0,Drama,Romance,,0,Drama Romance
+Xiu Xiu: The Sent-Down Girl,0.0,Drama,Foreign,,0,Drama Foreign
+A Midsummer Night's Dream,11.0,Fantasy,Drama,Comedy,0,Fantasy Drama Comedy
+Trippin',0.0,Comedy,Romance,,-1,Comedy Romance
+After Life,0.011791,Fantasy,Drama,,0,Fantasy Drama
+Black Mask,0.0,Action,,,0,Action
+Edge of Seventeen,1.5,Comedy,Drama,Romance,115,Comedy Drama Romance
+Endurance,0.0,Drama,,,-1,Drama
+Star Wars: Episode I - The Phantom Menace,115.0,Adventure,Action,Science,0,Adventure Action Science
+The Love Letter,0.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+Besieged,0.0,Drama,Romance,,-1,Drama Romance
+Frogs for Snakes,0.0,Thriller,Comedy,Crime,-1,Thriller Comedy Crime
+The Saragossa Manuscript,0.0,Comedy,Drama,Fantasy,-1,Comedy Drama Fantasy
+The Mummy,0.196,Horror,,,0,Horror
+The Mummy,0.0,Horror,,,0,Horror
+The Mummy's Curse,0.0,Horror,,,0,Horror
+The Mummy's Ghost,0.0,Horror,,,0,Horror
+The Mummy's Hand,0.0,Horror,,,0,Horror
+The Mummy's Tomb,0.0,Drama,Fantasy,Horror,0,Drama Fantasy Horror
+Mommie Dearest,0.0,Drama,,,-1,Drama
+Superman,55.0,Action,Adventure,Fantasy,0,Action Adventure Fantasy
+Superman II,54.0,Action,Adventure,Fantasy,0,Action Adventure Fantasy
+Superman III,39.0,Comedy,Action,Adventure,0,Comedy Action Adventure
+Superman IV: The Quest for Peace,17.0,Action,Adventure,Science,0,Action Adventure Science
+Dracula,0.355,Horror,,,0,Horror
+House of Dracula,0.0,Horror,Science,Fiction,0,Horror Science Fiction
+House of Frankenstein,0.0,Fantasy,Horror,Science,0,Fantasy Horror Science
+Frankenstein,0.291,Drama,Horror,Science,0,Drama Horror Science
+Son of Frankenstein,0.0,Horror,Science,Fiction,0,Horror Science Fiction
+The Ghost of Frankenstein,0.0,Fantasy,Horror,Science,0,Fantasy Horror Science
+Frankenstein Meets the Wolf Man,0.0,Fantasy,Horror,Science,0,Fantasy Horror Science
+The Curse of Frankenstein,0.0,Horror,Science,Fiction,0,Horror Science Fiction
+Son of Dracula,0.0,Fantasy,Horror,,0,Fantasy Horror
+The Wolf Man,0.0,Horror,Drama,,0,Horror Drama
+Howling II: Stirba - Werewolf Bitch,0.0,Thriller,Horror,,0,Thriller Horror
+Tarantula,0.0,Horror,Science,Fiction,-1,Horror Science Fiction
+The Rocky Horror Picture Show,1.2,Comedy,Horror,Music,0,Comedy Horror Music
+The Flying Saucer,0.0,Thriller,Science,Fiction,0,Thriller Science Fiction
+It Came from Hollywood,5.0,Comedy,Documentary,,0,Comedy Documentary
+The Thing from Another World,0.0,Horror,Science,Fiction,0,Horror Science Fiction
+It Came from Outer Space,0.0,Horror,Science,Fiction,0,Horror Science Fiction
+The War of the Worlds,2.0,Horror,Science,Fiction,0,Horror Science Fiction
+It Came from Beneath the Sea,0.0,Horror,Science,Fiction,0,Horror Science Fiction
+Invasion of the Body Snatchers,0.417,Horror,Science,Fiction,0,Horror Science Fiction
+Earth vs. the Flying Saucers,0.0,Action,Science,Fiction,0,Action Science Fiction
+It Conquered the World,0.0,Horror,Science,Fiction,0,Horror Science Fiction
+The Mole People,0.0,Adventure,Fantasy,Horror,0,Adventure Fantasy Horror
+Swamp Thing,3.0,Horror,Science,Fiction,0,Horror Science Fiction
+Pork Chop Hill,0.0,Action,War,Drama,0,Action War Drama
+"Run Silent, Run Deep",0.0,Drama,War,,0,Drama War
+Notting Hill,42.0,Romance,Comedy,Drama,0,Romance Comedy Drama
+The Thirteenth Floor,16.0,Thriller,Science,Fiction,-1,Thriller Science Fiction
+Eternity and a Day,0.0,Drama,,,0,Drama
+The Loss of Sexual Innocence,4.0,Drama,,,0,Drama
+Twice Upon a Yesterday,0.0,Comedy,Drama,Romance,-1,Comedy Drama Romance
+Instinct,80.0,Drama,Mystery,Thriller,47,Drama Mystery Thriller
+Buena Vista Social Club,0.0,Documentary,Music,,8,Documentary Music
+Desert Blue,0.0,Comedy,Drama,,0,Comedy Drama
+A Place at the Table,0.0,Documentary,,,90,Documentary
+Floating,0.0,Drama,,,-1,Drama
+Free Enterprise,0.0,Comedy,Romance,,0,Comedy Romance
+Limbo,8.0,Adventure,Drama,Thriller,-1,Adventure Drama Thriller
+Austin Powers: The Spy Who Shagged Me,33.0,Adventure,Comedy,Crime,0,Adventure Comedy Crime
+Promise Her Anything,0.0,Comedy,Drama,Fantasy,69,Comedy Drama Fantasy
+The Red Dwarf,0.0,Drama,Comedy,,0,Drama Comedy
+The Red Violin,18.0,Drama,Thriller,Mystery,0,Drama Thriller Mystery
+Tarzan,150.0,Adventure,Animation,Drama,0,Adventure Animation Drama
+The General's Daughter,60.0,Crime,Drama,Mystery,84,Crime Drama Mystery
+Get Bruce!,0.0,Comedy,Documentary,,-1,Comedy Documentary
+An Ideal Husband,14.0,Drama,Comedy,Romance,-1,Drama Comedy Romance
+The Legend of 1900,9.0,Fantasy,,,0,Fantasy
+Run Lola Run,1.53,Action,Drama,Thriller,0,Action Drama Thriller
+Trekkies,0.0,Documentary,,,-1,Documentary
+Big Daddy,34.2,Comedy,Drama,,0,Comedy Drama
+The Boys,0.0,Drama,,,0,Drama
+The Dinner Game,12.5,Comedy,,,0,Comedy
+My Son the Fanatic,0.0,Drama,Comedy,Foreign,0,Drama Comedy Foreign
+Zone 39,0.0,Science,Fiction,,0,Science Fiction
+Arachnophobia,31.0,Comedy,Horror,,-1,Comedy Horror
+"South Park: Bigger, Longer & Uncut",21.0,Animation,Comedy,Music,0,Animation Comedy Music
+Wild Wild West,170.0,Action,Adventure,Comedy,0,Action Adventure Comedy
+Summer of Sam,0.0,Thriller,Drama,Crime,0,Thriller Drama Crime
+Broken Vessels,0.0,Drama,,,13,Drama
+Les Amants du Pont-Neuf,28.0,Drama,Romance,,11,Drama Romance
+"Late August, Early September",0.0,Drama,Foreign,,0,Drama Foreign
+American Pie,11.0,Comedy,Romance,,0,Comedy Romance
+Arlington Road,21.5,Drama,Thriller,Mystery,0,Drama Thriller Mystery
+Autumn Tale,0.0,Drama,Romance,,14,Drama Romance
+Muppets from Space,24.0,Fantasy,Comedy,Science,0,Fantasy Comedy Science
+The Blair Witch Project,0.06,Horror,Mystery,,81,Horror Mystery
+My Life So Far,0.0,Comedy,Drama,,0,Comedy Drama
+Eyes Wide Shut,65.0,Mystery,Drama,,0,Mystery Drama
+Lake Placid,27.0,Horror,Comedy,Action,73,Horror Comedy Action
+The Wood,6.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+The Velocity of Gary,4.0,Drama,Romance,,58,Drama Romance
+Ghostbusters,30.0,Comedy,Fantasy,,0,Comedy Fantasy
+Ghostbusters II,37.0,Comedy,Fantasy,,0,Comedy Fantasy
+Drop Dead Gorgeous,10.0,Comedy,,,0,Comedy
+The Haunting,80.0,Horror,Thriller,Fantasy,135,Horror Thriller Fantasy
+Inspector Gadget,75.0,Action,Adventure,Comedy,84,Action Adventure Comedy
+Trick,0.45,Comedy,Romance,,132,Comedy Romance
+Deep Blue Sea,60.0,Action,Science,Fiction,0,Action Science Fiction
+Mystery Men,68.0,Adventure,Fantasy,Action,0,Adventure Fantasy Action
+Runaway Bride,70.0,Comedy,Romance,,0,Comedy Romance
+Twin Falls Idaho,0.0,Drama,Romance,,0,Drama Romance
+The Killing,0.32,Drama,Action,Thriller,50,Drama Action Thriller
+Killer's Kiss,0.075,Crime,Drama,Thriller,0,Crime Drama Thriller
+Spartacus,12.0,Action,Drama,History,-1,Action Drama History
+Lolita,2.0,Drama,Romance,,126,Drama Romance
+Barry Lyndon,11.0,Drama,Romance,War,-1,Drama Romance War
+The 400 Blows,0.0,Drama,,,-1,Drama
+Jules and Jim,0.0,Drama,Romance,,-1,Drama Romance
+Vibes,1.884,Romance,Action,Comedy,-1,Romance Action Comedy
+The Mosquito Coast,0.0,Adventure,Drama,,-1,Adventure Drama
+The Golden Child,25.0,Action,Adventure,Comedy,0,Action Adventure Comedy
+Brighton Beach Memoirs,0.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+Assassination,0.0,Drama,Action,Thriller,0,Drama Action Thriller
+Crimes of the Heart,0.0,Drama,Family,,0,Drama Family
+The Color Purple,15.0,Drama,,,0,Drama
+The Kindred,0.0,Horror,Science,Fiction,-1,Horror Science Fiction
+No Mercy,0.0,Action,Crime,Thriller,-1,Action Crime Thriller
+Ménage,0.0,Crime,Drama,Comedy,-1,Crime Drama Comedy
+Native Son,2.0,Drama,,,0,Drama
+Otello,0.0,,,,-1,
+The Mission,24.5,Adventure,Drama,Action,67,Adventure Drama Action
+Little Shop of Horrors,25.0,Horror,Comedy,Music,0,Horror Comedy Music
+The Little Shop of Horrors,0.03,Comedy,,,0,Comedy
+Allan Quatermain and the Lost City of Gold,0.0,Action,Adventure,Comedy,0,Action Adventure Comedy
+The Morning After,0.0,Crime,Drama,Mystery,-1,Crime Drama Mystery
+Radio Days,16.0,Comedy,Drama,,0,Comedy Drama
+From the Hip,0.0,Comedy,Drama,,-1,Comedy Drama
+Outrageous Fortune,0.0,Action,Comedy,Mystery,0,Action Comedy Mystery
+The Bedroom Window,0.0,Crime,Thriller,Mystery,0,Crime Thriller Mystery
+Deadtime Stories,0.0,Horror,Thriller,,-1,Horror Thriller
+Light of Day,0.0,Music,Drama,,0,Music Drama
+Wanted: Dead or Alive,0.0,Action,Thriller,Crime,0,Action Thriller Crime
+Frances,0.0,Drama,,,-1,Drama
+Plenty,0.0,Drama,Romance,,121,Drama Romance
+Dick,13.0,Comedy,,,136,Comedy
+The Gambler,0.0,,,,-1,
+The Iron Giant,70.0,Adventure,Animation,Family,0,Adventure Animation Family
+The Sixth Sense,40.0,Mystery,Thriller,Drama,4,Mystery Thriller Drama
+The Thomas Crown Affair,48.0,Drama,Crime,Romance,0,Drama Crime Romance
+The Thomas Crown Affair,4.3,Romance,Crime,Thriller,0,Romance Crime Thriller
+The Acid House,0.0,Comedy,Drama,,0,Comedy Drama
+The Adventures of Sebastian Cole,0.0,Drama,Comedy,,0,Drama Comedy
+Illuminata,0.0,Drama,,,-1,Drama
+Stiff Upper Lips,0.0,Comedy,,,-1,Comedy
+The Yards,0.0,Drama,Action,Thriller,-1,Drama Action Thriller
+Bowfinger,55.0,Comedy,,,-1,Comedy
+Brokedown Palace,25.0,Drama,Thriller,,20,Drama Thriller
+Detroit Rock City,6.5,Comedy,Music,,0,Comedy Music
+Alice and Martin,0.0,Drama,Romance,,0,Drama Romance
+Better Than Chocolate,0.0,Drama,Romance,,0,Drama Romance
+Head On,0.0,Drama,,,0,Drama
+Marcello Mastroianni: I Remember,0.0,Documentary,,,0,Documentary
+Cobra,0.0,Drama,Romance,,-1,Drama Romance
+Never Talk to Strangers,6.4,Thriller,Romance,,0,Thriller Romance
+Heaven Can Wait,0.0,Fantasy,Drama,Comedy,0,Fantasy Drama Comedy
+The Raven,0.35,Comedy,Fantasy,Horror,-1,Comedy Fantasy Horror
+The Tingler,0.25,Horror,,,-1,Horror
+The Pit and the Pendulum,0.2,Fantasy,Horror,Drama,0,Fantasy Horror Drama
+The Tomb of Ligeia,0.0,Horror,Drama,,0,Horror Drama
+The Masque of the Red Death,0.0,Drama,Horror,,0,Drama Horror
+Tales of Terror,0.0,Thriller,Comedy,Horror,0,Thriller Comedy Horror
+Haunted Honeymoon,0.0,Comedy,Horror,Music,72,Comedy Horror Music
+Cat's Eye,0.0,Comedy,Thriller,Horror,0,Comedy Thriller Horror
+And Now for Something Completely Different,0.0,Comedy,,,-1,Comedy
+Damien: Omen II,6.8,Action,Drama,Horror,0,Action Drama Horror
+Omen III: The Final Conflict,0.0,Drama,Horror,Thriller,0,Drama Horror Thriller
+Airplane!,3.5,Comedy,,,0,Comedy
+Airplane II: The Sequel,0.0,Comedy,,,0,Comedy
+An American Werewolf in Paris,22.0,Horror,Comedy,,0,Horror Comedy
+National Lampoon’s European Vacation,0.0,Adventure,Comedy,Romance,0,Adventure Comedy Romance
+National Lampoon's Vacation,15.0,Comedy,Adventure,Romance,0,Comedy Adventure Romance
+Funny Farm,0.0,Comedy,,,0,Comedy
+Big,18.0,Fantasy,Drama,Comedy,0,Fantasy Drama Comedy
+Problem Child,0.0,Comedy,,,0,Comedy
+Problem Child 2,0.0,Comedy,,,0,Comedy
+Little Nemo: Adventures In Slumberland,0.0,Adventure,Animation,Family,0,Adventure Animation Family
+Oscar and Lucinda,0.0,Drama,Romance,,-1,Drama Romance
+Tequila Sunrise,23.0,Action,Adventure,Crime,31,Action Adventure Crime
+The Pelican Brief,45.0,Drama,Mystery,Thriller,137,Drama Mystery Thriller
+A Christmas Story,0.0,Comedy,Family,,0,Comedy Family
+Mickey Blue Eyes,0.0,Comedy,Crime,Romance,0,Comedy Crime Romance
+Teaching Mrs. Tingle,13.0,Comedy,Thriller,,0,Comedy Thriller
+Universal Soldier: The Return,45.0,Action,Science,Fiction,0,Action Science Fiction
+Universal Soldier,23.0,Thriller,Action,Science,0,Thriller Action Science
+Love Stinks,0.0,Comedy,Romance,,0,Comedy Romance
+Perfect Blue,0.0,Animation,Thriller,,0,Animation Thriller
+With Friends Like These...,0.0,Horror,Science,Fiction,0,Horror Science Fiction
+In Too Deep,7.0,Drama,Action,Thriller,0,Drama Action Thriller
+The Source,0.0,Documentary,Foreign,,-1,Documentary Foreign
+The Bat,0.0,Horror,Mystery,Thriller,-1,Horror Mystery Thriller
+Iron Eagle,0.0,Action,Thriller,War,0,Action Thriller War
+Iron Eagle II,0.0,Action,Adventure,Drama,0,Action Adventure Drama
+Iron Eagle III,0.0,Action,Thriller,,0,Action Thriller
+Iron Eagle IV,0.0,Action,Adventure,,0,Action Adventure
+Three Days of the Condor,0.0,Action,Thriller,Mystery,0,Action Thriller Mystery
+Hamlet from the Lunt-Fontanne Theatre,0.0,,,,108,
+Male and Female,0.0,Adventure,Drama,,102,Adventure Drama
+Medicine Man,40.0,Adventure,,,0,Adventure
+The Spiders - The Golden Sea,0.0,Adventure,,,0,Adventure
+On the Ropes,0.0,,,,-1,
+Rosie,0.0,,,,-1,
+The 13th Warrior,160.0,Adventure,Fantasy,Action,0,Adventure Fantasy Action
+The Astronaut's Wife,75.0,Drama,Science,Fiction,0,Drama Science Fiction
+Dudley Do-Right,70.0,Comedy,Family,Romance,99,Comedy Family Romance
+The Muse,0.0,Fantasy,Comedy,,-1,Fantasy Comedy
+Cabaret Balkan,0.0,Drama,,,-1,Drama
+A Dog Of Flanders,0.0,Drama,Family,,0,Drama Family
+The Lost Son,0.0,Mystery,Thriller,,0,Mystery Thriller
+Lucie Aubrac,0.0,Drama,,,-1,Drama
+The Very Thought of You,0.0,Comedy,Romance,,-1,Comedy Romance
+Chill Factor,70.0,Action,Comedy,Thriller,-1,Action Comedy Thriller
+Outside Providence,7.0,Romance,Comedy,Drama,131,Romance Comedy Drama
+Bedrooms and Hallways,0.0,Comedy,Drama,Romance,-1,Comedy Drama Romance
+I Woke Up Early The Day I Died,0.0,Comedy,,,0,Comedy
+West Beyrouth,0.0,Romance,Drama,Comedy,0,Romance Drama Comedy
+Stigmata,29.0,Horror,,,-1,Horror
+Stir of Echoes,12.0,Horror,Mystery,Thriller,-1,Horror Mystery Thriller
+Best Laid Plans,0.0,Drama,Thriller,Crime,0,Drama Thriller Crime
+"Black Cat, White Cat",0.0,Comedy,Romance,,0,Comedy Romance
+The Minus Man,0.0,Drama,Thriller,,0,Drama Thriller
+Whiteboyz,0.0,Comedy,Drama,Music,-1,Comedy Drama Music
+The Adventures of Milo and Otis,0.0,Adventure,Drama,Family,0,Adventure Drama Family
+Only Angels Have Wings,0.0,Action,Adventure,Drama,0,Action Adventure Drama
+Othello,0.0,Drama,Romance,,6,Drama Romance
+Queens Logic,0.0,Comedy,Drama,,-1,Comedy Drama
+Public Access,0.0,Drama,Thriller,,-1,Drama Thriller
+A Soldier's Story,6.0,Drama,Mystery,War,0,Drama Mystery War
+Alice Sweet Alice,0.34,Horror,Mystery,Thriller,0,Horror Mystery Thriller
+Don't Look in the Basement,0.0,Horror,Thriller,,0,Horror Thriller
+Nightmares,0.0,Science,Fiction,Horror,-1,Science Fiction Horror
+I Saw What You Did,0.0,Horror,Mystery,Thriller,0,Horror Mystery Thriller
+Yellow Submarine,0.0,Animation,Fantasy,Music,-1,Animation Fantasy Music
+American Beauty,15.0,Drama,,,0,Drama
+Stop Making Sense,1.2,Documentary,Music,,4,Documentary Music
+Blue Streak,65.0,Action,Comedy,Crime,0,Action Comedy Crime
+For Love of the Game,50.0,Drama,Romance,,0,Drama Romance
+Caligula,17.5,Drama,History,Romance,-1,Drama History Romance
+A Hard Day's Night,0.56,Comedy,Music,,0,Comedy Music
+Splendor,0.0,Comedy,,,-1,Comedy
+Sugar Town,0.0,Comedy,,,0,Comedy
+The Buddy Holly Story,1.2,Drama,,,0,Drama
+Fright Night,9.0,Horror,,,0,Horror
+Fright Night Part 2,0.0,Comedy,Horror,,0,Comedy Horror
+La séparation,0.0,Drama,Foreign,,15,Drama Foreign
+Barefoot in the Park,0.0,Comedy,Romance,,0,Comedy Romance
+Deliverance,2.0,Drama,Adventure,Thriller,-1,Drama Adventure Thriller
+Excalibur,11.0,Fantasy,Adventure,,-1,Fantasy Adventure
+Lulu on the Bridge,0.0,Drama,Mystery,Romance,0,Drama Mystery Romance
+The Pajama Game,0.0,Comedy,Music,,0,Comedy Music
+Sommersby,0.0,Drama,Thriller,Mystery,-1,Drama Thriller Mystery
+Thumbelina,28.0,Animation,Drama,Family,-1,Animation Drama Family
+Tommy,5.0,Drama,Music,,0,Drama Music
+Hell Night,0.0,Horror,,,0,Horror
+Armour of God II: Operation Condor,0.0,Action,Adventure,Crime,0,Action Adventure Crime
+Armour of God,15.0,Adventure,Action,Comedy,0,Adventure Action Comedy
+Double Jeopardy,70.0,Crime,Drama,Mystery,0,Crime Drama Mystery
+Jakob the Liar,0.0,Comedy,Drama,History,111,Comedy Drama History
+Mumford,0.0,Comedy,Drama,Romance,-1,Comedy Drama Romance
+Dog Park,0.0,Romance,Comedy,,0,Romance Comedy
+Guinevere,2.6,Drama,Romance,,-1,Drama Romance
+The Adventures of Elmo in Grouchland,0.0,Family,,,0,Family
+Simon Sez,0.0,Action,Comedy,Thriller,130,Action Comedy Thriller
+Drive Me Crazy,8.0,Drama,Comedy,Romance,0,Drama Comedy Romance
+"Mystery, Alaska",28.0,Drama,Comedy,,77,Drama Comedy
+Three Kings,75.0,Action,Adventure,Comedy,0,Action Adventure Comedy
+"Happy, Texas",1.7,Comedy,Crime,,0,Comedy Crime
+New Rose Hotel,0.0,Drama,Science,Fiction,0,Drama Science Fiction
+Plunkett & MacLeane,0.0,Drama,Action,Comedy,-1,Drama Action Comedy
+Romance,0.0,Romance,Drama,Comedy,0,Romance Drama Comedy
+Napoleon and Samantha,0.0,Action,Adventure,Drama,-1,Action Adventure Drama
+Alvarez Kelly,0.0,Action,War,Western,-1,Action War Western
+And the Ship Sails On,0.0,Comedy,Drama,Foreign,-1,Comedy Drama Foreign
+The Dark Half,15.0,Mystery,Horror,,0,Mystery Horror
+Gulliver's Travels,0.0,Action,Adventure,Animation,138,Action Adventure Animation
+Monkey Shines,7.0,Thriller,Drama,Horror,61,Thriller Drama Horror
+Phantasm,0.3,Horror,Science,Fiction,-1,Horror Science Fiction
+Psycho II,5.0,Horror,Mystery,Thriller,0,Horror Mystery Thriller
+Psycho III,0.0,Horror,Thriller,,0,Horror Thriller
+Rain,0.0,Drama,,,0,Drama
+Sanjuro,0.0,Drama,Action,Comedy,-1,Drama Action Comedy
+Random Hearts,64.0,Drama,Romance,,0,Drama Romance
+Superstar,0.0,Comedy,Family,,-1,Comedy Family
+Boys Don't Cry,2.0,Crime,Drama,,0,Crime Drama
+"Five Wives, Three Secretaries and Me",0.0,Documentary,,,8,Documentary
+L'ennui,0.0,Drama,Romance,,-1,Drama Romance
+The Grandfather,0.0,Drama,Foreign,,-1,Drama Foreign
+The Limey,10.0,Action,Crime,Drama,-1,Action Crime Drama
+The Mating Habits of the Earthbound Human,0.0,Comedy,Romance,Science,0,Comedy Romance Science
+Molly,0.0,Drama,Comedy,Romance,-1,Drama Comedy Romance
+Risky Business,6.2,Comedy,Romance,,74,Comedy Romance
+Total Recall,65.0,Action,Adventure,Science,28,Action Adventure Science
+Body Heat,0.0,Drama,Thriller,Crime,0,Drama Thriller Crime
+Ferris Bueller's Day Off,6.0,Comedy,,,0,Comedy
+The Year of Living Dangerously,6.0,War,Drama,Romance,0,War Drama Romance
+Children of Paradise,0.0,Drama,Romance,,0,Drama Romance
+High Plains Drifter,5.5,Western,,,0,Western
+Hang 'em High,1.8,Western,,,0,Western
+Citizen's Band,0.0,Comedy,,,83,Comedy
+Drunken Master,0.0,Action,Comedy,,-1,Action Comedy
+The Conformist,0.75,Drama,,,-1,Drama
+Hairspray,0.0,Comedy,Family,Music,-1,Comedy Family Music
+Brief Encounter,0.0,Drama,Romance,,137,Drama Romance
+The Razor's Edge,0.0,Drama,,,115,Drama
+Reds,32.0,Drama,History,,-1,Drama History
+Return with Honor,1.0,Documentary,,,0,Documentary
+Time of the Gypsies,0.0,Drama,Comedy,Crime,0,Drama Comedy Crime
+Days of Heaven,0.0,Drama,Romance,,0,Drama Romance
+The Fire Within,0.0,Drama,,,-1,Drama
+El Amor Brujo,0.0,,,,-1,
+The Lady Eve,0.0,Comedy,Romance,,0,Comedy Romance
+Sullivan's Travels,0.689665,Adventure,Comedy,Drama,138,Adventure Comedy Drama
+The Palm Beach Story,0.0,Comedy,Romance,,0,Comedy Romance
+Man Facing Southeast,0.0,Mystery,Science,Fiction,0,Mystery Science Fiction
+Niagara,1.25,Crime,Drama,Thriller,119,Crime Drama Thriller
+Gilda,0.0,Drama,Romance,Thriller,-1,Drama Romance Thriller
+South Pacific,6.0,Music,Romance,War,0,Music Romance War
+Flashdance,4.0,Drama,Music,Romance,-1,Drama Music Romance
+Indochine,0.0,Drama,Romance,,-1,Drama Romance
+The Dirty Dozen,5.4,Action,Adventure,War,44,Action Adventure War
+Mike's Murder,0.0,Drama,Mystery,Thriller,0,Drama Mystery Thriller
+Help!,1.5,Comedy,Music,,-1,Comedy Music
+Goldfinger,2.5,Adventure,Action,Thriller,-1,Adventure Action Thriller
+From Russia with Love,2.0,Action,Thriller,Adventure,0,Action Thriller Adventure
+Dr. No,0.95,Adventure,Action,Thriller,3,Adventure Action Thriller
+The Blue Lagoon,4.5,Romance,Adventure,Drama,0,Romance Adventure Drama
+A Fistful of Dollars,0.2,Western,,,-1,Western
+Hard Eight,3.0,Drama,Thriller,,0,Drama Thriller
+Home Alone 2: Lost in New York,18.0,Comedy,Family,Adventure,0,Comedy Family Adventure
+Penitentiary,0.0,Action,Drama,,0,Action Drama
+Penitentiary II,0.0,Action,Thriller,,0,Action Thriller
+Someone to Watch Over Me,17.0,Crime,Drama,Romance,-1,Crime Drama Romance
+Sparrows,0.463455,Drama,,,79,Drama
+Naturally Native,0.7,Drama,,,0,Drama
+Fight Club,63.0,Drama,,,8,Drama
+Beefcake,0.0,Drama,History,Documentary,-1,Drama History Documentary
+The Story of Us,50.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+Fever Pitch,0.0,Comedy,Romance,,0,Comedy Romance
+Joe the King,0.0,Crime,Drama,,0,Crime Drama
+Julien Donkey-Boy,0.0,Comedy,Drama,,0,Comedy Drama
+The Omega Code,0.0,Horror,Thriller,,-1,Horror Thriller
+The Straight Story,10.0,Drama,,,0,Drama
+The Bad Seed,0.0,Crime,Drama,Horror,0,Crime Drama Horror
+Time Bandits,5.0,Family,Fantasy,Science,0,Family Fantasy Science
+A Man and a Woman,0.0,Drama,Romance,,0,Drama Romance
+Fitzcarraldo,7.362,Action,Adventure,Drama,-1,Action Adventure Drama
+All That Jazz,0.0,Drama,Music,,-1,Drama Music
+Red Sorghum,0.0,Drama,War,,0,Drama War
+Crimes and Misdemeanors,19.0,Comedy,Drama,,0,Comedy Drama
+Bats,0.0,Horror,Thriller,,-1,Horror Thriller
+The Best Man,9.0,Drama,Comedy,,0,Drama Comedy
+Bringing Out the Dead,32.0,Drama,,,0,Drama
+Crazy in Alabama,0.0,Comedy,Drama,,0,Comedy Drama
+Three to Tango,20.0,Comedy,Romance,,117,Comedy Romance
+Body Shots,0.0,Drama,Romance,,0,Drama Romance
+Men Cry Bullets,0.0,Comedy,Drama,,0,Comedy Drama
+Brother Can You Spare A Dime,0.0,Documentary,,,0,Documentary
+The Guardian,0.0,Drama,Horror,Mystery,8,Drama Horror Mystery
+The Ipcress File,0.0,Thriller,,,-1,Thriller
+On Any Sunday,0.0,Documentary,,,134,Documentary
+RoboCop,13.0,Action,Thriller,Science,52,Action Thriller Science
+RoboCop 2,35.0,Action,Adventure,Crime,52,Action Adventure Crime
+Who Framed Roger Rabbit,70.0,Fantasy,Animation,Comedy,127,Fantasy Animation Comedy
+Melvin and Howard,0.0,Comedy,Drama,,100,Comedy Drama
+For Your Eyes Only,28.0,Adventure,Action,Thriller,0,Adventure Action Thriller
+Licence to Kill,32.0,Adventure,Action,Thriller,0,Adventure Action Thriller
+Live and Let Die,7.0,Adventure,Action,Thriller,0,Adventure Action Thriller
+Rawhead Rex,0.0,Horror,,,66,Horror
+Thunderball,5.5,Adventure,Action,Thriller,-1,Adventure Action Thriller
+The City,0.0,Drama,,,0,Drama
+House on Haunted Hill,19.0,Horror,Mystery,Thriller,0,Horror Mystery Thriller
+Music of the Heart,27.0,Drama,,,0,Drama
+Being John Malkovich,13.0,Fantasy,Drama,Comedy,0,Fantasy Drama Comedy
+Dreaming of Joseph Lees,2.0,Romance,Drama,,-1,Romance Drama
+Man Of The Century,0.0,Romance,Comedy,,0,Romance Comedy
+Princess Mononoke,26.5,Adventure,Fantasy,Animation,0,Adventure Fantasy Animation
+The Suburbans,0.0,Comedy,Drama,,-1,Comedy Drama
+My Best Fiend,0.0,Documentary,,,0,Documentary
+Train of Life,0.15479,Drama,Comedy,War,0,Drama Comedy War
+The Bachelor,51.0,Comedy,,,-1,Comedy
+The Bone Collector,73.0,Drama,Mystery,Thriller,0,Drama Mystery Thriller
+The Insider,90.0,Drama,Thriller,,-1,Drama Thriller
+American Movie,0.0,Documentary,,,0,Documentary
+Last Night,0.0,Romance,Drama,Science,0,Romance Drama Science
+Portraits Chinois,0.0,Drama,Comedy,,-1,Drama Comedy
+Rosetta,0.0,Drama,,,-1,Drama
+"They Shoot Horses, Don't They?",0.0,Drama,,,0,Drama
+Battling Butler,0.0,Drama,Comedy,,-1,Drama Comedy
+Bride of Re-Animator,2.0,Comedy,Horror,Science,0,Comedy Horror Science
+Bustin' Loose,0.0,Adventure,Comedy,,-1,Adventure Comedy
+Coma,0.0,Thriller,Mystery,Drama,-1,Thriller Mystery Drama
+Creepshow,8.0,Horror,Comedy,Fantasy,139,Horror Comedy Fantasy
+Creepshow 2,3.5,Horror,,,139,Horror
+Re-Animator,0.9,Science,Fiction,Comedy,0,Science Fiction Comedy
+Drugstore Cowboy,2.5,Crime,Drama,,0,Crime Drama
+Falling Down,25.0,Crime,Drama,Thriller,0,Crime Drama Thriller
+The Funhouse,0.0,Horror,,,-1,Horror
+The General,0.75,Action,Adventure,Comedy,84,Action Adventure Comedy
+My Best Girl,0.483103,Drama,Comedy,Romance,0,Drama Comedy Romance
+Piranha,0.66,Horror,,,-1,Horror
+Rough Night in Jericho,0.0,Western,,,0,Western
+Slaughterhouse,0.0,Horror,,,-1,Horror
+The Taming of the Shrew,0.0,Comedy,Drama,Romance,-1,Comedy Drama Romance
+Nighthawks,5.0,Action,Crime,Thriller,-1,Action Crime Thriller
+Yojimbo,0.0,Drama,Thriller,,-1,Drama Thriller
+Repossessed,0.0,Comedy,Horror,,-1,Comedy Horror
+The Omega Man,0.0,Action,Science,Fiction,0,Action Science Fiction
+Spaceballs,22.7,Comedy,Science,Fiction,-1,Comedy Science Fiction
+Robin Hood,15.0,Animation,Family,,0,Animation Family
+Mister Roberts,0.0,Comedy,Drama,Family,98,Comedy Drama Family
+Quest for Fire,12.0,Adventure,Drama,,0,Adventure Drama
+Little Big Man,15.0,Adventure,Western,History,0,Adventure Western History
+A Face in the Crowd,0.0,Drama,,,0,Drama
+Trading Places,40.6,Comedy,,,0,Comedy
+Meatballs,0.0,Comedy,,,0,Comedy
+Meatballs Part II,0.0,Comedy,,,0,Comedy
+Meatballs III: Summer Job,0.0,Comedy,,,0,Comedy
+Meatballs 4,0.0,Comedy,,,0,Comedy
+Dead Again,0.0,Thriller,,,0,Thriller
+Peter's Friends,0.0,Comedy,Drama,,0,Comedy Drama
+The Incredibly True Adventure of Two Girls In Love,0.0,Comedy,Drama,Romance,0,Comedy Drama Romance
+Experience Preferred...But Not Essential,0.0,Comedy,,,-1,Comedy
+Under the Rainbow,20.0,Comedy,,,-1,Comedy
+How I Won the War,0.0,Comedy,War,,0,Comedy War
+Light It Up,0.0,Drama,Thriller,,0,Drama Thriller
+Anywhere But Here,23.0,Drama,Comedy,Romance,-1,Drama Comedy Romance
+Dogma,10.0,Fantasy,Comedy,Adventure,-1,Fantasy Comedy Adventure
+The Messenger: The Story of Joan of Arc,60.0,Adventure,Drama,Action,0,Adventure Drama Action
+Pokémon: The First Movie: Mewtwo Strikes Back,30.0,Animation,,,0,Animation
+Felicia's Journey,0.0,Drama,,,0,Drama
+Oxygen,0.0,Mystery,Thriller,Crime,-1,Mystery Thriller Crime
+Where's Marlowe?,0.0,Comedy,Mystery,Thriller,-1,Comedy Mystery Thriller
+The Ape,0.0,Drama,Horror,Science,-1,Drama Horror Science
+British Intelligence,0.0,Action,Adventure,,-1,Action Adventure
+The Commitments,0.0,Comedy,Drama,Music,-1,Comedy Drama Music
+Holiday Inn,0.0,Comedy,Drama,Music,17,Comedy Drama Music
+The Longest Day,10.0,Action,Drama,History,0,Action Drama History
+Poison Ivy,0.0,Thriller,,,0,Thriller
+Poison Ivy: The New Seduction,0.0,Thriller,Romance,,0,Thriller Romance
+Ten Benny,0.0,Drama,Action,,109,Drama Action
+Tora! Tora! Tora!,25.485,History,Action,Drama,-1,History Action Drama
+Women on the Verge of a Nervous Breakdown,0.7,Comedy,Drama,,0,Comedy Drama
+The Verdict,16.0,Drama,,,-1,Drama
+The Effect of Gamma Rays on Man-in-the-Moon Marigolds,0.0,Drama,,,0,Drama
+The Adventures of Buckaroo Banzai Across the 8th Dimension,0.0,Comedy,Science,Fiction,0,Comedy Science Fiction
+Stand and Deliver,0.0,Drama,,,0,Drama
+Moonstruck,0.0,Comedy,Drama,Romance,-1,Comedy Drama Romance
+The Sandpiper,0.0,Drama,Romance,,-1,Drama Romance
+Jeremiah Johnson,0.0,Adventure,Western,,-1,Adventure Western
+Repulsion,0.3,Drama,Horror,Thriller,-1,Drama Horror Thriller
+Irma la Douce,0.0,Comedy,Romance,,15,Comedy Romance
+42 Up,0.0,Documentary,Foreign,,-1,Documentary Foreign
+Liberty Heights,0.0,Drama,,,-1,Drama
+Mansfield Park,0.0,Drama,Romance,,0,Drama Romance
+"Goodbye, 20th Century",0.0,Adventure,Comedy,Fantasy,0,Adventure Comedy Fantasy
+Sleepy Hollow,100.0,Drama,Fantasy,Thriller,114,Drama Fantasy Thriller
+The World Is Not Enough,135.0,Adventure,Action,Thriller,0,Adventure Action Thriller
+All About My Mother,8.272296,Comedy,Drama,,0,Comedy Drama
+Home Page,0.0,Documentary,,,0,Documentary
+The Living Dead Girl,0.0,Horror,,,0,Horror
+Babes in Toyland,0.0,Comedy,,,125,Comedy
+Scrooged,0.0,Fantasy,Comedy,Drama,-1,Fantasy Comedy Drama
+Harvey,0.0,Comedy,Drama,,-1,Comedy Drama
+Bicycle Thieves,0.133,Drama,,,0,Drama
+Matewan,4.0,Drama,,,-1,Drama
+Kagemusha,0.0,Action,Drama,History,-1,Action Drama History
+47 Samurai,0.0,History,Drama,Action,0,History Drama Action
+McCabe & Mrs. Miller,0.0,Western,,,0,Western
+Maurice,0.0,Drama,Romance,,-1,Drama Romance
+The Grapes of Wrath,0.75,Drama,,,120,Drama
+My Man Godfrey,0.0,Comedy,,,0,Comedy
+The Shop Around the Corner,0.0,Comedy,Romance,,0,Comedy Romance
+The Natural,28.0,Drama,,,0,Drama
+Shampoo,0.0,Comedy,Drama,Romance,-1,Comedy Drama Romance
+A River Runs Through It,0.0,Drama,,,0,Drama
+Fatal Attraction,14.0,Romance,Drama,Thriller,47,Romance Drama Thriller
+Jagged Edge,15.0,Mystery,Thriller,,115,Mystery Thriller
+Stanley & Iris,23.0,Drama,Romance,,-1,Drama Romance
+Midnight Run,30.0,Adventure,Comedy,Crime,0,Adventure Comedy Crime
+Awakenings,0.0,Drama,,,-1,Drama
+Come See the Paradise,0.0,Drama,Romance,History,0,Drama Romance History
+Backdraft,75.0,Action,Crime,Drama,-1,Action Crime Drama
+The Fisher King,24.0,Comedy,Drama,,0,Comedy Drama
+The River,18.0,Drama,,,0,Drama
+Country,0.0,Drama,,,0,Drama
+Places in the Heart,0.0,Drama,Family,,0,Drama Family
+"'night, Mother",0.0,Drama,,,0,Drama
+End of Days,100.0,Action,Fantasy,Horror,0,Action Fantasy Horror
+Toy Story 2,90.0,Animation,Comedy,Family,0,Animation Comedy Family
+Flawless,0.0,Comedy,Drama,,-1,Comedy Drama
+Miss Julie,0.0,Drama,,,29,Drama
+Ride with the Devil,38.0,Drama,War,Romance,0,Drama War Romance
+Tumbleweeds,0.312,Comedy,Drama,,-1,Comedy Drama
+A Bay of Blood,0.0,Horror,Thriller,,0,Horror Thriller
