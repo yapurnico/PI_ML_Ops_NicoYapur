@@ -67,7 +67,7 @@ Después de realizar pruebas, opté por utilizar el modelo 'cosine_similarity' y
 
 Aquí comparto dos enlaces, el primero a mi API desplegada en Render, y el segundo a un video que muestra mi API desplegada exitosamente en Render y siendo probada.
 
-- [Probar API](https://ml-ops-nicolasyapur.onrender.com)
+- [Probar API](https://ml-ops-nicolasyapur.onrender.com/docs)
 - [Ver Video](https://drive.google.com/file/d/18MQcUIgLEWf9Jd8glf7hqRUjE89EJ20d/view?usp=sharing)
 
 ## Archivos Adicionales
